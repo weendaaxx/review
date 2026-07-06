@@ -1,0 +1,1037 @@
+[
+  {
+    "question": "According to the DSM-5-TR, which characteristic is essential for a psychological disorder?",
+    "choices": [
+      "Behavior that violates social norms.",
+      "A clinically significant disturbance in cognition, emotion regulation, or behavior associated with distress or impairment.",
+      "Any behavior that is culturally unusual.",
+      "Behavior that differs from the majority of people."
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "explanation": "The DSM-5-TR defines a mental disorder as a syndrome characterized by a clinically significant disturbance in cognition, emotion regulation, or behavior that reflects dysfunction in psychological, biological, or developmental processes. The disturbance must usually be associated with significant distress or impairment in functioning. Simply violating social norms or behaving differently from others does not necessarily indicate a mental disorder.",
+    "incorrectExplanations": {
+      "0": "Many socially unacceptable behaviors are not mental disorders.",
+      "2": "Cultural differences should not automatically be pathologized.",
+      "3": "Unusual behavior alone does not constitute psychopathology."
+    },
+    "boardTip": "For the board exam, remember that distress and/or functional impairment are central features of most psychological disorders.",
+    "keywords": [
+      "DSM-5-TR",
+      "Psychological Disorder",
+      "Distress",
+      "Functional Impairment",
+      "Diagnosis"
+    ]
+  },
+  {
+    "question": "Which model explains psychological disorders as resulting from the interaction of biological, psychological, and social factors?",
+    "choices": [
+      "Behavioral Model",
+      "Medical Model",
+      "Biopsychosocial Model",
+      "Humanistic Model"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Understand",
+    "explanation": "The biopsychosocial model proposes that psychological disorders arise from the interaction of biological factors (e.g., genetics, neurochemistry), psychological factors (e.g., cognition, coping), and social factors (e.g., relationships, culture, environment). This is the dominant framework used in contemporary mental health practice.",
+    "incorrectExplanations": {
+      "0": "The behavioral model emphasizes learning principles but does not fully account for biological and social influences.",
+      "1": "The medical model focuses primarily on biological causes.",
+      "3": "The humanistic model emphasizes personal growth and self-actualization rather than integrating biological and social factors."
+    },
+    "boardTip": "If a question includes genes + thoughts + environment, the answer is almost always the biopsychosocial model.",
+    "keywords": [
+      "Biopsychosocial Model",
+      "Biological Factors",
+      "Psychological Factors",
+      "Social Factors",
+      "Psychopathology"
+    ]
+  },
+  {
+    "question": "Which statement BEST describes the primary purpose of the DSM-5-TR?",
+    "choices": [
+      "To explain the causes of all mental disorders.",
+      "To classify and provide diagnostic criteria for mental disorders.",
+      "To recommend psychological treatments.",
+      "To measure personality traits."
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "explanation": "The DSM-5-TR is primarily a diagnostic classification system. It provides standardized diagnostic criteria to improve consistency and communication among mental health professionals. It does not explain the causes of disorders or prescribe specific treatments.",
+    "incorrectExplanations": {
+      "0": "The DSM-5-TR is descriptive rather than explanatory.",
+      "2": "Treatment planning requires clinical judgment and evidence beyond the DSM.",
+      "3": "Personality assessment is performed using psychological tests, not the DSM."
+    },
+    "boardTip": "Think of the DSM-5-TR as a classification manual, not a theory of psychopathology.",
+    "keywords": [
+      "DSM-5-TR",
+      "Diagnosis",
+      "Classification",
+      "Diagnostic Criteria",
+      "Mental Disorders"
+    ]
+  },
+  {
+    "question": "A clinician avoids diagnosing culturally accepted spiritual experiences as psychotic symptoms.\n\nWhich principle is being applied?",
+    "choices": [
+      "Criterion validity",
+      "Cultural context in diagnosis",
+      "Test-retest reliability",
+      "Internal consistency"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Understand",
+    "explanation": "The DSM-5-TR emphasizes that clinicians should consider cultural beliefs and practices before diagnosing psychopathology. Experiences that are normative within a person's cultural or religious context should not automatically be interpreted as symptoms of mental illness.",
+    "incorrectExplanations": {
+      "0": "Criterion validity concerns relationships with external criteria.",
+      "2": "Test-retest reliability concerns score stability.",
+      "3": "Internal consistency concerns relationships among test items."
+    },
+    "boardTip": "Always ask: 'Is this behavior abnormal within the person's cultural context?'",
+    "keywords": [
+      "Cultural Context",
+      "DSM-5-TR",
+      "Diagnosis",
+      "Cultural Competence",
+      "Psychopathology"
+    ]
+  },
+  {
+    "question": "Which disorder is characterized by persistent deficits in social communication and restricted, repetitive patterns of behavior beginning in early development?",
+    "choices": [
+      "Attention-Deficit/Hyperactivity Disorder",
+      "Autism Spectrum Disorder",
+      "Specific Learning Disorder",
+      "Social Anxiety Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "explanation": "Autism Spectrum Disorder (ASD) is defined by persistent deficits in social communication and social interaction, along with restricted or repetitive behaviors, interests, or activities. Symptoms begin in the early developmental period and interfere with functioning.",
+    "incorrectExplanations": {
+      "0": "ADHD primarily involves inattention and/or hyperactivity-impulsivity.",
+      "2": "Specific Learning Disorder affects academic skills rather than social communication.",
+      "3": "Social Anxiety Disorder involves fear of social situations, not pervasive developmental deficits."
+    },
+    "boardTip": "Remember the two core domains of ASD: (1) Social communication deficits and (2) Restricted and repetitive behaviors.",
+    "keywords": [
+      "Autism Spectrum Disorder",
+      "ASD",
+      "DSM-5-TR",
+      "Social Communication",
+      "Restricted Behaviors",
+      "Neurodevelopmental Disorders"
+    ]
+  },
+  {
+    "question": "A 9-year-old child has exhibited persistent inattention, forgetfulness, and difficulty sustaining attention across both home and school for more than six months. These symptoms interfere with academic performance and social functioning.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Autism Spectrum Disorder",
+      "Attention-Deficit/Hyperactivity Disorder (Predominantly Inattentive Presentation)",
+      "Oppositional Defiant Disorder",
+      "Specific Learning Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Understand",
+    "explanation": "The child's symptoms are characteristic of ADHD, Predominantly Inattentive Presentation. According to the DSM-5-TR, symptoms must persist for at least 6 months, be inconsistent with developmental level, occur in two or more settings, interfere with functioning, and have several symptoms present before age 12. The case specifically highlights inattentive symptoms without evidence of hyperactivity or impulsivity.",
+    "incorrectExplanations": {
+      "0": "Autism Spectrum Disorder requires deficits in social communication and restricted, repetitive behaviors.",
+      "2": "Oppositional Defiant Disorder involves angry, argumentative, and defiant behavior rather than inattention.",
+      "3": "Specific Learning Disorder primarily affects academic skills and does not explain generalized inattention across settings."
+    },
+    "boardTip": "For ADHD, remember the 'Rule of Two': symptoms occur in two or more settings and several symptoms are present before age 12.",
+    "keywords": [
+      "ADHD",
+      "Predominantly Inattentive Presentation",
+      "DSM-5-TR",
+      "Neurodevelopmental Disorders",
+      "Attention"
+    ]
+  },
+  {
+    "question": "Which symptom is considered a positive symptom of schizophrenia?",
+    "choices": [
+      "Flat affect",
+      "Avolition",
+      "Hallucinations",
+      "Social withdrawal"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "explanation": "Positive symptoms are excesses or distortions of normal functioning. These include hallucinations, delusions, disorganized speech, and grossly disorganized or catatonic behavior. Negative symptoms reflect a reduction or loss of normal functioning.",
+    "incorrectExplanations": {
+      "0": "Flat affect is a negative symptom.",
+      "1": "Avolition is a negative symptom.",
+      "3": "Social withdrawal is commonly associated with negative symptoms."
+    },
+    "boardTip": "Positive symptoms add abnormal experiences. Negative symptoms take away normal functioning.",
+    "keywords": [
+      "Schizophrenia",
+      "Positive Symptoms",
+      "Hallucinations",
+      "DSM-5-TR",
+      "Psychotic Disorders"
+    ]
+  },
+  {
+    "question": "A client reports experiencing persistent sadness, loss of interest in previously enjoyable activities, fatigue, and feelings of worthlessness nearly every day for the past three weeks.\n\nWhich diagnosis is MOST likely?",
+    "choices": [
+      "Persistent Depressive Disorder",
+      "Major Depressive Disorder",
+      "Cyclothymic Disorder",
+      "Adjustment Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Understand",
+    "explanation": "The client demonstrates several symptoms of a Major Depressive Episode, including depressed mood, loss of interest (anhedonia), fatigue, and feelings of worthlessness. These symptoms have persisted for more than two weeks, meeting the minimum duration required for Major Depressive Disorder, assuming other DSM-5-TR criteria are met.",
+    "incorrectExplanations": {
+      "0": "Persistent Depressive Disorder requires symptoms lasting at least two years.",
+      "2": "Cyclothymic Disorder involves fluctuating hypomanic and depressive symptoms over at least two years.",
+      "3": "Adjustment Disorder requires symptoms directly related to an identifiable stressor and does not necessarily meet criteria for a major depressive episode."
+    },
+    "boardTip": "For Major Depressive Disorder, always remember the 2-week minimum duration.",
+    "keywords": [
+      "Major Depressive Disorder",
+      "Depression",
+      "Anhedonia",
+      "DSM-5-TR",
+      "Mood Disorders"
+    ]
+  },
+  {
+    "question": "Which anxiety disorder is characterized by recurrent unexpected panic attacks followed by persistent concern about having additional attacks or maladaptive behavioral changes?",
+    "choices": [
+      "Specific Phobia",
+      "Generalized Anxiety Disorder",
+      "Panic Disorder",
+      "Social Anxiety Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "explanation": "Panic Disorder is characterized by recurrent unexpected panic attacks, persistent worry about future attacks or their consequences, and behavioral changes intended to avoid additional attacks. Unexpected panic attacks distinguish Panic Disorder from anxiety disorders in which panic occurs only in response to specific feared situations.",
+    "incorrectExplanations": {
+      "0": "Specific Phobia involves fear of a particular object or situation.",
+      "1": "Generalized Anxiety Disorder involves excessive worry across multiple domains rather than recurrent panic attacks.",
+      "3": "Social Anxiety Disorder centers on fear of negative evaluation in social situations."
+    },
+    "boardTip": "Unexpected panic attacks → Panic Disorder. Expected panic attacks → Often another anxiety disorder.",
+    "keywords": [
+      "Panic Disorder",
+      "Panic Attacks",
+      "Anxiety Disorders",
+      "DSM-5-TR",
+      "Fear"
+    ]
+  },
+  {
+    "question": "A client repeatedly performs excessive handwashing because of intrusive thoughts about contamination. The client recognizes that these thoughts are irrational but feels unable to resist the behavior.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Illness Anxiety Disorder",
+      "Obsessive-Compulsive Disorder",
+      "Generalized Anxiety Disorder",
+      "Delusional Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Understand",
+    "explanation": "The client exhibits obsessions (intrusive thoughts about contamination) and compulsions (repetitive handwashing performed to reduce anxiety). Importantly, the client recognizes that the thoughts are excessive, which is common in individuals with OCD who have good or fair insight.",
+    "incorrectExplanations": {
+      "0": "Illness Anxiety Disorder involves excessive concern about having a serious illness rather than contamination rituals.",
+      "2": "Generalized Anxiety Disorder involves persistent worry across many life domains but does not include obsessions and compulsions.",
+      "3": "Delusional Disorder involves fixed false beliefs that are not recognized as irrational."
+    },
+    "boardTip": "Obsession = intrusive thought. Compulsion = repetitive behavior performed to reduce anxiety caused by the obsession.",
+    "keywords": [
+      "Obsessive-Compulsive Disorder",
+      "OCD",
+      "Obsessions",
+      "Compulsions",
+      "DSM-5-TR"
+    ]
+  },
+   {
+    "question": "A client experiences one week of abnormally elevated mood, decreased need for sleep, grandiosity, excessive talkativeness, and engages in risky financial decisions. The symptoms result in hospitalization.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Cyclothymic Disorder",
+      "Bipolar II Disorder",
+      "Bipolar I Disorder",
+      "Persistent Depressive Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Understand",
+    "explanation": "The client is experiencing a manic episode characterized by elevated or irritable mood, increased energy, decreased need for sleep, grandiosity, excessive talkativeness, risky behavior, and marked impairment requiring hospitalization. According to the DSM-5-TR, a single manic episode is sufficient for a diagnosis of Bipolar I Disorder.",
+    "incorrectExplanations": {
+      "0": "Cyclothymic Disorder involves numerous hypomanic and depressive symptoms that never meet full criteria for manic or major depressive episodes.",
+      "1": "Bipolar II Disorder requires at least one hypomanic episode and one major depressive episode, but no history of mania.",
+      "3": "Persistent Depressive Disorder involves chronic depressive symptoms rather than manic episodes."
+    },
+    "boardTip": "Hospitalization due to mania → Think Bipolar I Disorder.",
+    "keywords": [
+      "Bipolar I Disorder",
+      "Mania",
+      "Mood Disorders",
+      "DSM-5-TR",
+      "Hospitalization"
+    ]
+  },
+  {
+    "question": "Which disorder requires at least one hypomanic episode and one major depressive episode, but no history of mania?",
+    "choices": [
+      "Bipolar I Disorder",
+      "Cyclothymic Disorder",
+      "Bipolar II Disorder",
+      "Major Depressive Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "explanation": "Bipolar II Disorder requires at least one hypomanic episode and at least one major depressive episode, with no history of a manic episode. If mania occurs, the diagnosis changes to Bipolar I Disorder.",
+    "incorrectExplanations": {
+      "0": "Bipolar I Disorder requires at least one manic episode.",
+      "1": "Cyclothymic Disorder involves chronic subthreshold hypomanic and depressive symptoms that never meet full episode criteria.",
+      "3": "Major Depressive Disorder involves depressive episodes without hypomanic or manic episodes."
+    },
+    "boardTip": "No mania = Bipolar II. Mania = Bipolar I.",
+    "keywords": [
+      "Bipolar II Disorder",
+      "Hypomania",
+      "Major Depressive Episode",
+      "Mood Disorders",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client develops intrusive memories, nightmares, hypervigilance, and avoidance behaviors three months after surviving a serious motor vehicle accident.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Acute Stress Disorder",
+      "Generalized Anxiety Disorder",
+      "Posttraumatic Stress Disorder",
+      "Panic Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Understand",
+    "explanation": "Posttraumatic Stress Disorder requires exposure to a traumatic event followed by intrusion symptoms, avoidance, negative alterations in cognition or mood, increased arousal, and symptoms lasting longer than one month. Because the symptoms have persisted for three months, PTSD is the most appropriate diagnosis.",
+    "incorrectExplanations": {
+      "0": "Acute Stress Disorder lasts from 3 days to 1 month following trauma.",
+      "1": "Generalized Anxiety Disorder involves excessive worry that is not specifically trauma-related.",
+      "3": "Panic Disorder is characterized by recurrent unexpected panic attacks rather than trauma-related symptoms."
+    },
+    "boardTip": "Less than 1 month → Acute Stress Disorder. More than 1 month → PTSD.",
+    "keywords": [
+      "Posttraumatic Stress Disorder",
+      "PTSD",
+      "Trauma",
+      "Stress Disorders",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "Which dissociative disorder is characterized by an inability to recall important autobiographical information, usually related to trauma or stress?",
+    "choices": [
+      "Depersonalization/Derealization Disorder",
+      "Dissociative Identity Disorder",
+      "Dissociative Amnesia",
+      "Brief Psychotic Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "explanation": "Dissociative Amnesia involves an inability to recall important autobiographical information that cannot be explained by ordinary forgetting or neurological conditions. The memory loss is often associated with traumatic or stressful experiences.",
+    "incorrectExplanations": {
+      "0": "Depersonalization/Derealization Disorder involves feeling detached from oneself or one's surroundings.",
+      "1": "Dissociative Identity Disorder involves the presence of two or more distinct personality states.",
+      "3": "Brief Psychotic Disorder is characterized by the sudden onset of psychotic symptoms."
+    },
+    "boardTip": "Trauma + memory loss = Dissociative Amnesia.",
+    "keywords": [
+      "Dissociative Amnesia",
+      "Dissociative Disorders",
+      "Memory Loss",
+      "Trauma",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client persistently worries about having a serious illness despite repeated normal medical evaluations and minimal physical symptoms.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Somatic Symptom Disorder",
+      "Illness Anxiety Disorder",
+      "Factitious Disorder",
+      "Conversion Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Understand",
+    "explanation": "Illness Anxiety Disorder is characterized by excessive concern about having or developing a serious illness despite having little or no somatic symptoms. Medical reassurance provides only temporary relief, and the health-related anxiety persists.",
+    "incorrectExplanations": {
+      "0": "Somatic Symptom Disorder involves one or more distressing physical symptoms accompanied by excessive thoughts or behaviors.",
+      "2": "Factitious Disorder involves intentionally producing or feigning symptoms without obvious external rewards.",
+      "3": "Conversion Disorder involves neurological symptoms that are incompatible with recognized neurological or medical conditions."
+    },
+    "boardTip": "Few symptoms + excessive health anxiety = Illness Anxiety Disorder.",
+    "keywords": [
+      "Illness Anxiety Disorder",
+      "Somatic Disorders",
+      "Health Anxiety",
+      "DSM-5-TR",
+      "Differential Diagnosis"
+    ]
+  },
+    {
+    "question": "Which eating disorder is characterized by recurrent binge eating followed by compensatory behaviors such as self-induced vomiting or excessive exercise?",
+    "choices": [
+      "Anorexia Nervosa",
+      "Avoidant/Restrictive Food Intake Disorder",
+      "Bulimia Nervosa",
+      "Binge-Eating Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "explanation": "Bulimia Nervosa is characterized by recurrent episodes of binge eating, a sense of loss of control during the binge, recurrent inappropriate compensatory behaviors (e.g., self-induced vomiting, misuse of laxatives, fasting, or excessive exercise), and self-evaluation that is unduly influenced by body shape and weight.",
+    "incorrectExplanations": {
+      "0": "Anorexia Nervosa is characterized by significantly low body weight, restriction of energy intake, and intense fear of gaining weight.",
+      "1": "Avoidant/Restrictive Food Intake Disorder involves restricted food intake without body image disturbance.",
+      "3": "Binge-Eating Disorder involves recurrent binge eating but does not include regular compensatory behaviors."
+    },
+    "boardTip": "Binge + Purge = Bulimia Nervosa.",
+    "keywords": [
+      "Bulimia Nervosa",
+      "Eating Disorders",
+      "Binge Eating",
+      "Compensatory Behaviors",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "Which disorder involves repeated episodes of consuming unusually large amounts of food without regular compensatory behaviors?",
+    "choices": [
+      "Bulimia Nervosa",
+      "Binge-Eating Disorder",
+      "Anorexia Nervosa",
+      "Rumination Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Understand",
+    "explanation": "Binge-Eating Disorder is characterized by recurrent episodes of binge eating accompanied by distress and a sense of loss of control, but without the regular compensatory behaviors seen in Bulimia Nervosa.",
+    "incorrectExplanations": {
+      "0": "Bulimia Nervosa includes recurrent compensatory behaviors following binge eating.",
+      "2": "Anorexia Nervosa primarily involves restricted energy intake and significantly low body weight.",
+      "3": "Rumination Disorder involves repeated regurgitation of food rather than binge eating."
+    },
+    "boardTip": "Bulimia = binge + compensation. BED = binge only.",
+    "keywords": [
+      "Binge-Eating Disorder",
+      "Eating Disorders",
+      "Binge Eating",
+      "DSM-5-TR",
+      "Differential Diagnosis"
+    ]
+  },
+  {
+    "question": "Which sleep-wake disorder is characterized by excessive daytime sleepiness and sudden episodes of sleep?",
+    "choices": [
+      "Insomnia Disorder",
+      "Narcolepsy",
+      "Nightmare Disorder",
+      "Restless Legs Syndrome"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "explanation": "Narcolepsy is characterized by excessive daytime sleepiness and recurrent irresistible episodes of falling asleep. It may also be accompanied by cataplexy, sleep paralysis, and hypnagogic hallucinations.",
+    "incorrectExplanations": {
+      "0": "Insomnia Disorder involves difficulty initiating or maintaining sleep rather than excessive sleepiness.",
+      "2": "Nightmare Disorder involves repeated distressing dreams that disrupt sleep.",
+      "3": "Restless Legs Syndrome involves uncomfortable sensations in the legs that create an urge to move them."
+    },
+    "boardTip": "Sudden sleep attacks = Narcolepsy.",
+    "keywords": [
+      "Narcolepsy",
+      "Sleep-Wake Disorders",
+      "Excessive Daytime Sleepiness",
+      "Cataplexy",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client continues using alcohol despite repeated legal problems, relationship conflicts, and unsuccessful attempts to stop drinking.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Alcohol Intoxication",
+      "Alcohol Withdrawal",
+      "Alcohol Use Disorder",
+      "Antisocial Personality Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Understand",
+    "explanation": "Alcohol Use Disorder is characterized by a problematic pattern of alcohol use leading to clinically significant impairment or distress. Diagnostic features include impaired control over drinking, continued use despite negative consequences, social impairment, risky use, and possible tolerance or withdrawal.",
+    "incorrectExplanations": {
+      "0": "Alcohol Intoxication refers to the immediate behavioral and physiological effects of recent alcohol consumption.",
+      "1": "Alcohol Withdrawal occurs after reducing or stopping prolonged heavy alcohol use.",
+      "3": "Antisocial Personality Disorder does not account for the persistent problematic pattern of alcohol use described."
+    },
+    "boardTip": "Continued use despite negative consequences is a hallmark of substance use disorders.",
+    "keywords": [
+      "Alcohol Use Disorder",
+      "Substance Use Disorders",
+      "Alcohol",
+      "DSM-5-TR",
+      "Addiction"
+    ]
+  },
+  {
+    "question": "Which neurocognitive disorder is characterized by progressive decline in memory and other cognitive functions, with Alzheimer's disease being its most common cause?",
+    "choices": [
+      "Delirium",
+      "Mild Neurocognitive Disorder",
+      "Major Neurocognitive Disorder",
+      "Amnestic Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "explanation": "Major Neurocognitive Disorder is characterized by significant cognitive decline in one or more cognitive domains that interferes with independence in everyday activities. Alzheimer's disease is the most common cause of Major Neurocognitive Disorder.",
+    "incorrectExplanations": {
+      "0": "Delirium develops rapidly, fluctuates throughout the day, and is usually caused by an underlying medical condition or substance.",
+      "1": "Mild Neurocognitive Disorder involves modest cognitive decline that does not substantially interfere with independent functioning.",
+      "2": "Amnestic Disorder is no longer a diagnosis recognized in the DSM-5-TR."
+    },
+    "boardTip": "Loss of independence distinguishes Major from Mild Neurocognitive Disorder.",
+    "keywords": [
+      "Major Neurocognitive Disorder",
+      "Alzheimer's Disease",
+      "Neurocognitive Disorders",
+      "Dementia",
+      "DSM-5-TR"
+    ]
+  },
+   {
+    "question": "A 30-year-old accountant reports excessive worry about finances, health, work performance, and family responsibilities. She finds it difficult to control her worry, experiences muscle tension, fatigue, irritability, and difficulty sleeping. Symptoms have persisted for nine months.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Panic Disorder",
+      "Generalized Anxiety Disorder",
+      "Adjustment Disorder with Anxiety",
+      "Illness Anxiety Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The client demonstrates the hallmark features of Generalized Anxiety Disorder (GAD): excessive anxiety and worry occurring more days than not, difficulty controlling the worry, worry across multiple life domains, associated symptoms such as muscle tension, fatigue, irritability, and sleep disturbance, with symptoms lasting longer than six months. These findings satisfy the DSM-5-TR criteria for GAD.",
+    "incorrectExplanations": {
+      "0": "Panic Disorder is characterized by recurrent unexpected panic attacks rather than chronic, generalized worry.",
+      "2": "Adjustment Disorder develops in response to an identifiable stressor and typically does not persist this long after the stressor.",
+      "3": "Illness Anxiety Disorder primarily involves excessive fear of having a serious illness."
+    },
+    "boardTip": "\"Many worries + 6 months\" = Generalized Anxiety Disorder.",
+    "keywords": [
+      "Generalized Anxiety Disorder",
+      "DSM-5-TR",
+      "Anxiety Disorders",
+      "Duration",
+      "Excessive Worry"
+    ]
+  },
+  {
+    "question": "A college student experiences intense fear whenever required to give class presentations. She worries that others will judge her negatively and has begun avoiding courses requiring oral reports. She functions normally with close friends.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Avoidant Personality Disorder",
+      "Panic Disorder",
+      "Social Anxiety Disorder",
+      "Agoraphobia"
+    ],
+    "answer": 2,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The student's anxiety is specifically triggered by situations involving possible negative evaluation. Her symptoms are limited to performance situations rather than all interpersonal relationships, making Social Anxiety Disorder the most appropriate diagnosis.",
+    "incorrectExplanations": {
+      "0": "Avoidant Personality Disorder involves pervasive social inhibition across multiple relationships and situations.",
+      "1": "Panic Disorder is characterized by recurrent unexpected panic attacks.",
+      "3": "Agoraphobia involves fear of situations where escape may be difficult or help unavailable."
+    },
+    "boardTip": "Fear of embarrassment or negative evaluation points to Social Anxiety Disorder.",
+    "keywords": [
+      "Social Anxiety Disorder",
+      "Performance Anxiety",
+      "Negative Evaluation",
+      "DSM-5-TR",
+      "Anxiety Disorders"
+    ]
+  },
+  {
+    "question": "A 42-year-old man repeatedly visits different physicians because he believes he has stomach cancer despite numerous negative medical evaluations. His physical symptoms are minimal.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Somatic Symptom Disorder",
+      "Illness Anxiety Disorder",
+      "Factitious Disorder",
+      "Delusional Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The client's primary concern is excessive fear of having a serious illness despite little objective evidence of disease and minimal physical symptoms. This pattern is characteristic of Illness Anxiety Disorder.",
+    "incorrectExplanations": {
+      "0": "Somatic Symptom Disorder requires distressing somatic symptoms that are the primary focus of concern.",
+      "2": "Factitious Disorder involves intentional falsification or production of symptoms.",
+      "3": "Delusional Disorder involves fixed false beliefs that are not readily reassured by evidence."
+    },
+    "boardTip": "Minimal symptoms + excessive illness fear = Illness Anxiety Disorder.",
+    "keywords": [
+      "Illness Anxiety Disorder",
+      "Somatic Disorders",
+      "Health Anxiety",
+      "DSM-5-TR",
+      "Differential Diagnosis"
+    ]
+  },
+  {
+    "question": "Following a robbery, a client experiences intrusive memories, nightmares, hypervigilance, and avoidance for three weeks.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Posttraumatic Stress Disorder",
+      "Acute Stress Disorder",
+      "Adjustment Disorder",
+      "Panic Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The client developed trauma-related symptoms following exposure to a traumatic event, but the symptoms have lasted only three weeks. According to the DSM-5-TR, Acute Stress Disorder is diagnosed when symptoms persist from 3 days to 1 month after trauma.",
+    "incorrectExplanations": {
+      "0": "Posttraumatic Stress Disorder requires symptoms lasting longer than one month.",
+      "2": "Adjustment Disorder does not include the characteristic trauma-related symptom clusters seen here.",
+      "3": "Panic Disorder is characterized by recurrent unexpected panic attacks rather than trauma-specific symptoms."
+    },
+    "boardTip": "Always check the timeline in trauma questions: 3 days–1 month = Acute Stress Disorder; >1 month = PTSD.",
+    "keywords": [
+      "Acute Stress Disorder",
+      "PTSD",
+      "Trauma",
+      "DSM-5-TR",
+      "Duration"
+    ]
+  },
+  {
+    "question": "A client reports hearing voices commenting on his behavior. He also demonstrates flat affect, avolition, and social withdrawal. Symptoms have persisted for eight months, causing occupational impairment.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Brief Psychotic Disorder",
+      "Schizophreniform Disorder",
+      "Schizophrenia",
+      "Delusional Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The client demonstrates hallucinations, negative symptoms, occupational impairment, and symptom duration exceeding six months. These findings satisfy the DSM-5-TR diagnostic criteria for Schizophrenia.",
+    "incorrectExplanations": {
+      "0": "Brief Psychotic Disorder lasts less than one month.",
+      "1": "Schizophreniform Disorder lasts between one and six months.",
+      "3": "Delusional Disorder usually lacks prominent hallucinations, negative symptoms, and marked functional impairment."
+    },
+    "boardTip": "Timeline matters: <1 month = Brief Psychotic Disorder; 1–6 months = Schizophreniform Disorder; >6 months = Schizophrenia.",
+    "keywords": [
+      "Schizophrenia",
+      "Psychotic Disorders",
+      "Hallucinations",
+      "Negative Symptoms",
+      "DSM-5-TR"
+    ]
+  },
+   {
+    "question": "A woman has experienced chronic depressed mood for three years without symptom-free periods lasting more than two months. She denies any history of mania or hypomania.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Major Depressive Disorder",
+      "Bipolar II Disorder",
+      "Persistent Depressive Disorder",
+      "Cyclothymic Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Persistent Depressive Disorder (Dysthymia) requires chronic depressive symptoms lasting at least two years in adults, with no symptom-free interval lasting longer than two months. The absence of manic or hypomanic episodes further supports this diagnosis.",
+    "incorrectExplanations": {
+      "0": "Major Depressive Disorder may occur in episodes and does not require chronic symptoms lasting two years.",
+      "1": "Bipolar II Disorder requires at least one hypomanic episode and one major depressive episode.",
+      "3": "Cyclothymic Disorder involves fluctuating hypomanic and depressive symptoms rather than persistent depressive symptoms alone."
+    },
+    "boardTip": "Chronic depression lasting more than two years with no history of mania or hypomania suggests Persistent Depressive Disorder.",
+    "keywords": [
+      "Persistent Depressive Disorder",
+      "Dysthymia",
+      "Depressive Disorders",
+      "DSM-5-TR",
+      "Duration"
+    ]
+  },
+  {
+    "question": "A client repeatedly pulls out her hair despite numerous attempts to stop. She experiences increasing tension before pulling and relief afterward.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Excoriation Disorder",
+      "Trichotillomania",
+      "Obsessive-Compulsive Disorder",
+      "Body Dysmorphic Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Trichotillomania (Hair-Pulling Disorder) is characterized by recurrent hair pulling resulting in hair loss, repeated attempts to stop, and clinically significant distress or impairment. Although feelings of tension before pulling and relief afterward may occur, they are no longer required DSM-5-TR criteria.",
+    "incorrectExplanations": {
+      "0": "Excoriation Disorder involves recurrent skin picking rather than hair pulling.",
+      "2": "Obsessive-Compulsive Disorder is characterized by obsessions and compulsions rather than repetitive hair pulling.",
+      "3": "Body Dysmorphic Disorder involves excessive concern about perceived appearance flaws rather than hair-pulling behavior."
+    },
+    "boardTip": "Hair pulling = Trichotillomania. Skin picking = Excoriation Disorder.",
+    "keywords": [
+      "Trichotillomania",
+      "Hair-Pulling Disorder",
+      "Obsessive-Compulsive and Related Disorders",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A patient insists that strangers on television are sending secret messages meant specifically for him. His speech is organized, and no hallucinations are reported.\n\nWhich symptom is MOST evident?",
+    "choices": [
+      "Thought broadcasting",
+      "Delusion of reference",
+      "Persecutory delusion",
+      "Auditory hallucination"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "A delusion of reference is the false belief that neutral events, such as television programs, newspapers, or songs, contain messages specifically directed toward oneself. This best fits the client's presentation.",
+    "incorrectExplanations": {
+      "0": "Thought broadcasting is the belief that one's thoughts are accessible to others.",
+      "2": "Persecutory delusions involve beliefs that one is being harmed, followed, or conspired against.",
+      "3": "Auditory hallucinations involve hearing voices or sounds that are not actually present."
+    },
+    "boardTip": "Television, radio, newspapers, or songs carrying 'special messages' to the individual usually indicate a delusion of reference.",
+    "keywords": [
+      "Delusion of Reference",
+      "Psychotic Symptoms",
+      "Schizophrenia Spectrum",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client reports persistent fear of riding elevators because escape would be difficult if panic symptoms occurred. She has begun avoiding malls and office buildings.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Specific Phobia",
+      "Panic Disorder",
+      "Agoraphobia",
+      "Social Anxiety Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Agoraphobia involves fear or avoidance of situations where escape may be difficult or help unavailable if panic-like symptoms occur. The client's avoidance of elevators, malls, and office buildings reflects fear across multiple situations consistent with Agoraphobia.",
+    "incorrectExplanations": {
+      "0": "Specific Phobia is generally limited to a single feared object or situation.",
+      "1": "Panic Disorder does not require avoidance of multiple situations because of escape concerns.",
+      "3": "Social Anxiety Disorder centers on fear of negative evaluation by others."
+    },
+    "boardTip": "Fear of being unable to escape or obtain help during panic-like symptoms points to Agoraphobia.",
+    "keywords": [
+      "Agoraphobia",
+      "Anxiety Disorders",
+      "Panic",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client presents with depressed mood, insomnia, and poor concentration that began two months after losing her job. Although distressed, she does not meet the full criteria for Major Depressive Disorder, and her symptoms are clearly linked to the stressor.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Major Depressive Disorder",
+      "Persistent Depressive Disorder",
+      "Adjustment Disorder with Depressed Mood",
+      "Generalized Anxiety Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Adjustment Disorder with Depressed Mood occurs when emotional or behavioral symptoms develop in response to an identifiable stressor and do not meet the full criteria for another mental disorder. The close temporal relationship between job loss and symptom onset supports this diagnosis.",
+    "incorrectExplanations": {
+      "0": "The client does not meet the full diagnostic criteria for Major Depressive Disorder.",
+      "1": "Persistent Depressive Disorder requires depressive symptoms lasting at least two years.",
+      "3": "Generalized Anxiety Disorder is characterized by excessive, difficult-to-control worry across multiple life domains rather than primarily depressed mood."
+    },
+    "boardTip": "If symptoms develop after an identifiable stressor but fall short of another disorder's criteria, think Adjustment Disorder.",
+    "keywords": [
+      "Adjustment Disorder",
+      "Depressed Mood",
+      "Stress-Related Disorders",
+      "DSM-5-TR"
+    ]
+  },
+    {
+    "question": "A 28-year-old woman experiences recurrent panic attacks that occur without warning. She now refuses to ride buses, enter shopping malls, or attend concerts because she fears she might panic and be unable to escape.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Panic Disorder",
+      "Agoraphobia",
+      "Panic Disorder with Agoraphobia",
+      "Social Anxiety Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Although the client experiences panic attacks, the primary problem is her persistent fear and avoidance of situations where escape might be difficult if panic symptoms occur. Under the DSM-5-TR, Panic Disorder and Agoraphobia are diagnosed separately rather than as a combined diagnosis. Since the vignette emphasizes pervasive avoidance across multiple settings, Agoraphobia is the most appropriate diagnosis.",
+    "incorrectExplanations": {
+      "0": "Panic Disorder explains the recurrent panic attacks but not the extensive situational avoidance described in the vignette.",
+      "2": "\"Panic Disorder with Agoraphobia\" was a DSM-IV diagnosis and is no longer recognized in the DSM-5-TR.",
+      "3": "Social Anxiety Disorder involves fear of negative evaluation rather than fear of being unable to escape during panic-like symptoms."
+    },
+    "boardTip": "A favorite board exam trick is using outdated DSM-IV terminology. Remember that Panic Disorder and Agoraphobia are separate diagnoses in DSM-5-TR.",
+    "keywords": [
+      "Agoraphobia",
+      "Panic Disorder",
+      "DSM-5-TR",
+      "Anxiety Disorders",
+      "Avoidance"
+    ]
+  },
+  {
+    "question": "A client spends four hours each day arranging household objects until they feel \"exactly right.\" She recognizes the behavior is unreasonable but becomes extremely anxious if interrupted.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Obsessive-Compulsive Personality Disorder",
+      "Obsessive-Compulsive Disorder",
+      "Autism Spectrum Disorder",
+      "Generalized Anxiety Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The repetitive arranging behavior is a compulsion performed to reduce anxiety. The client recognizes that the behavior is excessive, demonstrating good insight, which is common in Obsessive-Compulsive Disorder.",
+    "incorrectExplanations": {
+      "0": "Obsessive-Compulsive Personality Disorder involves perfectionism and rigidity but does not involve true obsessions or compulsions.",
+      "2": "Repetitive behaviors in Autism Spectrum Disorder are not typically driven by intrusive obsessions.",
+      "3": "Generalized Anxiety Disorder involves excessive worry rather than compulsive rituals."
+    },
+    "boardTip": "Differentiate OCD from OCPD: OCD is ego-dystonic ('I hate these thoughts'), whereas OCPD is ego-syntonic ('This is simply the right way').",
+    "keywords": [
+      "Obsessive-Compulsive Disorder",
+      "Compulsions",
+      "Obsessions",
+      "OCPD",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A man believes his coworkers secretly admire him and are sending romantic messages through ordinary workplace conversations. Despite repeated evidence to the contrary, he maintains this belief. His behavior is otherwise organized, and no hallucinations are present.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Schizophrenia",
+      "Delusional Disorder",
+      "Schizophreniform Disorder",
+      "Brief Psychotic Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The client demonstrates a non-bizarre delusion without hallucinations, disorganized speech, grossly disorganized behavior, or significant functional decline. This presentation is most consistent with Delusional Disorder.",
+    "incorrectExplanations": {
+      "0": "Schizophrenia requires additional psychotic symptoms and marked functional impairment.",
+      "2": "Schizophreniform Disorder requires broader psychotic symptoms lasting between one and six months.",
+      "3": "Brief Psychotic Disorder lasts less than one month."
+    },
+    "boardTip": "An isolated delusion with otherwise relatively normal functioning is characteristic of Delusional Disorder.",
+    "keywords": [
+      "Delusional Disorder",
+      "Psychotic Disorders",
+      "Delusions",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "Following an argument with her spouse, a woman suddenly loses movement in both legs. Neurological examination and imaging reveal no medical explanation.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Factitious Disorder",
+      "Conversion Disorder (Functional Neurological Symptom Disorder)",
+      "Somatic Symptom Disorder",
+      "Illness Anxiety Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Conversion Disorder involves neurological symptoms such as paralysis, blindness, or seizures that are incompatible with recognized neurological or medical conditions. Symptoms often occur following psychological stress and are not intentionally produced.",
+    "incorrectExplanations": {
+      "0": "Factitious Disorder involves the intentional production or falsification of symptoms.",
+      "2": "Somatic Symptom Disorder focuses on excessive thoughts and distress regarding physical symptoms rather than unexplained neurological deficits.",
+      "3": "Illness Anxiety Disorder centers on fear of having a serious illness despite minimal physical symptoms."
+    },
+    "boardTip": "Neurological symptoms without neurological disease, especially after psychological stress, suggest Conversion Disorder.",
+    "keywords": [
+      "Conversion Disorder",
+      "Functional Neurological Symptom Disorder",
+      "Somatic Symptom Disorders",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client reports recurrent binge eating episodes followed by self-induced vomiting twice weekly for four months. Her weight remains within the normal range.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Anorexia Nervosa",
+      "Bulimia Nervosa",
+      "Binge-Eating Disorder",
+      "Avoidant/Restrictive Food Intake Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Bulimia Nervosa is characterized by recurrent binge eating followed by compensatory behaviors such as vomiting, laxative misuse, fasting, or excessive exercise. Individuals with Bulimia Nervosa are often of normal weight, distinguishing the disorder from Anorexia Nervosa.",
+    "incorrectExplanations": {
+      "0": "Anorexia Nervosa requires significantly low body weight resulting from restricted energy intake.",
+      "2": "Binge-Eating Disorder involves recurrent binge eating without regular compensatory behaviors.",
+      "3": "Avoidant/Restrictive Food Intake Disorder involves restricted food intake without binge eating, purging, or body image disturbance."
+    },
+    "boardTip": "Normal weight + binge eating + purging = Bulimia Nervosa. Significantly low body weight suggests Anorexia Nervosa.",
+    "keywords": [
+      "Bulimia Nervosa",
+      "Eating Disorders",
+      "Binge Eating",
+      "Compensatory Behaviors",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A college student reports hearing a voice criticizing him continuously. Symptoms began four months ago and are accompanied by disorganized speech and markedly impaired academic functioning.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Brief Psychotic Disorder",
+      "Delusional Disorder",
+      "Schizophreniform Disorder",
+      "Schizophrenia"
+    ],
+    "answer": 2,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The client's symptoms have persisted for four months and include hallucinations, disorganized speech, and impaired functioning. According to the DSM-5-TR, psychotic symptoms lasting between one and six months are consistent with Schizophreniform Disorder.",
+    "incorrectExplanations": {
+      "0": "Brief Psychotic Disorder lasts less than one month.",
+      "1": "Delusional Disorder typically does not include prominent hallucinations or disorganized speech.",
+      "3": "Schizophrenia requires continuous signs of the disorder for at least six months."
+    },
+    "boardTip": "For psychotic disorders, always determine the duration first: <1 month = Brief Psychotic Disorder, 1–6 months = Schizophreniform Disorder, >6 months = Schizophrenia.",
+    "keywords": [
+      "Schizophreniform Disorder",
+      "Psychotic Disorders",
+      "DSM-5-TR",
+      "Duration",
+      "Hallucinations"
+    ]
+  },
+  {
+    "question": "A woman experiences repeated episodes of depersonalization, describing herself as \"watching my life from outside my body.\" She recognizes these experiences are unreal and has no psychotic symptoms.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Schizophrenia",
+      "Depersonalization/Derealization Disorder",
+      "Dissociative Identity Disorder",
+      "Delusional Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The client experiences persistent depersonalization while maintaining intact reality testing. Individuals with Depersonalization/Derealization Disorder recognize that their experiences are subjective and are not experiencing psychosis.",
+    "incorrectExplanations": {
+      "0": "Schizophrenia involves impaired reality testing and other psychotic symptoms.",
+      "2": "Dissociative Identity Disorder is characterized by two or more distinct personality states rather than depersonalization alone.",
+      "3": "Delusional Disorder involves fixed false beliefs rather than altered perceptions of oneself."
+    },
+    "boardTip": "If reality testing is preserved despite unusual experiences, think Dissociative Disorders rather than Psychotic Disorders.",
+    "keywords": [
+      "Depersonalization",
+      "Derealization",
+      "Dissociative Disorders",
+      "Reality Testing",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client reports depressed mood for three weeks. She sleeps excessively, has gained weight, feels rejected by others, and her mood temporarily improves after receiving positive news.\n\nThese features are MOST consistent with which subtype of Major Depressive Disorder?",
+    "choices": [
+      "Melancholic Features",
+      "Atypical Features",
+      "Catatonic Features",
+      "Psychotic Features"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The client's symptoms are characteristic of Major Depressive Disorder with Atypical Features, including mood reactivity, hypersomnia, increased appetite or weight gain, and rejection sensitivity. Mood improvement in response to positive events is especially characteristic of this subtype.",
+    "incorrectExplanations": {
+      "0": "Melancholic Features typically involve anhedonia, insomnia, early morning awakening, and decreased appetite.",
+      "2": "Catatonic Features involve marked disturbances in motor behavior such as stupor or excessive motor activity.",
+      "3": "Psychotic Features require the presence of delusions or hallucinations."
+    },
+    "boardTip": "Mood that improves in response to positive events is the hallmark feature of Atypical Depression.",
+    "keywords": [
+      "Major Depressive Disorder",
+      "Atypical Features",
+      "Mood Reactivity",
+      "Depression Specifiers",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A man spends hours checking that doors are locked because he fears burglars despite recognizing that he already checked several times.\n\nWhich feature BEST distinguishes this behavior from ordinary caution?",
+    "choices": [
+      "The behavior is culturally expected.",
+      "The behavior reduces anxiety caused by intrusive obsessions.",
+      "The behavior improves memory.",
+      "The behavior demonstrates psychosis."
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Compulsions are repetitive behaviors performed to reduce anxiety or distress caused by intrusive obsessive thoughts. The client's repeated checking is excessive, anxiety-driven, and recognized as unreasonable, distinguishing it from normal caution.",
+    "incorrectExplanations": {
+      "0": "Ordinary caution does not involve repetitive behaviors consuming hours each day.",
+      "2": "The purpose of compulsive checking is anxiety reduction, not memory improvement.",
+      "3": "The client has insight into the irrationality of the behavior, making psychosis unlikely."
+    },
+    "boardTip": "Compulsions are repetitive behaviors performed to reduce anxiety caused by obsessions, not because they are enjoyable or logical.",
+    "keywords": [
+      "Obsessive-Compulsive Disorder",
+      "Compulsions",
+      "Obsessions",
+      "Checking Behavior",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client reports elevated mood lasting four days, decreased need for sleep, increased productivity, and excessive confidence. She experiences no marked impairment, no hospitalization, and no psychotic symptoms.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Bipolar I Disorder",
+      "Bipolar II Disorder (Hypomanic Episode)",
+      "Cyclothymic Disorder",
+      "Major Depressive Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The client meets the characteristics of a hypomanic episode: symptoms lasting at least four consecutive days, elevated mood, increased energy, and observable changes in functioning without marked impairment, hospitalization, or psychosis. Hypomania is a defining feature of Bipolar II Disorder when accompanied by a major depressive episode.",
+    "incorrectExplanations": {
+      "0": "Bipolar I Disorder requires a manic episode, which causes marked impairment, hospitalization, or psychotic features.",
+      "2": "Cyclothymic Disorder involves chronic fluctuating subthreshold hypomanic and depressive symptoms rather than a full hypomanic episode.",
+      "3": "Major Depressive Disorder does not include hypomanic episodes."
+    },
+    "boardTip": "To distinguish mania from hypomania, ask whether there was marked impairment, hospitalization, or psychosis. If yes, think mania; if no, think hypomania.",
+    "keywords": [
+      "Bipolar II Disorder",
+      "Hypomania",
+      "Mood Disorders",
+      "DSM-5-TR",
+      "Mania"
+    ]
+  }
+]

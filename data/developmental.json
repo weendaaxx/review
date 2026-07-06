@@ -1,0 +1,1105 @@
+[
+  {
+    "question": "A newborn automatically turns its head toward a touch on the cheek, helping it locate a nipple for feeding. Which neonatal reflex is demonstrated?",
+    "choices": [
+      "Moro reflex",
+      "Rooting reflex",
+      "Babinski reflex",
+      "Palmar grasp reflex"
+    ],
+    "answer": 1,
+    "explanation": "The rooting reflex helps infants locate food by turning toward a stimulus on the cheek. It is essential for successful breastfeeding.\n\nBoard Tip: Rooting = Finding food | Sucking = Drinking milk."
+  },
+  {
+    "question": "A 4-year-old insists that a tall, narrow glass contains 'more juice' than a short, wide glass, even after watching the juice being poured between them. According to Piaget, this demonstrates:",
+    "choices": [
+      "Object permanence",
+      "Egocentrism",
+      "Failure of conservation",
+      "Abstract reasoning"
+    ],
+    "answer": 2,
+    "explanation": "Children in the Preoperational Stage (2–7 years) have not yet mastered conservation—the understanding that quantity remains the same despite changes in appearance."
+  },
+  {
+    "question": "Piaget proposed that object permanence develops during which stage?",
+    "choices": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete Operational",
+      "Formal Operational"
+    ],
+    "answer": 0,
+    "explanation": "Object permanence develops during the Sensorimotor Stage (birth to approximately 2 years), when infants learn that objects continue to exist even when out of sight."
+  },
+  {
+    "question": "A 16-year-old frequently changes future career plans and reports uncertainty about personal beliefs and values. According to Erikson, this behavior most likely reflects difficulty resolving which psychosocial crisis?",
+    "choices": [
+      "Initiative vs. Guilt",
+      "Industry vs. Inferiority",
+      "Identity vs. Role Confusion",
+      "Intimacy vs. Isolation"
+    ],
+    "answer": 2,
+    "explanation": "Adolescence is characterized by Identity vs. Role Confusion, where individuals explore beliefs, values, and career goals."
+  },
+  {
+    "question": "A teacher provides hints and gradually reduces assistance as students become more competent in solving mathematics problems. This teaching strategy best illustrates:",
+    "choices": [
+      "Classical conditioning",
+      "Scaffolding",
+      "Conservation",
+      "Moral realism"
+    ],
+    "answer": 1,
+    "explanation": "Vygotsky proposed that learning occurs within the Zone of Proximal Development (ZPD), where scaffolding enables learners to perform tasks they could not complete independently."
+  },
+  {
+    "question": "A child correctly arranges sticks from shortest to longest without assistance. According to Piaget, this ability indicates development of:",
+    "choices": [
+      "Egocentrism",
+      "Symbolic thinking",
+      "Seriation",
+      "Object permanence"
+    ],
+    "answer": 2,
+    "explanation": "Seriation is the ability to arrange objects according to a particular characteristic such as size or length."
+  },
+  {
+    "question": "Which developmental psychologist proposed the ecological systems theory?",
+    "choices": [
+      "Piaget",
+      "Vygotsky",
+      "Bronfenbrenner",
+      "Kohlberg"
+    ],
+    "answer": 2,
+    "explanation": "Bronfenbrenner developed the Ecological Systems Theory, emphasizing the influence of environmental systems on development."
+  },
+  {
+    "question": "Parents lose their jobs, increasing family stress and affecting their child's emotional well-being. According to Bronfenbrenner, this primarily represents influence from the:",
+    "choices": [
+      "Microsystem",
+      "Mesosystem",
+      "Exosystem",
+      "Chronosystem"
+    ],
+    "answer": 2,
+    "explanation": "The Exosystem includes environments that indirectly influence the child, such as a parent's workplace."
+  },
+  {
+    "question": "A child believes breaking one large plate is worse than accidentally breaking five small plates because of the amount of damage. According to Piaget, this reflects:",
+    "choices": [
+      "Formal reasoning",
+      "Moral realism",
+      "Postconventional morality",
+      "Reciprocal altruism"
+    ],
+    "answer": 1,
+    "explanation": "Moral realism focuses on the consequences of actions rather than the intentions behind them."
+  },
+  {
+    "question": "Attachment theory was primarily developed by:",
+    "choices": [
+      "Erikson",
+      "Bowlby",
+      "Piaget",
+      "Skinner"
+    ],
+    "answer": 1,
+    "explanation": "John Bowlby developed Attachment Theory, emphasizing the importance of early emotional bonds."
+  },
+  {
+    "question": "An infant becomes distressed when the mother leaves but is easily comforted upon her return. According to Ainsworth, this attachment style is:",
+    "choices": [
+      "Avoidant",
+      "Resistant",
+      "Secure",
+      "Disorganized"
+    ],
+    "answer": 2,
+    "explanation": "Securely attached infants seek comfort from caregivers and are easily soothed after separation."
+  },
+  {
+    "question": "A teenager obeys school rules primarily because they help maintain social order and respect for authority. According to Kohlberg, this reflects:",
+    "choices": [
+      "Preconventional morality",
+      "Conventional morality",
+      "Postconventional morality",
+      "Moral relativism"
+    ],
+    "answer": 1,
+    "explanation": "Conventional morality focuses on maintaining relationships, rules, and social order."
+  },
+  {
+    "question": "Marcia expanded Erikson's work by introducing four:",
+    "choices": [
+      "Cognitive schemas",
+      "Parenting styles",
+      "Identity statuses",
+      "Attachment styles"
+    ],
+    "answer": 2,
+    "explanation": "James Marcia proposed four identity statuses based on exploration and commitment."
+  },
+  {
+    "question": "A college student has explored several career options but has not yet made a firm commitment. According to Marcia, this identity status is:",
+    "choices": [
+      "Identity Achievement",
+      "Identity Diffusion",
+      "Foreclosure",
+      "Moratorium"
+    ],
+    "answer": 3,
+    "explanation": "Moratorium is characterized by active exploration without commitment."
+  },
+  {
+    "question": "Which parenting style is associated with high warmth and high control?",
+    "choices": [
+      "Authoritarian",
+      "Permissive",
+      "Neglectful",
+      "Authoritative"
+    ],
+    "answer": 3,
+    "explanation": "Authoritative parents combine warmth with reasonable expectations and consistent discipline."
+  },
+  {
+    "question": "The stage of adulthood characterized by concern for guiding the next generation is:",
+    "choices": [
+      "Identity vs. Role Confusion",
+      "Intimacy vs. Isolation",
+      "Generativity vs. Stagnation",
+      "Integrity vs. Despair"
+    ],
+    "answer": 2,
+    "explanation": "Generativity vs. Stagnation involves contributing to society and mentoring future generations."
+  },
+  {
+    "question": "An older adult reflects on life with satisfaction despite regrets and accepts the approach of death peacefully. According to Erikson, this reflects successful resolution of:",
+    "choices": [
+      "Intimacy vs. Isolation",
+      "Identity vs. Role Confusion",
+      "Integrity vs. Despair",
+      "Initiative vs. Guilt"
+    ],
+    "answer": 2,
+    "explanation": "Integrity vs. Despair is the final psychosocial stage, characterized by life review and acceptance."
+  },
+  {
+    "question": "A psychologist designs an intervention encouraging cooperative learning because children acquire knowledge through social interaction. Which theorist's perspective is MOST directly reflected?",
+    "choices": [
+      "Piaget",
+      "Freud",
+      "Vygotsky",
+      "Gesell"
+    ],
+    "answer": 2,
+    "explanation": "Vygotsky emphasized that cognitive development is strongly influenced by social interaction."
+  },
+  {
+    "question": "A child consistently succeeds on conservation tasks but struggles with hypothetical questions about situations that have never occurred. According to Piaget, the child is MOST likely in the:",
+    "choices": [
+      "Sensorimotor Stage",
+      "Preoperational Stage",
+      "Concrete Operational Stage",
+      "Formal Operational Stage"
+    ],
+    "answer": 2,
+    "explanation": "Children in the Concrete Operational Stage understand conservation but have not yet developed abstract reasoning."
+  },
+  {
+    "question": "A school psychologist wants to promote healthy adolescent development. Which intervention is MOST consistent with developmental theory?",
+    "choices": [
+      "Discourage exploration of interests to reduce confusion.",
+      "Encourage identity exploration while providing guidance and support.",
+      "Focus exclusively on academic achievement.",
+      "Promote strict obedience without opportunities for independent decision-making."
+    ],
+    "answer": 1,
+    "explanation": "Erikson emphasized that adolescence is a period of identity exploration. Supportive environments that allow safe exploration foster successful identity development."
+  },
+  {
+    "question": "A psychologist observes that an 8-month-old infant cries whenever an unfamiliar babysitter attempts to carry her, even though the infant had been smiling moments earlier while with her mother. This behavior most likely reflects:",
+    "choices": [
+      "Separation anxiety",
+      "Stranger anxiety",
+      "Object permanence",
+      "Social referencing"
+    ],
+    "answer": 1,
+    "explanation": "Stranger anxiety commonly emerges between 6–9 months as infants begin distinguishing familiar from unfamiliar people."
+  },
+  {
+    "question": "Which developmental period carries the highest risk for teratogens to produce major structural abnormalities?",
+    "choices": [
+      "Germinal Period",
+      "Embryonic Period",
+      "Fetal Period",
+      "Neonatal Period"
+    ],
+    "answer": 1,
+    "explanation": "The embryonic period (Weeks 3–8) is the stage of organ formation and has the greatest vulnerability to teratogens.",
+    "board_tip": "Embryonic period (Weeks 3–8) = organ formation = greatest vulnerability."
+  },
+  {
+    "question": "A 5-year-old believes that the moon follows him wherever he goes. According to Piaget, this belief is an example of:",
+    "choices": [
+      "Conservation",
+      "Animism",
+      "Egocentrism",
+      "Reversibility"
+    ],
+    "answer": 2,
+    "explanation": "Egocentrism refers to a child's inability to take the perspective of others, leading to beliefs like the moon following them."
+  },
+  {
+    "question": "A teacher asks students: \"If everyone in the world suddenly became invisible tomorrow, what would happen to society?\" Which group of students would most likely answer this effectively?",
+    "choices": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete Operational",
+      "Formal Operational"
+    ],
+    "answer": 3,
+    "explanation": "Formal operational thinkers can handle abstract and hypothetical reasoning."
+  },
+  {
+    "question": "A 2-year-old repeatedly says \"dog\" whenever she sees a horse. According to Piaget, this illustrates:",
+    "choices": [
+      "Accommodation",
+      "Assimilation",
+      "Conservation",
+      "Equilibration"
+    ],
+    "answer": 1,
+    "explanation": "Assimilation occurs when new experiences are interpreted using existing schemas without changing them."
+  },
+  {
+    "question": "A child initially calls every four-legged animal a \"dog.\" After repeated correction, the child creates a separate category for horses. This adjustment illustrates:",
+    "choices": [
+      "Assimilation",
+      "Accommodation",
+      "Object permanence",
+      "Scaffolding"
+    ],
+    "answer": 1,
+    "explanation": "Accommodation is the modification of existing schemas or creation of new ones to fit new information."
+  },
+  {
+    "question": "According to Erikson, failure to successfully resolve the crisis of Trust vs. Mistrust may result in:",
+    "choices": [
+      "Guilt",
+      "Inferiority",
+      "Lack of trust in others",
+      "Identity confusion"
+    ],
+    "answer": 2,
+    "explanation": "Failure to develop basic trust leads to mistrust and difficulty forming secure relationships later."
+  },
+  {
+    "question": "Parents consistently encourage independence while setting reasonable limits. Baumrind would classify this parenting style as:",
+    "choices": [
+      "Neglectful",
+      "Permissive",
+      "Authoritarian",
+      "Authoritative"
+    ],
+    "answer": 3,
+    "explanation": "Authoritative parenting combines warmth with structure and clear boundaries."
+  },
+  {
+    "question": "An adolescent has committed to becoming a physician solely because both parents are doctors. The adolescent has never explored alternative careers. According to Marcia, this identity status is:",
+    "choices": [
+      "Moratorium",
+      "Diffusion",
+      "Foreclosure",
+      "Achievement"
+    ],
+    "answer": 2,
+    "explanation": "Foreclosure occurs when identity is committed without exploration, often influenced by parental expectations."
+  },
+  {
+    "question": "Which educational practice best reflects Vygotsky's theory?",
+    "choices": [
+      "Memorizing facts independently",
+      "Collaborative learning with teacher guidance",
+      "Individual competition",
+      "Passive listening during lectures"
+    ],
+    "answer": 1,
+    "explanation": "Vygotsky emphasized social learning and scaffolding within the Zone of Proximal Development."
+  },
+  {
+    "question": "A child explains that clouds move because \"they want to follow people.\" This reflects:",
+    "choices": [
+      "Conservation",
+      "Animistic thinking",
+      "Decentration",
+      "Hypothetical reasoning"
+    ],
+    "answer": 1,
+    "explanation": "Animistic thinking is attributing human-like qualities to inanimate objects."
+  },
+  {
+    "question": "Which theorist proposed the concept of the Zone of Proximal Development (ZPD)?",
+    "choices": [
+      "Piaget",
+      "Bronfenbrenner",
+      "Vygotsky",
+      "Bandura"
+    ],
+    "answer": 2,
+    "explanation": "Vygotsky introduced the Zone of Proximal Development, describing learning potential with guidance."
+  },
+  {
+    "question": "A 13-year-old begins questioning political systems, religion, and justice using hypothetical arguments. This behavior indicates:",
+    "choices": [
+      "Concrete operational thinking",
+      "Formal operational thinking",
+      "Sensorimotor reasoning",
+      "Moral realism"
+    ],
+    "answer": 1,
+    "explanation": "Formal operational stage involves abstract and hypothetical reasoning."
+  },
+  {
+    "question": "Which child is MOST likely demonstrating secure attachment?",
+    "choices": [
+      "Ignores caregiver after reunion",
+      "Cannot be comforted after reunion",
+      "Quickly resumes play after caregiver returns",
+      "Shows no preference for caregiver"
+    ],
+    "answer": 2,
+    "explanation": "Securely attached children are easily comforted and return to normal activity after caregiver returns."
+  },
+  {
+    "question": "A researcher studies how divorce affects children's academic performance. She finds that the effect differs depending on family income. Family income serves as a:",
+    "choices": [
+      "Developmental stage",
+      "Moderating factor",
+      "Reflex",
+      "Teratogen"
+    ],
+    "answer": 1,
+    "explanation": "A moderating factor changes the strength or direction of the relationship between variables."
+  },
+  {
+    "question": "A preschooler believes that a taller person is automatically older than a shorter person. This conclusion primarily reflects:",
+    "choices": [
+      "Centration",
+      "Decentration",
+      "Conservation",
+      "Hypothetical reasoning"
+    ],
+    "answer": 0,
+    "explanation": "Centration is focusing on one aspect of a situation while ignoring others."
+  },
+  {
+    "question": "Which developmental psychologist introduced the concept of identity crisis?",
+    "choices": [
+      "Piaget",
+      "Erikson",
+      "Kohlberg",
+      "Bronfenbrenner"
+    ],
+    "answer": 1,
+    "explanation": "Erikson introduced the concept of identity crisis in psychosocial development."
+  },
+  {
+    "question": "A psychologist designs an intervention emphasizing support from family, school, peers, and community organizations simultaneously. This intervention is MOST consistent with:",
+    "choices": [
+      "Piaget",
+      "Bronfenbrenner",
+      "Freud",
+      "Gesell"
+    ],
+    "answer": 1,
+    "explanation": "Bronfenbrenner’s ecological systems theory emphasizes multiple environmental layers influencing development."
+  },
+  {
+    "question": "A toddler repeatedly drops a spoon from a high chair and laughs every time a parent picks it up. According to Piaget, this repetitive behavior helps develop:",
+    "choices": [
+      "Symbolic reasoning",
+      "Cause-and-effect understanding",
+      "Formal logic",
+      "Moral reasoning"
+    ],
+    "answer": 1,
+    "explanation": "Repetitive actions in the sensorimotor stage help infants learn cause-and-effect relationships."
+  },
+  {
+    "question": "A developmental psychologist wants to improve adolescents' psychosocial adjustment. Which intervention is MOST strongly supported by Erikson's theory?",
+    "choices": [
+      "Encourage unquestioning conformity to parental expectations",
+      "Provide opportunities to explore roles, values, and future goals while offering guidance",
+      "Focus exclusively on academic performance",
+      "Minimize peer interaction to avoid distractions"
+    ],
+    "answer": 1,
+    "explanation": "Erikson emphasizes identity exploration with supportive guidance during adolescence."
+  },
+  
+  {
+    "question": "A psychological disorder is generally defined as a pattern of thoughts, emotions, or behaviors that causes:",
+    "choices": [
+      "High intelligence",
+      "Personal distress or impairment in functioning",
+      "Physical illness only",
+      "Increased creativity"
+    ],
+    "answer": 1,
+    "explanation": "Psychological disorders typically involve clinically significant distress or impairment in social, occupational, or other important areas of functioning."
+  },
+  {
+    "question": "Which disorder is characterized by persistent excessive worry about multiple life situations for at least six months?",
+    "choices": [
+      "Panic Disorder",
+      "Generalized Anxiety Disorder",
+      "Social Anxiety Disorder",
+      "Specific Phobia"
+    ],
+    "answer": 1,
+    "explanation": "GAD involves excessive, difficult-to-control worry occurring more days than not for at least six months."
+  },
+  {
+    "question": "A panic attack is best described as:",
+    "choices": [
+      "A gradual increase in sadness over several months",
+      "A sudden surge of intense fear accompanied by physical symptoms",
+      "Persistent fear of social situations only",
+      "Repeated unwanted memories after trauma"
+    ],
+    "answer": 1,
+    "explanation": "A panic attack is a sudden surge of intense fear or discomfort with physical symptoms."
+  },
+  {
+    "question": "A person avoids elevators because of an intense fear of enclosed spaces. This is most consistent with:",
+    "choices": [
+      "Agoraphobia",
+      "Specific Phobia",
+      "OCD",
+      "Illness Anxiety Disorder"
+    ],
+    "answer": 1,
+    "explanation": "Specific phobia involves intense, irrational fear of a specific object or situation."
+  },
+  {
+    "question": "Obsessions are:",
+    "choices": [
+      "Repetitive behaviors",
+      "Intrusive and unwanted thoughts, urges, or images",
+      "Delusions",
+      "Hallucinations"
+    ],
+    "answer": 1,
+    "explanation": "Obsessions are intrusive, unwanted thoughts, urges, or images that cause anxiety."
+  },
+  {
+    "question": "Compulsions are:",
+    "choices": [
+      "False beliefs",
+      "Repetitive behaviors or mental acts performed to reduce anxiety",
+      "Mood swings",
+      "Memory loss"
+    ],
+    "answer": 1,
+    "explanation": "Compulsions are repetitive behaviors or mental acts performed to reduce anxiety caused by obsessions."
+  },
+  {
+    "question": "Which disorder may develop after exposure to actual or threatened death, serious injury, or sexual violence?",
+    "choices": [
+      "ADHD",
+      "PTSD",
+      "Autism Spectrum Disorder",
+      "Somatic Symptom Disorder"
+    ],
+    "answer": 1,
+    "explanation": "PTSD develops after exposure to traumatic events involving actual or threatened death, injury, or violence."
+  },
+  {
+    "question": "Major Depressive Disorder requires symptoms lasting at least:",
+    "choices": [
+      "3 days",
+      "1 week",
+      "2 weeks",
+      "6 months"
+    ],
+    "answer": 2,
+    "explanation": "MDD requires symptoms lasting at least 2 weeks."
+  },
+  {
+    "question": "Which symptom is commonly associated with Major Depressive Disorder?",
+    "choices": [
+      "Elevated mood",
+      "Decreased need for sleep without fatigue",
+      "Persistent loss of interest or pleasure",
+      "Grandiosity"
+    ],
+    "answer": 2,
+    "explanation": "Anhedonia (loss of interest or pleasure) is a core symptom of depression."
+  },
+  {
+    "question": "Bipolar I Disorder requires at least one:",
+    "choices": [
+      "Panic attack",
+      "Manic episode",
+      "Psychotic episode only",
+      "Hypochondriasis episode"
+    ],
+    "answer": 1,
+    "explanation": "Bipolar I requires at least one manic episode."
+  },
+  {
+    "question": "A manic episode commonly includes:",
+    "choices": [
+      "Decreased energy",
+      "Elevated or irritable mood with increased activity",
+      "Memory loss",
+      "Persistent fear of contamination"
+    ],
+    "answer": 1,
+    "explanation": "Mania includes elevated/irritable mood, increased energy, and activity."
+  },
+  {
+    "question": "Hallucinations are:",
+    "choices": [
+      "Fixed false beliefs",
+      "False sensory perceptions without external stimuli",
+      "Personality changes",
+      "Memory distortions"
+    ],
+    "answer": 1,
+    "explanation": "Hallucinations are sensory perceptions without external stimuli."
+  },
+  {
+    "question": "Delusions are:",
+    "choices": [
+      "False sensory experiences",
+      "Fixed false beliefs despite contrary evidence",
+      "Repetitive rituals",
+      "Intrusive thoughts"
+    ],
+    "answer": 1,
+    "explanation": "Delusions are fixed false beliefs not changed by evidence."
+  },
+  {
+    "question": "Which disorder is most commonly associated with hallucinations and delusions?",
+    "choices": [
+      "Generalized Anxiety Disorder",
+      "Schizophrenia",
+      "OCD",
+      "Specific Phobia"
+    ],
+    "answer": 1,
+    "explanation": "Schizophrenia commonly involves hallucinations and delusions."
+  },
+  {
+    "question": "Which is considered a negative symptom of schizophrenia?",
+    "choices": [
+      "Hallucinations",
+      "Delusions",
+      "Flat affect",
+      "Disorganized speech"
+    ],
+    "answer": 2,
+    "explanation": "Negative symptoms include reduced emotional expression such as flat affect."
+  },
+  {
+    "question": "Which personality disorder is characterized by instability in relationships, self-image, and emotions?",
+    "choices": [
+      "Antisocial Personality Disorder",
+      "Borderline Personality Disorder",
+      "Obsessive-Compulsive Personality Disorder",
+      "Schizoid Personality Disorder"
+    ],
+    "answer": 1,
+    "explanation": "Borderline Personality Disorder involves emotional instability and unstable relationships."
+  },
+  {
+    "question": "Antisocial Personality Disorder is characterized primarily by:",
+    "choices": [
+      "Excessive dependency on others",
+      "Persistent disregard for and violation of the rights of others",
+      "Fear of criticism",
+      "Emotional detachment without rule violations"
+    ],
+    "answer": 1,
+    "explanation": "Antisocial personality disorder involves disregard for others' rights and social norms."
+  },
+  {
+    "question": "Which neurodevelopmental disorder is characterized by persistent deficits in social communication and restricted, repetitive patterns of behavior?",
+    "choices": [
+      "ADHD",
+      "Autism Spectrum Disorder",
+      "Intellectual Disability",
+      "Learning Disorder"
+    ],
+    "answer": 1,
+    "explanation": "Autism Spectrum Disorder involves social communication deficits and repetitive behaviors."
+  },
+  {
+    "question": "ADHD is characterized by developmentally inappropriate levels of:",
+    "choices": [
+      "Hallucinations",
+      "Inattention and/or hyperactivity-impulsivity",
+      "Depression",
+      "Delusions"
+    ],
+    "answer": 1,
+    "explanation": "ADHD involves inattention and/or hyperactivity-impulsivity."
+  },
+  {
+    "question": "Which statement best reflects the biopsychosocial model of abnormal behavior?",
+    "choices": [
+      "Mental disorders are caused only by genetics.",
+      "Mental disorders result solely from unconscious conflict.",
+      "Biological, psychological, and social factors interact in the development of mental disorders.",
+      "Abnormal behavior is caused only by environmental stress."
+    ],
+    "answer": 2,
+    "explanation": "The biopsychosocial model integrates biological, psychological, and social factors."
+  },
+  {
+    "question": "Industrial Psychology primarily focuses on:",
+    "choices": [
+      "Mental disorders in the workplace",
+      "Employee selection, training, and performance",
+      "Family counseling",
+      "Educational assessment"
+    ],
+    "answer": 1,
+    "explanation": "Industrial psychology focuses on employee selection, training, and performance."
+  },
+  {
+    "question": "Organizational Psychology mainly studies:",
+    "choices": [
+      "Intelligence testing",
+      "Employee behavior within organizations",
+      "Clinical diagnosis",
+      "Personality disorders"
+    ],
+    "answer": 1,
+    "explanation": "Organizational psychology studies behavior within workplace organizations."
+  },
+  {
+    "question": "Job analysis is primarily conducted to:",
+    "choices": [
+      "Increase employee salaries",
+      "Determine the duties and requirements of a job",
+      "Terminate employees",
+      "Conduct psychological counseling"
+    ],
+    "answer": 1,
+    "explanation": "Job analysis identifies duties and requirements of a job."
+  },
+  {
+    "question": "Which document describes the duties, responsibilities, and working conditions of a job?",
+    "choices": [
+      "Job Specification",
+      "Job Description",
+      "Resume",
+      "Performance Evaluation"
+    ],
+    "answer": 1,
+    "explanation": "Job description outlines duties, responsibilities, and working conditions."
+  },
+  {
+    "question": "A job specification contains:",
+    "choices": [
+      "Company policies",
+      "Required knowledge, skills, abilities, and qualifications",
+      "Salary information only",
+      "Organizational goals"
+    ],
+    "answer": 1,
+    "explanation": "Job specification lists required KSAs and qualifications."
+  },
+  {
+    "question": "Which interview format uses the same questions for every applicant?",
+    "choices": [
+      "Informal interview",
+      "Structured interview",
+      "Stress interview",
+      "Panel discussion"
+    ],
+    "answer": 1,
+    "explanation": "Structured interviews use standardized questions for all applicants."
+  },
+  {
+    "question": "Which selection tool generally has one of the highest predictive validities for job performance?",
+    "choices": [
+      "Astrology",
+      "Cognitive ability test",
+      "Graphology (handwriting analysis)",
+      "Birth order"
+    ],
+    "answer": 1,
+    "explanation": "Cognitive ability tests are strong predictors of job performance."
+  },
+  {
+    "question": "The purpose of employee orientation is to:",
+    "choices": [
+      "Evaluate employee performance",
+      "Introduce new employees to the organization",
+      "Increase salaries",
+      "Conduct disciplinary action"
+    ],
+    "answer": 1,
+    "explanation": "Orientation introduces new employees to the organization."
+  },
+  {
+    "question": "Which training method involves learning while performing the actual job?",
+    "choices": [
+      "Lecture",
+      "Vestibule training",
+      "On-the-job training",
+      "Case study"
+    ],
+    "answer": 2,
+    "explanation": "On-the-job training occurs while performing actual work tasks."
+  },
+  {
+    "question": "Performance appraisal is primarily used to:",
+    "choices": [
+      "Measure employee performance",
+      "Hire applicants",
+      "Create company policies",
+      "Conduct market research"
+    ],
+    "answer": 0,
+    "explanation": "Performance appraisal evaluates employee performance."
+  },
+  {
+    "question": "Which appraisal error occurs when a supervisor rates an employee highly because of one outstanding characteristic?",
+    "choices": [
+      "Central tendency",
+      "Halo effect",
+      "Leniency error",
+      "Contrast error"
+    ],
+    "answer": 1,
+    "explanation": "Halo effect occurs when one trait influences overall rating."
+  },
+  {
+    "question": "Which appraisal error occurs when a supervisor rates everyone around the average?",
+    "choices": [
+      "Severity error",
+      "Halo effect",
+      "Central tendency error",
+      "Similar-to-me bias"
+    ],
+    "answer": 2,
+    "explanation": "Central tendency error is rating everyone as average."
+  },
+  {
+    "question": "According to Maslow, which need becomes important after physiological needs are reasonably satisfied?",
+    "choices": [
+      "Self-actualization",
+      "Esteem",
+      "Safety",
+      "Love and belonging"
+    ],
+    "answer": 2,
+    "explanation": "Safety needs come after physiological needs in Maslow's hierarchy."
+  },
+  {
+    "question": "Herzberg's Two-Factor Theory distinguishes between:",
+    "choices": [
+      "Positive and negative reinforcement",
+      "Hygiene factors and motivators",
+      "Intrinsic and extrinsic intelligence",
+      "Rewards and punishments"
+    ],
+    "answer": 1,
+    "explanation": "Herzberg distinguishes hygiene factors and motivators."
+  },
+  {
+    "question": "Which leadership style involves employees participating in decision-making?",
+    "choices": [
+      "Autocratic",
+      "Democratic",
+      "Laissez-faire",
+      "Bureaucratic"
+    ],
+    "answer": 1,
+    "explanation": "Democratic leadership involves shared decision-making."
+  },
+  {
+    "question": "Which conflict management style seeks a solution that fully satisfies all parties?",
+    "choices": [
+      "Avoiding",
+      "Competing",
+      "Collaborating",
+      "Accommodating"
+    ],
+    "answer": 2,
+    "explanation": "Collaborating seeks win-win solutions."
+  },
+  {
+    "question": "Employee turnover refers to:",
+    "choices": [
+      "The rotation of work shifts",
+      "Employees leaving an organization and being replaced",
+      "Promotion of employees",
+      "Daily attendance"
+    ],
+    "answer": 1,
+    "explanation": "Turnover refers to employees leaving and being replaced."
+  },
+  {
+    "question": "Organizational commitment refers to:",
+    "choices": [
+      "An employee's attachment and loyalty to the organization",
+      "Job difficulty",
+      "Work schedule",
+      "Salary level"
+    ],
+    "answer": 0,
+    "explanation": "Organizational commitment is loyalty and attachment to the organization."
+  },
+  {
+    "question": "Which statement best describes organizational culture?",
+    "choices": [
+      "A company's financial status",
+      "Shared values, beliefs, and norms within an organization",
+      "The number of employees",
+      "Employee salaries"
+    ],
+    "answer": 1,
+    "explanation": "Organizational culture refers to shared values and norms."
+  },
+  {
+    "question": "Which ethical principle is MOST important when administering employment tests?",
+    "choices": [
+      "Favor applicants recommended by management.",
+      "Maintain confidentiality and use valid, job-related assessments.",
+      "Share test results with coworkers.",
+      "Select applicants based solely on intuition."
+    ],
+    "answer": 1,
+    "explanation": "Ethical testing requires validity, confidentiality, and fairness."
+  },
+  {
+    "question": "Which measure of central tendency is most affected by extreme scores?",
+    "choices": [
+      "Mode",
+      "Median",
+      "Mean",
+      "Percentile"
+    ],
+    "answer": 2,
+    "explanation": "The mean is most affected by extreme values (outliers)."
+  },
+  {
+    "question": "Which measure identifies the middle score in an ordered distribution?",
+    "choices": [
+      "Mean",
+      "Mode",
+      "Median",
+      "Variance"
+    ],
+    "answer": 2,
+    "explanation": "The median is the middle value in an ordered dataset."
+  },
+  {
+    "question": "Standard deviation measures:",
+    "choices": [
+      "The average score",
+      "The spread or variability of scores",
+      "The highest score",
+      "The probability of an event"
+    ],
+    "answer": 1,
+    "explanation": "Standard deviation measures dispersion of scores."
+  },
+  {
+    "question": "Which correlation coefficient indicates the strongest positive relationship?",
+    "choices": [
+      "-0.95",
+      "+0.25",
+      "+0.98",
+      "0.00"
+    ],
+    "answer": 2,
+    "explanation": "A correlation of +0.98 indicates a very strong positive relationship."
+  },
+  {
+    "question": "A correlation of 0.00 indicates:",
+    "choices": [
+      "Perfect positive relationship",
+      "Perfect negative relationship",
+      "No linear relationship",
+      "Weak positive relationship"
+    ],
+    "answer": 2,
+    "explanation": "0.00 means no linear relationship."
+  },
+  {
+    "question": "Correlation implies:",
+    "choices": [
+      "Causation",
+      "Association only",
+      "Random error",
+      "Experimental control"
+    ],
+    "answer": 1,
+    "explanation": "Correlation indicates association, not causation."
+  },
+  {
+    "question": "In an experiment, the variable manipulated by the researcher is the:",
+    "choices": [
+      "Dependent variable",
+      "Independent variable",
+      "Confounding variable",
+      "Criterion variable"
+    ],
+    "answer": 1,
+    "explanation": "The independent variable is manipulated by the researcher."
+  },
+  {
+    "question": "The variable measured as the outcome is the:",
+    "choices": [
+      "Independent variable",
+      "Dependent variable",
+      "Extraneous variable",
+      "Predictor variable"
+    ],
+    "answer": 1,
+    "explanation": "The dependent variable is the outcome being measured."
+  },
+  {
+    "question": "Random assignment primarily helps:",
+    "choices": [
+      "Increase reliability",
+      "Reduce selection bias",
+      "Increase sample size",
+      "Improve validity of questionnaires"
+    ],
+    "answer": 1,
+    "explanation": "Random assignment reduces selection bias."
+  },
+  {
+    "question": "Which sampling technique gives every member of the population an equal chance of being selected?",
+    "choices": [
+      "Convenience Sampling",
+      "Purposive Sampling",
+      "Simple Random Sampling",
+      "Snowball Sampling"
+    ],
+    "answer": 2,
+    "explanation": "Simple random sampling gives equal selection probability."
+  },
+  {
+    "question": "Before administering a psychological test, the psychometrician should obtain:",
+    "choices": [
+      "Performance appraisal",
+      "Informed consent",
+      "Medical diagnosis",
+      "Recommendation letter"
+    ],
+    "answer": 1,
+    "explanation": "Informed consent is required before testing."
+  },
+  {
+    "question": "Confidentiality may ethically be broken when:",
+    "choices": [
+      "A friend requests the information.",
+      "The client gives informed consent or disclosure is required by law.",
+      "The psychometrician is curious.",
+      "The client receives a low test score."
+    ],
+    "answer": 1,
+    "explanation": "Confidentiality may only be broken under legal or consent conditions."
+  },
+  {
+    "question": "The primary purpose of the Philippine Psychology Act is to:",
+    "choices": [
+      "Regulate the practice of psychology and psychometrics in the Philippines.",
+      "Establish hospitals.",
+      "Regulate medical doctors.",
+      "License guidance counselors."
+    ],
+    "answer": 0,
+    "explanation": "The law regulates psychology and psychometrics practice."
+  },
+  {
+    "question": "A psychometrician should interpret test results:",
+    "choices": [
+      "Based only on intuition.",
+      "Without considering norms.",
+      "Using appropriate norms, scientific evidence, and professional competence.",
+      "According to the client's preference."
+    ],
+    "answer": 2,
+    "explanation": "Interpretation must be based on norms and scientific evidence."
+  },
+  {
+    "question": "Which ethical principle requires psychologists and psychometricians to work only within the limits of their training and competence?",
+    "choices": [
+      "Integrity",
+      "Competence",
+      "Fidelity",
+      "Justice"
+    ],
+    "answer": 1,
+    "explanation": "Competence means working within one's training."
+  },
+  {
+    "question": "If a client requests a copy of their assessment report, the psychometrician should:",
+    "choices": [
+      "Automatically refuse.",
+      "Follow applicable laws, ethical standards, and institutional policies regarding release of records.",
+      "Give it to anyone who asks.",
+      "Destroy the report."
+    ],
+    "answer": 1,
+    "explanation": "Release of records must follow legal and ethical guidelines."
+  },
+  {
+    "question": "Which action best protects the security of psychological test materials?",
+    "choices": [
+      "Posting test items online",
+      "Sharing answer keys with students",
+      "Restricting access to authorized professionals",
+      "Leaving testing materials unattended"
+    ],
+    "answer": 2,
+    "explanation": "Test security requires restricting access to authorized professionals."
+  },
+  {
+    "question": "During testing, the examiner should primarily strive to:",
+    "choices": [
+      "Help the examinee answer difficult questions.",
+      "Standardize administration procedures for all examinees.",
+      "Give hints to anxious clients.",
+      "Change instructions whenever needed."
+    ],
+    "answer": 1,
+    "explanation": "Standardization ensures fairness and validity."
+  },
+  {
+    "question": "Which principle best reflects professional ethics in psychological assessment?",
+    "choices": [
+      "Fairness, respect, competence, and confidentiality.",
+      "Personal opinions above scientific evidence.",
+      "Sharing confidential information freely.",
+      "Giving identical interpretations to all clients."
+    ],
+    "answer": 0,
+    "explanation": "Ethical assessment is based on fairness, respect, competence, and confidentiality."
+  },
+  {
+    "question": "A psychometrician notices that a colleague is using an outdated, invalid psychological test for employment decisions. The MOST appropriate action is:",
+    "choices": [
+      "Ignore the situation.",
+      "Publicly criticize the colleague.",
+      "Address the concern through appropriate professional or organizational channels while upholding ethical standards.",
+      "Share the issue on social media."
+    ],
+    "answer": 2,
+    "explanation": "Ethical concerns should be addressed professionally and appropriately."
+  }
+
+]

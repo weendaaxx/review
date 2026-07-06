@@ -1,0 +1,2460 @@
+[
+  {
+    "id": 1,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "topic": "Validity",
+    "subtopic": "Construct Validity",
+    "question": "A newly developed emotional intelligence test correlates r = .82 with another validated emotional intelligence measure and r = .11 with a mechanical aptitude test. Which type of evidence is MOST directly demonstrated?",
+    "choices": [
+      "Content Validity",
+      "Criterion-related Validity",
+      "Construct Validity",
+      "Face Validity"
+    ],
+    "answer": 2,
+    "explanation": "Construct validity refers to the extent to which a test measures the intended theoretical construct. High correlation with a similar measure demonstrates convergent validity, while low correlation with an unrelated measure demonstrates discriminant validity.",
+    "incorrectExplanations": {
+      "0": "Content validity concerns coverage of the content domain, not correlations.",
+      "1": "Criterion-related validity relates to an external criterion such as job performance.",
+      "3": "Face validity is only the appearance that a test measures what it claims."
+    },
+    "boardTip": "Whenever correlations with similar and unrelated constructs are presented, think Construct Validity.",
+    "keywords": [
+      "Construct Validity",
+      "Convergent Validity",
+      "Discriminant Validity"
+    ]
+  },
+  {
+    "id": 2,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Apply",
+    "topic": "Testing Principles",
+    "subtopic": "Standardization",
+    "question": "A psychometrician administers an intelligence test to two examinees. One receives additional explanations beyond those permitted in the manual because the examiner believes it will reduce anxiety. Which assessment principle has been MOST compromised?",
+    "choices": [
+      "Reliability",
+      "Standardization",
+      "Validity",
+      "Norming"
+    ],
+    "answer": 1,
+    "explanation": "Standardization requires identical administration procedures for all examinees.",
+    "incorrectExplanations": {
+      "0": "Reliability is consistency of scores.",
+      "2": "Validity may be affected but the direct violation is standardized administration.",
+      "3": "Norming concerns normative samples, not administration."
+    },
+    "boardTip": "If instructions change, think Standardization.",
+    "keywords": [
+      "Standardization"
+    ]
+  },
+  {
+    "id": 3,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "topic": "Validity",
+    "subtopic": "Predictive Validity",
+    "question": "An employment aptitude test consistently predicts future job performance across multiple organizations. Which type of validity is BEST supported?",
+    "choices": [
+      "Concurrent Validity",
+      "Predictive Validity",
+      "Content Validity",
+      "Face Validity"
+    ],
+    "answer": 1,
+    "explanation": "Predictive validity indicates the ability to predict future outcomes.",
+    "incorrectExplanations": {
+      "0": "Concurrent validity uses criteria measured at the same time.",
+      "2": "Content validity evaluates domain coverage.",
+      "3": "Face validity is superficial appearance."
+    },
+    "boardTip": "If the keyword is future, think Predictive Validity.",
+    "keywords": [
+      "Predictive Validity"
+    ]
+  },
+  {
+    "id": 4,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Evaluate",
+    "topic": "Reliability and Validity",
+    "subtopic": "Internal Consistency",
+    "question": "A depression inventory demonstrates excellent internal consistency (α = .94) but fails to distinguish depressed from non-depressed individuals. Which conclusion is MOST accurate?",
+    "choices": [
+      "The inventory is valid but unreliable.",
+      "The inventory is reliable but lacks validity.",
+      "The inventory lacks both reliability and validity.",
+      "Internal consistency automatically guarantees validity."
+    ],
+    "answer": 1,
+    "explanation": "High alpha indicates reliability, but inability to distinguish groups indicates poor validity.",
+    "incorrectExplanations": {
+      "0": "Reliability is high.",
+      "2": "Reliability is demonstrated.",
+      "3": "Reliability does not guarantee validity."
+    },
+    "boardTip": "Reliable ≠ Valid.",
+    "keywords": [
+      "Reliability",
+      "Validity"
+    ]
+  },
+  {
+    "id": 5,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "topic": "Reliability",
+    "subtopic": "Inter-rater Reliability",
+    "question": "Two clinicians independently score the same behavioral observation and obtain nearly identical ratings. This provides evidence of:",
+    "choices": [
+      "Test-retest reliability",
+      "Internal consistency",
+      "Inter-rater reliability",
+      "Parallel-forms reliability"
+    ],
+    "answer": 2,
+    "explanation": "Agreement between independent raters demonstrates inter-rater reliability.",
+    "incorrectExplanations": {
+      "0": "Test-retest measures stability over time.",
+      "1": "Internal consistency concerns item relationships.",
+      "3": "Parallel forms compare equivalent tests."
+    },
+    "boardTip": "Multiple raters = Inter-rater Reliability.",
+    "keywords": [
+      "Inter-rater"
+    ]
+  },
+  {
+    "id": 6,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "topic": "Assessment",
+    "subtopic": "Validity",
+    "question": "A psychometrician administers a personality inventory to a client with limited English proficiency without providing an appropriate translated version or considering language barriers. The PRIMARY concern is:",
+    "choices": [
+      "Reduced internal consistency",
+      "Threatened validity of score interpretation",
+      "Increased test security risk",
+      "Poor test-retest reliability"
+    ],
+    "answer": 1,
+    "explanation": "Language barriers threaten valid interpretation of scores.",
+    "incorrectExplanations": {
+      "0": "Internal consistency is unrelated.",
+      "2": "Test security is unrelated.",
+      "3": "Test-retest concerns time stability."
+    },
+    "boardTip": "Consider language and culture before interpreting scores.",
+    "keywords": [
+      "Validity"
+    ]
+  },
+  {
+    "id": 7,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "topic": "Reliability",
+    "subtopic": "Parallel Forms",
+    "question": "Which reliability coefficient is MOST appropriate for determining whether two equivalent versions of an aptitude test produce similar scores?",
+    "choices": [
+      "Cronbach's alpha",
+      "Test-retest reliability",
+      "Parallel-forms reliability",
+      "Inter-rater reliability"
+    ],
+    "answer": 2,
+    "explanation": "Parallel-forms reliability compares equivalent versions of a test.",
+    "incorrectExplanations": {
+      "0": "Alpha measures internal consistency.",
+      "1": "Test-retest uses the same test twice.",
+      "3": "Inter-rater measures scorer agreement."
+    },
+    "boardTip": "Two forms = Parallel Forms.",
+    "keywords": [
+      "Parallel Forms"
+    ]
+  },
+  {
+    "id": 8,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "topic": "Measurement",
+    "subtopic": "SEM",
+    "question": "An examinee obtains an IQ score of 105 with a Standard Error of Measurement (SEM) of 3. Which interpretation is MOST appropriate?",
+    "choices": [
+      "The examinee's true score is exactly 105.",
+      "Measurement error should be considered when interpreting the obtained score.",
+      "The SEM represents the population standard deviation.",
+      "The test lacks reliability."
+    ],
+    "answer": 1,
+    "explanation": "SEM indicates expected error around an observed score.",
+    "incorrectExplanations": {
+      "0": "Observed scores include error.",
+      "2": "SEM is different from SD.",
+      "3": "SEM alone does not indicate poor reliability."
+    },
+    "boardTip": "SEM reminds you no score is perfectly precise.",
+    "keywords": [
+      "SEM"
+    ]
+  },
+  {
+    "id": 9,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Analyze",
+    "topic": "Assessment",
+    "subtopic": "Multimethod Assessment",
+    "question": "A psychometrician combines interview findings, behavioral observations, collateral information, and standardized test results before writing a report. This approach BEST reflects:",
+    "choices": [
+      "Face validity",
+      "Multimethod assessment",
+      "Response bias",
+      "Projective testing"
+    ],
+    "answer": 1,
+    "explanation": "Assessment integrates multiple information sources.",
+    "incorrectExplanations": {
+      "0": "Face validity concerns appearance.",
+      "2": "Response bias concerns answering style.",
+      "3": "Projective testing is only one method."
+    },
+    "boardTip": "Assessment ≠ Testing.",
+    "keywords": [
+      "Assessment"
+    ]
+  },
+  {
+    "id": 10,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Evaluate",
+    "topic": "Assessment",
+    "subtopic": "Data Integration",
+    "question": "A psychologist bases a diagnosis solely on a single personality inventory despite contradictory interview findings and behavioral observations. Which principle has been MOST violated?",
+    "choices": [
+      "Reliability",
+      "Standardization",
+      "Comprehensive data integration",
+      "Norm-referenced interpretation"
+    ],
+    "answer": 2,
+    "explanation": "Assessment requires integrating multiple data sources.",
+    "incorrectExplanations": {
+      "0": "Not about consistency.",
+      "1": "Administration was not altered.",
+      "3": "Norm referencing is unrelated."
+    },
+    "boardTip": "Never base diagnosis on one test alone.",
+    "keywords": [
+      "Integration"
+    ]
+  },
+  {
+    "question": "A newly developed aptitude test correlates r = .87 with another aptitude test but r = .84 with a verbal reasoning test that theoretically measures a different construct. Which conclusion is MOST appropriate?",
+    "choices": [
+      "The test demonstrates excellent discriminant validity.",
+      "The test demonstrates excellent convergent validity only.",
+      "The test may have inadequate discriminant validity.",
+      "The test has poor reliability."
+    ],
+    "answer": 2,
+    "explanation": "Construct validity is supported by both convergent validity (high correlation with similar constructs) and discriminant validity (low correlation with unrelated constructs). Although the test correlates strongly with another aptitude test (r = .87), it also correlates almost as highly (r = .84) with a measure that is theoretically different. This suggests that the test may not adequately distinguish between the intended construct and verbal reasoning.",
+    "incorrectExplanations": {
+      "0": "High correlations with different constructs weaken, rather than strengthen, discriminant validity.",
+      "1": "While convergent validity is present, the evidence raises concerns about discriminant validity.",
+      "3": "Correlation with other tests does not provide direct evidence about reliability."
+    },
+    "boardTip": "High correlations are not always desirable. If a test correlates highly with unrelated constructs, suspect poor discriminant validity.",
+    "keywords": [
+      "Construct Validity",
+      "Convergent Validity",
+      "Discriminant Validity"
+    ]
+  },
+  {
+    "question": "A psychologist develops a 300-item personality inventory. Cronbach's alpha increases from .82 to .96, but many items are nearly identical in wording. Which concern is MOST justified?",
+    "choices": [
+      "The inventory has poor content validity.",
+      "The high alpha may reflect item redundancy rather than better measurement.",
+      "The inventory has poor test-retest reliability.",
+      "The norms are outdated."
+    ],
+    "answer": 1,
+    "explanation": "Cronbach's alpha generally increases as more items are added. However, an extremely high alpha (e.g., above .95) may indicate that many items are redundant and measure the same content repeatedly rather than improving the quality of measurement. A longer test is not necessarily a better test.",
+    "incorrectExplanations": {
+      "0": "Item redundancy alone does not establish poor content validity.",
+      "2": "Internal consistency and test-retest reliability measure different properties.",
+      "3": "Nothing in the scenario suggests outdated norms."
+    },
+    "boardTip": "Alpha values greater than .95 often indicate redundant items rather than superior measurement.",
+    "keywords": [
+      "Cronbach's Alpha",
+      "Internal Consistency",
+      "Item Redundancy"
+    ]
+  },
+  {
+    "question": "An examinee scores at the 90th percentile on an anxiety inventory. Which interpretation is MOST accurate?",
+    "choices": [
+      "The examinee answered 90% of the items correctly.",
+      "The examinee obtained a raw score of 90.",
+      "The examinee scored higher than approximately 90% of the normative sample.",
+      "The examinee has severe anxiety."
+    ],
+    "answer": 2,
+    "explanation": "Percentile ranks indicate an individual's relative standing within the normative sample. A 90th percentile means the examinee scored as high as or higher than approximately 90% of individuals in the norm group. It does not indicate symptom severity by itself.",
+    "incorrectExplanations": {
+      "0": "Percentiles are not percentages correct.",
+      "1": "Percentiles are not raw scores.",
+      "3": "High percentile scores require interpretation using the test manual and clinical context before concluding severity."
+    },
+    "boardTip": "Do not confuse percentile rank with percentage correct or raw scores.",
+    "keywords": [
+      "Percentile Rank",
+      "Norms",
+      "Score Interpretation"
+    ]
+  },
+  {
+    "question": "An intelligence test has a reliability coefficient of .64. Which statement is MOST accurate?",
+    "choices": [
+      "The test can still be considered highly valid.",
+      "Approximately 36% of the observed score variance is attributable to measurement error and other unexplained variance.",
+      "The Standard Error of Measurement equals .64.",
+      "Reliability indicates the percentage of correct answers."
+    ],
+    "answer": 1,
+    "explanation": "In Classical Test Theory, the reliability coefficient represents the proportion of observed-score variance attributable to true-score variance. With a reliability of .64, about 64% of the variance reflects true-score differences, while approximately 36% reflects measurement error and other unexplained variance.",
+    "incorrectExplanations": {
+      "0": "Low reliability limits the maximum possible validity.",
+      "2": "Reliability and the Standard Error of Measurement are different statistics.",
+      "3": "Reliability does not represent percentage correct."
+    },
+    "boardTip": "Observed Score Variance = True Score Variance + Error Variance.",
+    "keywords": [
+      "Reliability",
+      "Classical Test Theory",
+      "Measurement Error"
+    ]
+  },
+  {
+    "question": "A hospital uses a cognitive screening test to diagnose dementia even though the manual states it is intended only for screening. What is the MOST serious problem?",
+    "choices": [
+      "The test lacks reliability.",
+      "The test is being used beyond its intended purpose.",
+      "The norms are inappropriate.",
+      "The test has poor internal consistency."
+    ],
+    "answer": 1,
+    "explanation": "Screening tests are designed to identify individuals who may require further evaluation, not to establish definitive diagnoses. Using a screening instrument as the sole basis for diagnosis constitutes inappropriate test use and can lead to inaccurate clinical decisions.",
+    "incorrectExplanations": {
+      "0": "The scenario provides no evidence regarding reliability.",
+      "2": "There is no indication that the normative sample is inappropriate.",
+      "3": "Internal consistency is not the primary issue."
+    },
+    "boardTip": "Use psychological tests only for purposes supported by their manuals and validation evidence.",
+    "keywords": [
+      "Test Use",
+      "Screening",
+      "Assessment Ethics"
+    ]
+  },
+  {
+    "question": "An examiner notices that every item answered correctly by high-scoring examinees is also answered correctly by nearly all low-scoring examinees. What is the MOST likely conclusion?",
+    "choices": [
+      "The items have excellent discrimination.",
+      "The items have poor discrimination.",
+      "The items have excessive reliability.",
+      "The items demonstrate criterion validity."
+    ],
+    "answer": 1,
+    "explanation": "Item discrimination reflects how well an item distinguishes between high- and low-performing examinees. If both groups answer an item correctly at similar rates, the item contributes little to differentiating ability levels and has poor discrimination.",
+    "incorrectExplanations": {
+      "0": "Good discrimination requires clear differences between high and low scorers.",
+      "2": "Reliability cannot be inferred from a single item's performance.",
+      "3": "Criterion validity concerns relationships with external criteria, not item characteristics."
+    },
+    "boardTip": "Good discrimination means high scorers answer correctly much more often than low scorers.",
+    "keywords": [
+      "Item Analysis",
+      "Item Discrimination",
+      "Psychometrics"
+    ]
+  },
+  {
+    "question": "An applicant intentionally exaggerates desirable personality traits during a pre-employment assessment. Which response style is MOST likely present?",
+    "choices": [
+      "Acquiescence",
+      "Random responding",
+      "Social desirability",
+      "Halo effect"
+    ],
+    "answer": 2,
+    "explanation": "Social desirability bias occurs when respondents answer in ways they believe will be viewed favorably by others rather than responding honestly. This is particularly common in employment settings where individuals may attempt to present themselves in an overly positive light.",
+    "incorrectExplanations": {
+      "0": "Acquiescence is the tendency to agree regardless of item content.",
+      "1": "Random responding lacks a consistent pattern.",
+      "3": "Halo effect refers to rater bias, not self-report response style."
+    },
+    "boardTip": "Employment testing commonly involves faking good or social desirability bias.",
+    "keywords": [
+      "Social Desirability",
+      "Response Bias",
+      "Employment Testing"
+    ]
+  },
+  {
+    "question": "Which situation provides the STRONGEST evidence for criterion contamination?",
+    "choices": [
+      "Supervisors rating employee performance know applicants' cognitive test scores before completing evaluations.",
+      "Employees complete the criterion measure one year later.",
+      "The test is administered in a quiet room.",
+      "Different raters independently score interview responses."
+    ],
+    "answer": 0,
+    "explanation": "Criterion contamination occurs when the criterion measure is influenced by knowledge of predictor scores. If supervisors know the applicants' test scores, their performance ratings may be biased, artificially inflating the relationship between the predictor and criterion.",
+    "incorrectExplanations": {
+      "1": "A time delay alone does not contaminate the criterion.",
+      "2": "Testing conditions relate to standardization.",
+      "3": "Independent raters generally improve objectivity."
+    },
+    "boardTip": "Criterion contamination occurs when the criterion is no longer independent of the predictor.",
+    "keywords": [
+      "Criterion Contamination",
+      "Criterion Validity",
+      "Bias"
+    ]
+  },
+  {
+    "question": "A test developer removes every difficult item because they lower the average score. What is the MOST likely consequence?",
+    "choices": [
+      "Increased score variability.",
+      "Reduced ability to differentiate high-performing examinees.",
+      "Improved construct validity.",
+      "Improved predictive validity."
+    ],
+    "answer": 1,
+    "explanation": "A well-constructed test should include items across a range of difficulty levels. Eliminating all difficult items makes the test easier, causing many high-ability examinees to obtain similarly high scores. This creates a ceiling effect and reduces the test's ability to distinguish among individuals with higher ability.",
+    "incorrectExplanations": {
+      "0": "Score variability often decreases, not increases.",
+      "2": "Construct validity cannot be assumed to improve.",
+      "3": "Predictive validity may actually decrease if the test no longer differentiates higher performers."
+    },
+    "boardTip": "Good tests include easy, moderate, and difficult items to maximize discrimination.",
+    "keywords": [
+      "Item Difficulty",
+      "Ceiling Effect",
+      "Test Construction"
+    ]
+  },
+  {
+    "question": "A psychometrician is asked to recommend a single principle that should guide the interpretation of all psychological test scores, regardless of the instrument used. Which principle is MOST appropriate?",
+    "choices": [
+      "Raw scores alone are sufficient for interpretation.",
+      "Psychological tests should never be interpreted independently of the referral question, examinee characteristics, and corroborating evidence.",
+      "Test scores should always outweigh interview findings.",
+      "Standardized scores eliminate the need for clinical judgment."
+    ],
+    "answer": 1,
+    "explanation": "The primary goal of psychological assessment is to answer a referral question using multiple sources of evidence. Test scores must always be interpreted in the context of the individual's background, language, culture, education, medical history, behavioral observations, interviews, and other relevant information. Even highly reliable and valid tests should not be interpreted in isolation.",
+    "incorrectExplanations": {
+      "0": "Raw scores have little meaning without comparison to norms and context.",
+      "2": "Interviews and behavioral observations are essential components of assessment and may clarify or challenge test findings.",
+      "3": "Standardized scores support interpretation but do not replace professional judgment or integration of multiple data sources."
+    },
+    "boardTip": "Assessment is an integrative process—not merely the administration and interpretation of tests.",
+    "keywords": [
+      "Assessment",
+      "Data Integration",
+      "Clinical Judgment"
+    ]
+  },
+  {
+    "question": "A newly developed leadership inventory correlates r = .83 with another leadership measure, r = .79 with emotional intelligence, and r = .77 with conscientiousness. The theoretical model proposes that leadership should be related to, but distinct from, emotional intelligence and conscientiousness. Which conclusion is MOST defensible?",
+    "choices": [
+      "The inventory demonstrates excellent discriminant validity.",
+      "The inventory demonstrates convergent validity but may require further evidence of discriminant validity.",
+      "The inventory demonstrates criterion-related validity.",
+      "The inventory lacks construct validity."
+    ],
+    "answer": 1,
+    "explanation": "The strong correlation (r = .83) with another leadership measure supports convergent validity. However, the inventory also correlates highly with emotional intelligence (r = .79) and conscientiousness (r = .77), constructs that are theoretically related but distinct. Although some correlation is expected, correlations this high raise concerns that the test may not adequately distinguish leadership from related constructs. Additional evidence (e.g., factor analysis or multitrait-multimethod studies) would help establish discriminant validity.",
+    "incorrectExplanations": {
+      "0": "High correlations with related but distinct constructs do not demonstrate excellent discriminant validity.",
+      "2": "Criterion-related validity requires comparison with an external criterion such as job performance, not another psychological construct.",
+      "3": "The evidence does not indicate a lack of construct validity; rather, it suggests further evidence is needed for discriminant validity."
+    },
+    "boardTip": "Construct validity is built from multiple lines of evidence. A single correlation rarely tells the whole story.",
+    "keywords": [
+      "Construct Validity",
+      "Convergent Validity",
+      "Discriminant Validity",
+      "Leadership Assessment"
+    ]
+  },
+  {
+    "question": "A psychologist shortens a 250-item personality inventory to 40 items without conducting additional psychometric analyses. Which concern is MOST justified?",
+    "choices": [
+      "The test will automatically become invalid.",
+      "Reliability, validity, and normative interpretations may all change and require re-evaluation.",
+      "Only the norms will change.",
+      "Shorter tests are always superior because they reduce fatigue."
+    ],
+    "answer": 1,
+    "explanation": "Substantially changing a test alters its psychometric properties. Removing items may affect reliability, the construct being measured, score interpretation, and normative comparisons. A revised version must undergo new validation studies before it can be used confidently.",
+    "incorrectExplanations": {
+      "0": "Invalidity cannot be assumed without empirical evidence.",
+      "2": "Reliability and validity may also change, not just norms.",
+      "3": "Although shorter tests may reduce fatigue, brevity alone does not improve measurement quality."
+    },
+    "boardTip": "Changing a test creates a new test. Its psychometric properties must be re-established.",
+    "keywords": [
+      "Test Revision",
+      "Reliability",
+      "Validity",
+      "Norms"
+    ]
+  },
+  {
+    "question": "A cognitive test shows excellent internal consistency but poor test-retest reliability. Which interpretation is MOST appropriate?",
+    "choices": [
+      "The construct being measured may fluctuate over time, or testing conditions may be inconsistent.",
+      "Internal consistency guarantees stability over time.",
+      "The items measure unrelated constructs.",
+      "The test has excellent predictive validity."
+    ],
+    "answer": 0,
+    "explanation": "Internal consistency indicates that items within a single administration measure the same construct. Test-retest reliability evaluates score stability across time. Low test-retest reliability may reflect unstable constructs, inconsistent testing conditions, or excessive measurement error between administrations.",
+    "incorrectExplanations": {
+      "1": "Different types of reliability evaluate different psychometric properties.",
+      "2": "Poor internal consistency—not poor test-retest reliability—would suggest unrelated items.",
+      "3": "Predictive validity cannot be inferred from reliability evidence alone."
+    },
+    "boardTip": "Reliability is not a single concept. Always identify which type of reliability the question addresses.",
+    "keywords": [
+      "Internal Consistency",
+      "Test-Retest Reliability",
+      "Reliability Types"
+    ]
+  },
+  {
+    "question": "A psychologist uses intelligence norms developed 20 years ago despite documented increases in population cognitive test performance. The MOST likely consequence is:",
+    "choices": [
+      "Scores may systematically overestimate current examinees' relative standing.",
+      "Reliability will necessarily decrease.",
+      "Internal consistency will increase.",
+      "Criterion validity will automatically improve."
+    ],
+    "answer": 0,
+    "explanation": "The Flynn effect refers to the gradual increase in cognitive test performance over generations. Using outdated norms may make current examinees appear to perform better relative to the old normative sample than they actually do, potentially inflating standardized scores.",
+    "incorrectExplanations": {
+      "1": "Outdated norms do not necessarily affect reliability.",
+      "2": "Internal consistency is unrelated to the age of norms.",
+      "3": "Criterion validity requires empirical evidence and is not automatically improved by older norms."
+    },
+    "boardTip": "Old norms + intelligence testing = Think Flynn Effect.",
+    "keywords": [
+      "Flynn Effect",
+      "Norms",
+      "Intelligence Testing"
+    ]
+  },
+  {
+    "question": "A personality inventory contains several reverse-worded items intended to reduce acquiescence bias. However, respondents frequently misunderstand these items. What is the MOST likely consequence?",
+    "choices": [
+      "Increased construct validity.",
+      "Increased measurement error.",
+      "Improved response accuracy.",
+      "Increased predictive validity."
+    ],
+    "answer": 1,
+    "explanation": "Reverse-worded items can reduce response bias, but poorly written or confusing items may introduce random error. Respondents may misinterpret the wording rather than express their true attitudes, reducing measurement accuracy.",
+    "incorrectExplanations": {
+      "0": "Confusing items typically weaken rather than strengthen construct validity.",
+      "2": "Misunderstood items decrease response accuracy.",
+      "3": "Predictive validity cannot be assumed to improve simply because reverse-worded items are used."
+    },
+    "boardTip": "Reverse-worded items are helpful only when respondents clearly understand them.",
+    "keywords": [
+      "Reverse-Worded Items",
+      "Measurement Error",
+      "Response Bias"
+    ]
+  },
+  {
+    "question": "A psychometrician notices that an examinee intentionally responds 'True' to nearly every personality inventory item. Which response style is MOST evident?",
+    "choices": [
+      "Random responding.",
+      "Acquiescence.",
+      "Social desirability.",
+      "Malingering."
+    ],
+    "answer": 1,
+    "explanation": "Acquiescence bias is the tendency to agree with statements regardless of their content. Respondents exhibiting this pattern answer 'True,' 'Agree,' or equivalent responses consistently, which may distort personality profiles.",
+    "incorrectExplanations": {
+      "0": "Random responding lacks a consistent response pattern.",
+      "2": "Social desirability involves presenting oneself favorably, not simply agreeing with every statement.",
+      "3": "Malingering involves intentionally exaggerating or feigning symptoms."
+    },
+    "boardTip": "Agreeing with everything = Acquiescence. Looking unrealistically good = Social Desirability. Looking unrealistically impaired = Malingering.",
+    "keywords": [
+      "Acquiescence",
+      "Response Style",
+      "Personality Assessment"
+    ]
+  },
+  {
+    "question": "A criterion measure includes supervisor ratings that vary widely because different supervisors use different performance standards. Which psychometric issue is MOST directly threatened?",
+    "choices": [
+      "Criterion reliability.",
+      "Internal consistency.",
+      "Face validity.",
+      "Content validity."
+    ],
+    "answer": 0,
+    "explanation": "Criterion-related validity depends on having a reliable criterion. If supervisors apply inconsistent standards, employee performance ratings become unreliable. An unreliable criterion weakens evidence for criterion-related validity.",
+    "incorrectExplanations": {
+      "1": "Internal consistency concerns relationships among items within a test.",
+      "2": "Face validity refers only to whether a test appears appropriate.",
+      "3": "Content validity concerns how well items represent the intended domain."
+    },
+    "boardTip": "A weak criterion limits criterion-related validity.",
+    "keywords": [
+      "Criterion Reliability",
+      "Criterion Validity",
+      "Supervisor Ratings"
+    ]
+  },
+  {
+    "question": "A psychologist reports only statistically significant validity coefficients while omitting non-significant findings from the validation report. Which ethical concern is MOST relevant?",
+    "choices": [
+      "Criterion contamination.",
+      "Selective reporting that may misrepresent the test's psychometric evidence.",
+      "Practice effects.",
+      "Halo effect."
+    ],
+    "answer": 1,
+    "explanation": "Ethical test development requires transparent reporting of both favorable and unfavorable findings. Omitting non-significant results can create an inflated impression of a test's validity and mislead future users.",
+    "incorrectExplanations": {
+      "0": "Criterion contamination involves bias in the criterion measure.",
+      "2": "Practice effects result from repeated testing.",
+      "3": "Halo effect refers to rater bias."
+    },
+    "boardTip": "Ethical assessment requires honest reporting of all psychometric evidence—not just positive findings.",
+    "keywords": [
+      "Ethics",
+      "Selective Reporting",
+      "Psychometric Evidence"
+    ]
+  },
+  {
+    "question": "A clinician concludes that a client's observed score of 118 represents the client's exact level of intelligence. From a psychometric perspective, the MOST appropriate criticism is:",
+    "choices": [
+      "Observed scores always contain some measurement error.",
+      "Intelligence cannot be measured.",
+      "Standard scores are meaningless.",
+      "Reliability eliminates all measurement error."
+    ],
+    "answer": 0,
+    "explanation": "Classical Test Theory states that every observed score consists of a true score plus measurement error. Therefore, an obtained score is an estimate rather than an exact representation of an individual's true ability. Confidence intervals and the Standard Error of Measurement should be considered.",
+    "incorrectExplanations": {
+      "1": "Intelligence can be measured indirectly through standardized psychological tests.",
+      "2": "Standard scores are meaningful when interpreted appropriately.",
+      "3": "Reliability reduces—but never eliminates—measurement error."
+    },
+    "boardTip": "Never interpret a psychological test score as perfectly precise.",
+    "keywords": [
+      "Classical Test Theory",
+      "Observed Score",
+      "Measurement Error",
+      "SEM"
+    ]
+  },
+  {
+    "question": "A psychological test has excellent reliability and validity, but its normative sample excludes older adults. A clinician administers the test to a 72-year-old client and interprets the score using adult norms derived primarily from younger adults. Which conclusion is MOST appropriate?",
+    "choices": [
+      "The interpretation is acceptable because the test is reliable.",
+      "The interpretation may be invalid because the normative sample does not adequately represent the client.",
+      "Reliability compensates for inadequate norms.",
+      "The client's score should be interpreted without reference to norms."
+    ],
+    "answer": 1,
+    "explanation": "Even a highly reliable and valid test can produce misleading interpretations if its normative sample does not match the examinee. Norms are essential because standardized scores reflect comparisons with a reference population. Using norms that underrepresent older adults may lead to inaccurate conclusions.",
+    "incorrectExplanations": {
+      "0": "Reliability alone does not ensure valid interpretation for every population.",
+      "2": "Reliability cannot compensate for inappropriate norms.",
+      "3": "Standardized psychological tests require normative comparisons for meaningful interpretation."
+    },
+    "boardTip": "A test is only as useful as the evidence supporting its use for the specific population being assessed.",
+    "keywords": [
+      "Norms",
+      "Validity",
+      "Older Adults",
+      "Assessment Interpretation"
+    ]
+  },
+  {
+    "question": "A cognitive ability test has a reliability coefficient of .81. A researcher doubles the number of comparable, high-quality items while maintaining the same construct and item quality. Assuming the assumptions of the Spearman-Brown prophecy formula are met, which outcome is MOST likely?",
+    "choices": [
+      "Reliability will decrease because more items increase fatigue.",
+      "Reliability will remain unchanged because reliability is independent of test length.",
+      "Reliability will increase because longer tests generally reduce random measurement error.",
+      "Validity will automatically double."
+    ],
+    "answer": 2,
+    "explanation": "According to the Spearman-Brown prophecy formula, increasing the number of high-quality items measuring the same construct generally increases reliability by reducing the influence of random error. This assumes the added items are comparable in quality and measure the same construct.",
+    "incorrectExplanations": {
+      "0": "Although fatigue may occur in extremely long tests, the question assumes comparable, high-quality items under the Spearman-Brown assumptions.",
+      "1": "Reliability is affected by test length. Longer tests generally produce higher reliability when the additional items are of similar quality.",
+      "3": "Increasing reliability does not automatically increase validity. A test may become more consistent without becoming more accurate."
+    },
+    "boardTip": "Longer tests tend to be more reliable—but not necessarily more valid.",
+    "keywords": [
+      "Spearman-Brown",
+      "Reliability",
+      "Test Length",
+      "Measurement Error"
+    ]
+  },
+  {
+    "question": "A screening test for depression has 95% sensitivity but 55% specificity. Which interpretation is MOST accurate?",
+    "choices": [
+      "The test is excellent for confirming depression.",
+      "The test is likely to identify most individuals with depression but may produce many false positives.",
+      "The test rarely identifies individuals with depression.",
+      "The test has excellent discriminant validity."
+    ],
+    "answer": 1,
+    "explanation": "Sensitivity is the ability of a test to correctly identify individuals who have a condition (true positives). Specificity is the ability to correctly identify individuals who do not have the condition (true negatives). High sensitivity with relatively low specificity makes the test useful for screening because it detects most cases but also generates many false positives.",
+    "incorrectExplanations": {
+      "0": "Confirmation requires high specificity rather than high sensitivity.",
+      "2": "High sensitivity means that most individuals who truly have the disorder are identified.",
+      "3": "Sensitivity and specificity evaluate diagnostic accuracy, not discriminant validity."
+    },
+    "boardTip": "Screening → High Sensitivity. Confirmatory Testing → High Specificity.",
+    "keywords": [
+      "Sensitivity",
+      "Specificity",
+      "Screening Test",
+      "Diagnostic Accuracy"
+    ]
+  },
+  {
+    "question": "A personality test predicts job performance with r = .45. After adding a structured interview, the multiple correlation increases to R = .61. This finding BEST demonstrates:",
+    "choices": [
+      "Criterion contamination.",
+      "Incremental validity.",
+      "Face validity.",
+      "Internal consistency."
+    ],
+    "answer": 1,
+    "explanation": "Incremental validity refers to the extent to which a new assessment method improves prediction beyond what existing methods already provide. The structured interview contributes additional predictive power beyond the personality test alone.",
+    "incorrectExplanations": {
+      "0": "There is no evidence that the criterion measure was biased.",
+      "2": "Face validity concerns whether a test appears appropriate, not whether prediction improves.",
+      "3": "Internal consistency concerns relationships among items within a single test."
+    },
+    "boardTip": "If adding another assessment improves prediction, think Incremental Validity.",
+    "keywords": [
+      "Incremental Validity",
+      "Prediction",
+      "Multiple Correlation",
+      "Personnel Selection"
+    ]
+  },
+  {
+    "question": "A clinician interprets an examinee's MMPI profile despite clear evidence of random responding on the validity scales. Which is the MOST appropriate action?",
+    "choices": [
+      "Continue interpreting the clinical scales because they contain useful information.",
+      "Ignore the validity scales and focus on interview data.",
+      "Interpret the profile cautiously or consider invalidating the results before drawing conclusions.",
+      "Convert the raw scores into percentiles."
+    ],
+    "answer": 2,
+    "explanation": "Validity scales determine whether a profile can be meaningfully interpreted. Evidence of random responding threatens the accuracy of all clinical scales. The examiner should determine whether the profile is interpretable before making conclusions.",
+    "incorrectExplanations": {
+      "0": "Clinical scales cannot be trusted when validity scales indicate invalid responding.",
+      "1": "Interview data are valuable but do not eliminate concerns about invalid test responses.",
+      "3": "Converting scores into percentiles does not correct invalid response patterns."
+    },
+    "boardTip": "Always evaluate validity scales BEFORE interpreting clinical scales.",
+    "keywords": [
+      "MMPI",
+      "Validity Scales",
+      "Random Responding",
+      "Profile Interpretation"
+    ]
+  },
+  {
+    "question": "A test developer finds that Item 18 is answered correctly by 98% of both high- and low-performing examinees. Which statement is MOST accurate?",
+    "choices": [
+      "The item has excellent discrimination.",
+      "The item is likely too easy to discriminate among examinees.",
+      "The item demonstrates high criterion validity.",
+      "The item should automatically be retained."
+    ],
+    "answer": 1,
+    "explanation": "An item answered correctly by nearly everyone provides little information about differences in ability. Although it may have acceptable difficulty for some purposes, it contributes minimally to distinguishing between high- and low-performing examinees.",
+    "incorrectExplanations": {
+      "0": "Good discrimination requires that high scorers answer correctly much more often than low scorers.",
+      "2": "Criterion validity cannot be determined from the performance of a single item.",
+      "3": "Whether an item should be retained depends on its purpose and the results of the complete item analysis."
+    },
+    "boardTip": "Items that everyone answers correctly contribute very little to discrimination.",
+    "keywords": [
+      "Item Analysis",
+      "Item Discrimination",
+      "Difficulty Index",
+      "Psychometrics"
+    ]
+  },
+    {
+    "question": "A clinician administers an intelligence test to a client with severe visual impairment using the standard administration procedure. The GREATEST concern is:",
+    "choices": [
+      "Reduced internal consistency.",
+      "Threats to the validity of score interpretation due to inappropriate administration.",
+      "Poor parallel-forms reliability.",
+      "Reduced percentile rank."
+    ],
+    "answer": 1,
+    "explanation": "When an examinee's sensory or physical limitations interfere with standard administration, obtained scores may reflect those limitations rather than the intended construct. Appropriate accommodations or alternative instruments should be considered when supported by the test manual.",
+    "incorrectExplanations": {
+      "0": "Internal consistency concerns the relationship among test items and is unrelated to the method of administration.",
+      "2": "Parallel-forms reliability refers to consistency between equivalent forms of a test and is unrelated to visual impairment.",
+      "3": "Percentile rank is simply a score interpretation and is not the primary psychometric concern in this situation."
+    },
+    "boardTip": "Scores should reflect the intended construct—not an unrelated disability.",
+    "keywords": [
+      "Testing Accommodations",
+      "Validity",
+      "Standardized Administration",
+      "Visual Impairment"
+    ]
+  },
+  {
+    "question": "Two intelligence tests correlate r = .93, yet one consistently produces scores that are 8 points higher than the other. Which conclusion is MOST appropriate?",
+    "choices": [
+      "The tests demonstrate excellent agreement in absolute scores.",
+      "The tests show strong consistency in ranking individuals but differ systematically in score level.",
+      "The tests have poor reliability.",
+      "The tests lack construct validity."
+    ],
+    "answer": 1,
+    "explanation": "A very high correlation indicates that individuals are ranked similarly by both tests. However, correlation measures association—not agreement. One test may consistently produce higher scores because of differences in norms, scaling, or calibration.",
+    "incorrectExplanations": {
+      "0": "Correlation does not indicate that two tests produce identical scores.",
+      "2": "A correlation of .93 actually reflects strong consistency rather than poor reliability.",
+      "3": "High correlation supports that the tests measure similar constructs."
+    },
+    "boardTip": "Correlation measures association—not agreement.",
+    "keywords": [
+      "Correlation",
+      "Agreement",
+      "Intelligence Testing",
+      "Reliability"
+    ]
+  },
+  {
+    "question": "A psychometrician discovers that several test items function differently for equally skilled examinees from different cultural groups. This finding MOST directly suggests:",
+    "choices": [
+      "Differential Item Functioning (DIF).",
+      "Criterion contamination.",
+      "Practice effects.",
+      "Social desirability."
+    ],
+    "answer": 0,
+    "explanation": "Differential Item Functioning (DIF) occurs when individuals from different groups, but with the same underlying ability, have different probabilities of answering an item correctly. DIF suggests potential item bias that should be investigated before high-stakes use.",
+    "incorrectExplanations": {
+      "1": "Criterion contamination involves bias in the criterion measure rather than in individual test items.",
+      "2": "Practice effects occur because of repeated exposure to a test.",
+      "3": "Social desirability is a response style rather than an item characteristic."
+    },
+    "boardTip": "Same ability + different item performance = Think DIF.",
+    "keywords": [
+      "Differential Item Functioning",
+      "DIF",
+      "Item Bias",
+      "Fairness"
+    ]
+  },
+  {
+    "question": "A psychologist concludes that because a personality inventory has strong reliability coefficients, its diagnostic decisions are necessarily accurate. Which assumption is flawed?",
+    "choices": [
+      "Reliability guarantees validity.",
+      "Reliability estimates score consistency.",
+      "Reliability is influenced by measurement error.",
+      "Reliability can vary across populations."
+    ],
+    "answer": 0,
+    "explanation": "Reliability refers to score consistency, whereas validity concerns the accuracy and appropriateness of score interpretation. A test may consistently measure the wrong construct or consistently produce inaccurate classifications. Therefore, reliability alone does not guarantee validity.",
+    "incorrectExplanations": {
+      "1": "This is a correct statement about reliability.",
+      "2": "Reliability is directly related to measurement error.",
+      "3": "Reliability coefficients can vary across populations, settings, and testing conditions."
+    },
+    "boardTip": "Reliable ≠ Valid. Reliability is necessary, but not sufficient, for validity.",
+    "keywords": [
+      "Reliability",
+      "Validity",
+      "Psychometric Principles",
+      "Assessment"
+    ]
+  },
+  {
+    "question": "A hospital adopts a psychological test solely because another hospital reports good results, without reviewing its reliability, validity, norms, or intended use. Which professional principle has been MOST neglected?",
+    "choices": [
+      "Evidence-based test selection.",
+      "Standard score interpretation.",
+      "Face validity.",
+      "Split-half reliability."
+    ],
+    "answer": 0,
+    "explanation": "Psychological tests should be selected based on empirical evidence, including reliability, validity, normative data, appropriateness for the referral question, and suitability for the population being assessed. Choosing a test simply because another institution uses it is inconsistent with evidence-based assessment practice.",
+    "incorrectExplanations": {
+      "1": "Standard score interpretation occurs after an appropriate test has been selected.",
+      "2": "Face validity alone is never sufficient for selecting a psychological test.",
+      "3": "Split-half reliability is only one type of reliability and does not represent the broader process of evidence-based test selection."
+    },
+    "boardTip": "Never choose a psychological test because it is popular. Choose it because evidence supports its use for the intended purpose and population.",
+    "keywords": [
+      "Evidence-Based Practice",
+      "Test Selection",
+      "Reliability",
+      "Validity",
+      "Norms"
+    ]
+  },
+   {
+    "question": "A psychologist develops a new depression inventory. Initial studies report excellent internal consistency (α = .95) and strong test-retest reliability (r = .91). However, factor analysis reveals that many items intended to measure cognitive symptoms load heavily on the affective factor. Which conclusion is MOST appropriate?",
+    "choices": [
+      "The inventory has poor reliability.",
+      "The inventory demonstrates evidence of weak structural validity despite strong reliability.",
+      "The inventory has excellent criterion validity.",
+      "The inventory should automatically be rejected."
+    ],
+    "answer": 1,
+    "explanation": "Reliability indicates consistency, whereas structural validity evaluates whether the internal structure of a test matches the theoretical construct. If items designed to measure cognitive symptoms consistently load on the affective factor, the test's factor structure does not align with theory. This suggests a weakness in construct validity despite excellent reliability.",
+    "incorrectExplanations": {
+      "0": "Reliability is clearly strong based on the reported internal consistency and test-retest coefficients.",
+      "2": "Criterion validity requires evidence relating test scores to an external criterion, which is not provided in the scenario.",
+      "3": "Weak structural validity suggests that the test should be revised and further validated, not automatically rejected."
+    },
+    "boardTip": "Reliability tells you how consistently a test measures; factor analysis tells you what it is measuring.",
+    "keywords": [
+      "Structural Validity",
+      "Factor Analysis",
+      "Construct Validity",
+      "Reliability",
+      "Internal Consistency"
+    ]
+  },
+  {
+    "question": "A psychologist administers an intelligence test to a client whose first language differs from the language in which the test was standardized. The client's Full Scale IQ falls in the below-average range. What is the BEST interpretation?",
+    "choices": [
+      "The client has below-average intelligence.",
+      "The results should be interpreted cautiously because language proficiency may have influenced performance.",
+      "The Full Scale IQ is invalid because all intelligence tests are culturally biased.",
+      "The test should be rescored using percentile ranks only."
+    ],
+    "answer": 1,
+    "explanation": "Language proficiency can substantially affect performance on verbally loaded cognitive measures. A low score may reflect linguistic limitations rather than true intellectual functioning. Assessment should consider language background, educational history, cultural context, and, when appropriate, use nonverbal or culturally appropriate measures.",
+    "incorrectExplanations": {
+      "0": "A diagnosis cannot be based solely on one test score without considering contextual and cultural factors.",
+      "2": "Although culture can influence testing, not all intelligence tests are equally biased, and the scenario does not justify invalidating the entire assessment.",
+      "3": "Changing the score format does not resolve concerns regarding language proficiency."
+    },
+    "boardTip": "Interpretation—not administration—is often the most important part of assessment.",
+    "keywords": [
+      "Language Proficiency",
+      "Cultural Fairness",
+      "Intelligence Testing",
+      "Assessment Interpretation",
+      "Validity"
+    ]
+  },
+  {
+    "question": "An employment test predicts job performance with r = .52. After controlling statistically for years of work experience, the correlation decreases to r = .18. Which conclusion is MOST justified?",
+    "choices": [
+      "The test possesses strong incremental validity.",
+      "Much of the predictive relationship may have been attributable to work experience rather than the test itself.",
+      "The test is unreliable.",
+      "The criterion measure is contaminated."
+    ],
+    "answer": 1,
+    "explanation": "If the predictive relationship decreases substantially after controlling for work experience, it suggests that work experience accounted for much of the original correlation. Therefore, the test contributes less unique predictive value than initially believed.",
+    "incorrectExplanations": {
+      "0": "Incremental validity refers to additional predictive value beyond existing predictors, not reduced prediction after statistical control.",
+      "2": "Reliability cannot be inferred from changes in predictive correlations.",
+      "3": "No evidence indicates that the criterion measure was contaminated."
+    },
+    "boardTip": "If a predictor loses predictive power after controlling another variable, ask whether it contributes unique variance.",
+    "keywords": [
+      "Incremental Validity",
+      "Partial Correlation",
+      "Prediction",
+      "Work Experience",
+      "Criterion-Related Validity"
+    ]
+  },
+  {
+    "question": "A psychometrician computes the Standard Error of Measurement (SEM) for two cognitive tests. Test A has an SEM of 2.5, while Test B has an SEM of 6.0. Which interpretation is MOST accurate?",
+    "choices": [
+      "Test B is necessarily more valid.",
+      "Scores from Test A are expected to estimate true scores more precisely.",
+      "Test A has a larger standard deviation.",
+      "SEM indicates average item difficulty."
+    ],
+    "answer": 1,
+    "explanation": "The Standard Error of Measurement estimates the amount of random error surrounding an observed score. A smaller SEM indicates greater precision when estimating an individual's true score. Therefore, Test A provides more precise score estimates than Test B.",
+    "incorrectExplanations": {
+      "0": "A smaller SEM reflects greater precision, but it does not automatically indicate greater validity.",
+      "2": "SEM and the standard deviation are different statistical concepts.",
+      "3": "SEM reflects score precision, not item difficulty."
+    },
+    "boardTip": "Smaller SEM = Narrower confidence interval = More precise interpretation.",
+    "keywords": [
+      "SEM",
+      "Standard Error of Measurement",
+      "Measurement Error",
+      "Confidence Interval",
+      "Reliability"
+    ]
+  },
+  {
+    "question": "A personality inventory contains several validity scales designed to detect inconsistent responding. A client's profile shows elevated inconsistency indices but otherwise interpretable clinical scales. What is the MOST appropriate next step?",
+    "choices": [
+      "Ignore the inconsistency scales because the clinical scales appear meaningful.",
+      "Evaluate whether the level of inconsistency invalidates the profile before interpreting clinical scales.",
+      "Average the inconsistent responses with the remaining items.",
+      "Report the profile without mentioning response validity."
+    ],
+    "answer": 1,
+    "explanation": "Validity scales should always be interpreted before clinical scales because they determine whether the profile accurately reflects the respondent. Mild inconsistencies may still allow cautious interpretation, whereas substantial inconsistency may render the profile invalid.",
+    "incorrectExplanations": {
+      "0": "Clinical scales should never be interpreted without first establishing profile validity.",
+      "2": "Averaging inconsistent responses is not a psychometrically supported correction.",
+      "3": "Failing to report concerns about response validity is professionally inappropriate."
+    },
+    "boardTip": "The first question when interpreting personality inventories is: 'Is the profile valid?'",
+    "keywords": [
+      "Validity Scales",
+      "Response Validity",
+      "Personality Inventory",
+      "Clinical Interpretation",
+      "Assessment"
+    ]
+  },
+  {
+    "question": "Two applicants receive identical aptitude scores. One applicant belongs to a cultural group for which several items demonstrate Differential Item Functioning (DIF). Which statement is MOST accurate?",
+    "choices": [
+      "The applicants necessarily possess equal ability.",
+      "DIF suggests some items may advantage one group despite equal underlying ability.",
+      "DIF proves the entire test is invalid.",
+      "DIF only affects reliability."
+    ],
+    "answer": 1,
+    "explanation": "Differential Item Functioning (DIF) occurs when individuals with the same underlying ability have different probabilities of answering an item correctly because of group membership. DIF raises concerns about fairness at the item level and warrants further investigation before drawing conclusions about test bias.",
+    "incorrectExplanations": {
+      "0": "Identical observed scores do not necessarily reflect identical ability estimates if some test items function differently across groups.",
+      "2": "Finding DIF in several items does not automatically invalidate the entire test; further psychometric investigation is required.",
+      "3": "DIF primarily concerns fairness and construct validity rather than reliability."
+    },
+    "boardTip": "Item bias ≠ Test bias. Several biased items require investigation before concluding that the entire test is biased.",
+    "keywords": [
+      "Differential Item Functioning",
+      "DIF",
+      "Item Bias",
+      "Fairness",
+      "Construct Validity"
+    ]
+  },
+  {
+    "question": "A clinician concludes that a client's low memory score confirms dementia despite evidence of severe depression and sleep deprivation. Which assessment principle has been MOST violated?",
+    "choices": [
+      "Standardization.",
+      "Data integration and differential diagnosis.",
+      "Parallel-forms reliability.",
+      "Internal consistency."
+    ],
+    "answer": 1,
+    "explanation": "Memory impairment may result from depression, sleep deprivation, anxiety, medication effects, neurological disorders, or dementia. Sound psychological assessment requires integrating all available clinical information and considering alternative explanations before assigning a diagnosis.",
+    "incorrectExplanations": {
+      "0": "The scenario does not indicate that the test was administered improperly.",
+      "2": "Parallel-forms reliability concerns consistency across equivalent versions of a test.",
+      "3": "Internal consistency evaluates relationships among test items rather than diagnostic interpretation."
+    },
+    "boardTip": "Poor test performance does not automatically identify its cause. Always integrate clinical findings before making a diagnosis.",
+    "keywords": [
+      "Differential Diagnosis",
+      "Assessment Integration",
+      "Clinical Judgment",
+      "Memory Assessment",
+      "Psychological Assessment"
+    ]
+  },
+  {
+    "question": "During test construction, an item has a difficulty index (p) of .98 and a discrimination index close to 0.00. What is the BEST recommendation?",
+    "choices": [
+      "Retain the item because nearly everyone answers it correctly.",
+      "Revise or remove the item because it contributes little to distinguishing examinees.",
+      "Increase the weight assigned to the item.",
+      "Use the item as the sole screening criterion."
+    ],
+    "answer": 1,
+    "explanation": "An item answered correctly by almost everyone (p = .98) provides minimal information about differences among examinees. When its discrimination index is close to zero, it fails to distinguish high-performing examinees from low-performing examinees and contributes little to overall test quality.",
+    "incorrectExplanations": {
+      "0": "Ease alone is not sufficient justification for retaining an item.",
+      "2": "Increasing the weight of a poorly discriminating item would reduce overall measurement quality.",
+      "3": "Items with poor discrimination are inappropriate for screening or high-stakes decisions."
+    },
+    "boardTip": "Good items should have appropriate difficulty AND good discrimination.",
+    "keywords": [
+      "Item Analysis",
+      "Difficulty Index",
+      "Discrimination Index",
+      "Test Construction",
+      "Psychometrics"
+    ]
+  },
+  {
+    "question": "A psychologist reports that an examinee's IQ is 110, but also reports a 95% confidence interval of 104–116. Why is the confidence interval important?",
+    "choices": [
+      "It estimates the range within which the examinee's true score is likely to fall.",
+      "It guarantees the examinee's true IQ is between 104 and 116.",
+      "It reflects the variability of the normative sample.",
+      "It indicates the percentage of items answered correctly."
+    ],
+    "answer": 0,
+    "explanation": "Because all observed scores contain measurement error, confidence intervals provide a range of plausible values for an individual's true score. A 95% confidence interval means that, under repeated sampling and the assumptions of the model, the interval-generating procedure would capture the individual's true score approximately 95% of the time. It does not guarantee that the true score lies within any single interval.",
+    "incorrectExplanations": {
+      "1": "Confidence intervals describe the reliability of the estimation procedure, not absolute certainty about an individual's true score.",
+      "2": "Confidence intervals are based primarily on the Standard Error of Measurement, not simply the variability of the normative sample.",
+      "3": "Confidence intervals are unrelated to the percentage of items answered correctly."
+    },
+    "boardTip": "Do not confuse confidence intervals with standard deviations or percentages correct.",
+    "keywords": [
+      "Confidence Interval",
+      "SEM",
+      "True Score",
+      "Measurement Error",
+      "IQ Testing"
+    ]
+  },
+  {
+    "question": "A psychological test demonstrates strong reliability and validity in adults but has never been validated for adolescents. A clinician nevertheless uses it to evaluate a 14-year-old client and bases treatment recommendations solely on the results. Which criticism is MOST appropriate?",
+    "choices": [
+      "The clinician violated the principle that evidence supporting test use should match the population and purpose of assessment.",
+      "Reliability established in adults automatically applies to adolescents.",
+      "Validity evidence can be generalized across all age groups.",
+      "The clinician's interpretation is acceptable because standardized scores were reported."
+    ],
+    "answer": 0,
+    "explanation": "Validity is not a fixed property of a test; it concerns the appropriateness of score interpretations for specific populations and purposes. Evidence supporting a test in adults cannot automatically be generalized to adolescents. Ethical assessment requires selecting instruments with appropriate reliability, validity, and normative evidence for the population being assessed.",
+    "incorrectExplanations": {
+      "1": "Reliability coefficients may differ across populations because of developmental, educational, and contextual differences.",
+      "2": "Validity evidence must be established separately for the intended population and interpretation.",
+      "3": "Standardized scores cannot compensate for the absence of appropriate validation evidence."
+    },
+    "boardTip": "Validity refers to the interpretation of scores for a specific purpose and population—not to the test itself.",
+    "keywords": [
+      "Validity",
+      "Population Validity",
+      "Assessment Ethics",
+      "Test Selection",
+      "Adolescent Assessment"
+    ]
+  },
+  {
+    "question": "A psychologist administers the WAIS-IV to a client. The client obtains the following Index Scores: Verbal Comprehension = 118, Perceptual Reasoning = 115, Working Memory = 79, Processing Speed = 74. The Full Scale IQ is 98. Which interpretation is MOST appropriate?",
+    "choices": [
+      "The Full Scale IQ accurately summarizes the client's intellectual functioning.",
+      "The Full Scale IQ should be interpreted cautiously because significant variability exists among index scores.",
+      "The client has below-average intelligence.",
+      "Working Memory and Processing Speed should be ignored because they lower the Full Scale IQ."
+    ],
+    "answer": 1,
+    "explanation": "The WAIS-IV assumes that the Full Scale IQ (FSIQ) represents overall cognitive ability. However, when there is marked variability among index scores, the FSIQ may mask important cognitive strengths and weaknesses. In this case, very high Verbal Comprehension and Perceptual Reasoning contrast sharply with low Working Memory and Processing Speed, making the FSIQ less representative of the client's overall functioning.",
+    "incorrectExplanations": {
+      "0": "Significant discrepancies among index scores reduce the interpretability of the Full Scale IQ.",
+      "2": "An FSIQ of 98 falls within the Average range, not below average.",
+      "3": "Areas of weakness are clinically meaningful and should be interpreted rather than ignored."
+    },
+    "boardTip": "A highly variable cognitive profile requires interpretation of Index Scores—not just the Full Scale IQ.",
+    "keywords": [
+      "WAIS-IV",
+      "Full Scale IQ",
+      "Index Scores",
+      "Cognitive Profile",
+      "Assessment Interpretation"
+    ]
+  },
+  {
+    "question": "A client completes the MMPI-2. The validity scales reveal extremely elevated L (Lie) and K (Defensiveness) scores, while the F (Infrequency) scale remains low. What is the MOST likely interpretation?",
+    "choices": [
+      "The client exaggerated psychopathology.",
+      "The client attempted to present themselves in an overly favorable manner.",
+      "The profile is necessarily invalid.",
+      "The client responded randomly."
+    ],
+    "answer": 1,
+    "explanation": "The L scale detects naïve attempts to appear unusually virtuous, while the K scale reflects more subtle defensiveness. A low F scale indicates that the client did not endorse unusual or atypical symptoms. Together, this pattern is most consistent with 'faking good' or minimizing psychological difficulties.",
+    "incorrectExplanations": {
+      "0": "Exaggeration of symptoms is typically associated with elevated F scores.",
+      "2": "Defensive responding does not automatically invalidate an MMPI profile.",
+      "3": "Random responding is more likely reflected by elevated inconsistency indices rather than high L and K scores."
+    },
+    "boardTip": "High L + High K + Low F = Defensive ('Fake Good') Profile.",
+    "keywords": [
+      "MMPI-2",
+      "Validity Scales",
+      "L Scale",
+      "K Scale",
+      "F Scale",
+      "Defensiveness"
+    ]
+  },
+  {
+    "question": "A psychologist notices that every item with a discrimination index below .10 also has an item-total correlation close to zero. Which conclusion is MOST justified?",
+    "choices": [
+      "The items contribute little to measuring the intended construct.",
+      "The items are excellent predictors of future performance.",
+      "The test demonstrates high construct validity.",
+      "The items should automatically be retained."
+    ],
+    "answer": 0,
+    "explanation": "A low discrimination index indicates that an item fails to distinguish high-performing examinees from low-performing examinees. Likewise, an item-total correlation near zero suggests that the item contributes very little to the overall construct being measured. Such items are generally candidates for revision or removal.",
+    "incorrectExplanations": {
+      "1": "Predictive validity cannot be inferred from discrimination indices or item-total correlations.",
+      "2": "Weak-performing items do not strengthen construct validity.",
+      "3": "Items with poor psychometric properties usually require revision or removal rather than automatic retention."
+    },
+    "boardTip": "Low discrimination + Low item-total correlation = Poor item.",
+    "keywords": [
+      "Item Analysis",
+      "Discrimination Index",
+      "Item-Total Correlation",
+      "Construct Validity",
+      "Test Development"
+    ]
+  },
+  {
+    "question": "During a clinical interview, a client reports hearing voices. The psychologist immediately diagnoses schizophrenia without assessing mood symptoms, substance use, medical conditions, or cultural factors. Which assessment principle has been MOST violated?",
+    "choices": [
+      "Standardization.",
+      "Differential diagnosis.",
+      "Internal consistency.",
+      "Test-retest reliability."
+    ],
+    "answer": 1,
+    "explanation": "Hallucinations are not unique to schizophrenia. They may occur in mood disorders with psychotic features, substance-induced disorders, neurological illnesses, sleep disorders, or culturally normative experiences. Competent assessment requires systematically evaluating alternative explanations before assigning a diagnosis.",
+    "incorrectExplanations": {
+      "0": "The issue concerns clinical reasoning, not standardized administration.",
+      "2": "Internal consistency refers to relationships among items within a psychological test.",
+      "3": "Test-retest reliability evaluates score stability over time and is unrelated to diagnostic reasoning."
+    },
+    "boardTip": "One symptom rarely equals one diagnosis. Always consider differential diagnoses.",
+    "keywords": [
+      "Differential Diagnosis",
+      "Clinical Assessment",
+      "Hallucinations",
+      "Schizophrenia",
+      "Diagnostic Reasoning"
+    ]
+  },
+  {
+    "question": "A clinician administers a projective test and concludes that the client's personality is 'highly aggressive' based solely on one unusual response. Which criticism is MOST appropriate?",
+    "choices": [
+      "The conclusion relies excessively on a single response rather than the overall response pattern.",
+      "Projective tests should never be interpreted.",
+      "Aggression cannot be measured.",
+      "The response automatically invalidates the protocol."
+    ],
+    "answer": 0,
+    "explanation": "Projective techniques should be interpreted by evaluating patterns of responses, thematic consistency, response frequency, and converging evidence from other assessment methods—not isolated responses. Drawing broad personality conclusions from a single response risks overinterpretation.",
+    "incorrectExplanations": {
+      "1": "Projective tests can provide useful information when interpreted appropriately and integrated with other assessment data.",
+      "2": "Aggression can be assessed using multiple psychological methods.",
+      "3": "A single unusual response does not invalidate an entire assessment protocol."
+    },
+    "boardTip": "Avoid making major personality interpretations from a single projective response.",
+    "keywords": [
+      "Projective Tests",
+      "Personality Assessment",
+      "Interpretation",
+      "Response Patterns",
+      "Clinical Judgment"
+    ]
+  },
+  {
+    "question": "A psychologist administers the same intelligence test to a client three times within one month. Scores increase steadily despite no intervention.\n\nThe MOST likely explanation is:",
+    "choices": [
+      "Flynn Effect",
+      "Practice Effect",
+      "Criterion Contamination",
+      "Differential Item Functioning"
+    ],
+    "answer": 1,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Repeated exposure to the same test often leads to improved performance because the examinee becomes familiar with the testing materials or procedures rather than because of genuine cognitive improvement. This is known as the practice effect.",
+    "incorrectExplanations": {
+      "0": "The Flynn Effect refers to generational increases in IQ, not repeated testing of the same individual.",
+      "2": "Criterion contamination concerns bias between predictor and criterion measures, not repeated test administration.",
+      "3": "Differential Item Functioning (DIF) concerns item bias across groups with equal ability."
+    },
+    "boardTip": "Same person + same test + short interval = Practice Effect.",
+    "keywords": [
+      "Practice Effect",
+      "Repeated Testing",
+      "Test-Retest",
+      "Learning Effects"
+    ]
+  },
+  {
+    "question": "A psychometrician computes the item difficulty indices of a knowledge test and finds that the average p-value is .97.\n\nWhich consequence is MOST likely?",
+    "choices": [
+      "The test will differentiate highly skilled examinees more effectively.",
+      "The test may produce a ceiling effect.",
+      "Reliability will automatically increase.",
+      "Validity will necessarily improve."
+    ],
+    "answer": 1,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Analyze",
+    "explanation": "A p-value of .97 indicates that nearly all examinees answered the items correctly. Such a test provides little opportunity to distinguish among high-performing individuals, increasing the likelihood of a ceiling effect.",
+    "incorrectExplanations": {
+      "0": "Very easy items reduce discrimination among high-performing examinees.",
+      "2": "Reliability depends on several factors, not item difficulty alone.",
+      "3": "Easy items do not automatically improve validity."
+    },
+    "boardTip": "Very easy test → Ceiling Effect. Very difficult test → Floor Effect.",
+    "keywords": [
+      "Item Difficulty",
+      "P-Value",
+      "Ceiling Effect",
+      "Item Analysis"
+    ]
+  },
+  {
+    "question": "A psychologist administers a personality inventory to determine whether a job applicant will become an effective manager. No validation studies have examined this use.\n\nThe PRIMARY concern is:",
+    "choices": [
+      "The psychologist is extending score interpretations beyond available validity evidence.",
+      "The inventory lacks internal consistency.",
+      "The norms are outdated.",
+      "Reliability is necessarily poor."
+    ],
+    "answer": 0,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Validity concerns the appropriateness of score interpretations for a specific purpose. Even if a test is psychometrically sound, using it to predict managerial effectiveness without supporting evidence is not justified.",
+    "incorrectExplanations": {
+      "1": "No evidence is provided regarding the inventory's internal consistency.",
+      "2": "The scenario does not mention outdated normative data.",
+      "3": "Reliability cannot be assumed to be poor based on the information provided."
+    },
+    "boardTip": "A valid test can still be used invalidly if applied beyond its intended purpose.",
+    "keywords": [
+      "Validity",
+      "Appropriate Test Use",
+      "Evidence-Based Assessment",
+      "Interpretation"
+    ]
+  },
+  {
+    "question": "A psychologist observes that two subtests within a cognitive battery correlate only r = .18 despite being intended to measure the same construct.\n\nWhat does this MOST likely suggest?",
+    "choices": [
+      "Strong convergent validity.",
+      "Possible problems with construct representation.",
+      "Excellent discriminant validity.",
+      "High internal consistency."
+    ],
+    "answer": 1,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Subtests designed to measure the same construct should generally demonstrate moderate to strong positive relationships. A correlation of .18 suggests they may not be assessing the same underlying ability as intended, raising concerns about construct representation.",
+    "incorrectExplanations": {
+      "0": "Low correlations do not support convergent validity.",
+      "2": "Discriminant validity applies to different constructs, not measures of the same construct.",
+      "3": "Internal consistency concerns relationships among items within a scale, not between separate subtests."
+    },
+    "boardTip": "If measures of the same construct barely correlate, question the test's construct validity.",
+    "keywords": [
+      "Construct Validity",
+      "Convergent Validity",
+      "Subtests",
+      "Construct Representation"
+    ]
+  },
+  {
+    "question": "A psychometrician completes a comprehensive assessment. Standardized test scores, interviews, behavioral observations, collateral reports, and medical history all converge on the same conclusion.\n\nWhich principle is BEST illustrated?",
+    "choices": [
+      "Method variance",
+      "Multitrait-Multimethod validation",
+      "Converging evidence across multiple assessment methods",
+      "Response acquiescence"
+    ],
+    "answer": 2,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "The strongest psychological assessments integrate findings from several independent sources. When interviews, observations, standardized tests, collateral information, and medical history all support the same conclusion, confidence in the interpretation increases because multiple methods converge on a consistent finding.",
+    "incorrectExplanations": {
+      "0": "Method variance refers to systematic variance attributable to the assessment method itself.",
+      "1": "The Multitrait-Multimethod (MTMM) matrix is a specific research framework for construct validation, whereas this scenario describes routine clinical integration.",
+      "3": "Acquiescence is a response style involving agreement regardless of item content."
+    },
+    "boardTip": "The most defensible psychological conclusions are supported by multiple independent sources of evidence—not by a single test.",
+    "keywords": [
+      "Assessment",
+      "Data Integration",
+      "Converging Evidence",
+      "Multimethod Assessment"
+    ]
+  },
+  {
+    "question": "A psychologist develops a new resilience scale. Confirmatory Factor Analysis (CFA) indicates poor model fit despite Cronbach's alpha coefficients above .95 for all subscales.\n\nWhich conclusion is MOST appropriate?",
+    "choices": [
+      "The scale demonstrates excellent construct validity because reliability is high.",
+      "The high alpha coefficients compensate for poor model fit.",
+      "The internal structure of the scale does not adequately support the proposed theoretical model.",
+      "The scale should automatically be interpreted using a single total score."
+    ],
+    "answer": 2,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Cronbach's alpha measures internal consistency, whereas Confirmatory Factor Analysis (CFA) evaluates whether the observed data fit the hypothesized factor structure. A scale may demonstrate excellent reliability while failing to support the theoretical dimensions it claims to measure. Poor model fit suggests weaknesses in structural validity, indicating that the proposed factor structure should be reconsidered.",
+    "incorrectExplanations": {
+      "0": "Reliability alone does not establish construct validity.",
+      "1": "High reliability cannot compensate for an incorrect factor structure.",
+      "3": "Poor model fit argues against collapsing scores into one total score without additional evidence."
+    },
+    "boardTip": "Alpha answers 'Are the items consistent?' CFA answers 'Are they measuring the right construct?'",
+    "keywords": [
+      "CFA",
+      "Construct Validity",
+      "Structural Validity",
+      "Cronbach's Alpha",
+      "Factor Analysis"
+    ]
+  },
+  {
+    "question": "A cognitive ability test demonstrates strong validity in predicting academic achievement but weak validity in predicting occupational performance.\n\nWhich principle BEST explains this finding?",
+    "choices": [
+      "Validity is specific to the intended interpretation and use of test scores.",
+      "Reliability differs across settings.",
+      "Standardization changes across populations.",
+      "Practice effects reduce predictive power."
+    ],
+    "answer": 0,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Modern psychometric theory emphasizes that validity applies to score interpretations for specific purposes, not to the test itself. A test may accurately predict academic success but be less effective for predicting workplace performance because different criteria require different abilities.",
+    "incorrectExplanations": {
+      "1": "Reliability is not the primary issue.",
+      "2": "Standardization alone does not explain differing predictive relationships.",
+      "3": "No repeated testing occurred."
+    },
+    "boardTip": "Never say 'The test is valid.' Instead ask, 'Valid for what purpose?'",
+    "keywords": [
+      "Validity",
+      "Predictive Validity",
+      "Score Interpretation",
+      "Purpose of Testing"
+    ]
+  },
+  {
+    "question": "A psychologist selects a personality inventory solely because it reports excellent reliability coefficients, ignoring evidence that its predictive validity for the referral question is weak.\n\nWhich psychometric principle is MOST neglected?",
+    "choices": [
+      "Reliability should be considered before validity.",
+      "Test selection should prioritize evidence relevant to the referral question.",
+      "Reliability guarantees accurate decisions.",
+      "Internal consistency is the most important psychometric property."
+    ],
+    "answer": 1,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Selecting an assessment instrument requires considering the referral question, target population, validity evidence, reliability, practicality, and ethical appropriateness. A highly reliable instrument may still be unsuitable if it lacks evidence supporting the intended use.",
+    "incorrectExplanations": {
+      "0": "Reliability is important but not sufficient.",
+      "2": "Reliable tests can still produce invalid conclusions.",
+      "3": "No single psychometric property is universally most important."
+    },
+    "boardTip": "The best psychological test is not the one with the highest reliability—it is the one best supported for the specific referral question.",
+    "keywords": [
+      "Test Selection",
+      "Referral Question",
+      "Reliability",
+      "Validity"
+    ]
+  },
+  {
+    "question": "A clinician notices that an examinee's observed score falls near the diagnostic cutoff. The Standard Error of Measurement indicates a 95% confidence interval that crosses both sides of the cutoff.\n\nWhat is the MOST appropriate conclusion?",
+    "choices": [
+      "The examinee clearly meets diagnostic criteria.",
+      "The observed score alone is insufficient to support a definitive classification.",
+      "Confidence intervals should be ignored when diagnostic cutoffs exist.",
+      "Measurement error affects only research studies."
+    ],
+    "answer": 1,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Analyze",
+    "explanation": "When a confidence interval crosses a diagnostic cutoff, the individual's true score may reasonably fall above or below the threshold. This uncertainty means that classification should not rely solely on the observed score. Additional clinical information and corroborating evidence are essential.",
+    "incorrectExplanations": {
+      "0": "Measurement error prevents certainty.",
+      "2": "Confidence intervals are especially important near decision thresholds.",
+      "3": "Measurement error affects individual clinical decisions as well as research."
+    },
+    "boardTip": "Cutoff scores should never be interpreted without considering measurement error.",
+    "keywords": [
+      "SEM",
+      "Confidence Interval",
+      "Diagnostic Cutoff",
+      "Measurement Error"
+    ]
+  },
+  {
+    "question": "An item on an employment selection test is found to disadvantage applicants from one cultural group despite equal levels of job-related ability.\n\nWhat should be the psychometrician's FIRST recommendation?",
+    "choices": [
+      "Immediately discard the entire test.",
+      "Investigate the item for Differential Item Functioning and possible bias.",
+      "Lower the passing score for that cultural group.",
+      "Ignore the finding because overall reliability is high."
+    ],
+    "answer": 1,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Evidence that equally qualified individuals from different groups perform differently on an item raises concerns about Differential Item Functioning (DIF). The appropriate first step is to determine whether the item functions unfairly before making decisions about revision or removal.",
+    "incorrectExplanations": {
+      "0": "One problematic item does not necessarily invalidate the entire test.",
+      "2": "Adjusting passing scores without evidence introduces additional fairness concerns.",
+      "3": "Reliability does not address item fairness."
+    },
+    "boardTip": "Evidence of DIF prompts investigation—not immediate rejection.",
+    "keywords": [
+      "Differential Item Functioning",
+      "DIF",
+      "Item Bias",
+      "Fairness"
+    ]
+  },
+  {
+    "question": "A psychometrician administers two personality inventories measuring the same construct. One yields stable scores over time but low internal consistency, while the other yields high internal consistency but poor temporal stability.\n\nWhich conclusion is MOST appropriate?",
+    "choices": [
+      "Both tests demonstrate equivalent reliability.",
+      "Reliability is multidimensional, and different coefficients evaluate different aspects of score consistency.",
+      "Internal consistency is superior to test-retest reliability.",
+      "Test-retest reliability automatically determines validity."
+    ],
+    "answer": 1,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Reliability is not a single statistic. Internal consistency evaluates consistency among items within one administration, whereas test-retest reliability evaluates score stability over time. Both contribute unique information regarding the quality of measurement.",
+    "incorrectExplanations": {
+      "0": "The tests demonstrate different strengths and weaknesses.",
+      "2": "Neither reliability estimate is universally superior.",
+      "3": "Reliability contributes to—but does not determine—validity."
+    },
+    "boardTip": "Always identify which type of reliability the question refers to.",
+    "keywords": [
+      "Reliability",
+      "Internal Consistency",
+      "Test-Retest Reliability"
+    ]
+  },
+  {
+    "question": "A psychologist concludes that because a client scored within the average range on an intelligence test, no cognitive impairment exists.\n\nWhy is this conclusion MOST problematic?",
+    "choices": [
+      "Average scores eliminate the need for further assessment.",
+      "Cognitive impairment may exist despite average global scores because specific domains can be selectively impaired.",
+      "Intelligence tests measure only personality.",
+      "Standard scores cannot detect impairment."
+    ],
+    "answer": 1,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Global cognitive scores may conceal significant deficits in specific domains such as memory, attention, executive functioning, or processing speed. Clinicians should interpret profiles rather than relying solely on overall scores.",
+    "incorrectExplanations": {
+      "0": "Additional assessment may still be warranted.",
+      "2": "Intelligence tests do not measure personality.",
+      "3": "Standard scores are useful when interpreted appropriately."
+    },
+    "boardTip": "A normal overall score does not rule out focal cognitive deficits.",
+    "keywords": [
+      "Cognitive Assessment",
+      "Intelligence",
+      "Clinical Interpretation",
+      "Profile Analysis"
+    ]
+  },
+  {
+    "question": "A psychological test consistently predicts performance in one occupation but performs poorly in another, despite measuring the same construct.\n\nThe BEST explanation is:",
+    "choices": [
+      "Criterion relevance differs across occupational settings.",
+      "Reliability necessarily changes across occupations.",
+      "Internal consistency declines in different professions.",
+      "The test has no construct validity."
+    ],
+    "answer": 0,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Analyze",
+    "explanation": "A construct may be more relevant to success in one occupation than another. Consequently, the same test can demonstrate strong predictive validity in one context and weak predictive validity in another because the criterion itself differs.",
+    "incorrectExplanations": {
+      "1": "Reliability is not the primary explanation.",
+      "2": "Internal consistency concerns item relationships.",
+      "3": "The test may still validly measure the intended construct."
+    },
+    "boardTip": "Predictive validity depends on both the predictor and the criterion.",
+    "keywords": [
+      "Predictive Validity",
+      "Criterion",
+      "Occupational Assessment"
+    ]
+  },
+  {
+    "question": "A clinician interprets an examinee's low processing speed as evidence of low intelligence despite superior reasoning and verbal comprehension scores.\n\nWhich error has MOST likely occurred?",
+    "choices": [
+      "Halo effect.",
+      "Overgeneralization from a specific cognitive weakness.",
+      "Practice effect.",
+      "Criterion contamination."
+    ],
+    "answer": 1,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Processing speed is only one component of cognitive functioning. Individuals may have average or superior reasoning abilities while exhibiting reduced processing speed due to attention, neurological conditions, anxiety, or motor difficulties. Conclusions should reflect the entire cognitive profile.",
+    "incorrectExplanations": {
+      "0": "Halo effect involves overall impressions influencing judgments.",
+      "2": "No repeated testing occurred.",
+      "3": "Criterion contamination concerns validation studies."
+    },
+    "boardTip": "Interpret cognitive profiles—not isolated scores.",
+    "keywords": [
+      "Processing Speed",
+      "Intelligence",
+      "Profile Interpretation"
+    ]
+  },
+  {
+    "question": "A psychologist administers a well-validated intelligence test exactly according to the manual but interprets the results without considering the client's cultural background, educational opportunities, language proficiency, medical history, or referral question.\n\nWhich statement is MOST accurate?",
+    "choices": [
+      "The assessment is valid because administration was standardized.",
+      "Standardized administration guarantees accurate interpretation.",
+      "Proper administration is necessary but insufficient; valid interpretation requires integrating contextual information.",
+      "Reliability eliminates the need for clinical judgment."
+    ],
+    "answer": 2,
+    "difficulty": "Expert",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Standardized administration ensures that test scores are obtained under uniform conditions, but valid assessment extends beyond administration. Ethical and competent interpretation requires integrating the client's background, developmental history, language, culture, education, medical status, behavioral observations, and referral question. Failure to consider these factors can lead to inaccurate conclusions even when the test itself is administered correctly.",
+    "incorrectExplanations": {
+      "0": "Standardization supports comparability but does not ensure valid interpretation.",
+      "1": "Accurate interpretation depends on more than following the manual.",
+      "3": "Clinical judgment remains essential because psychological tests are one source of evidence within a comprehensive assessment."
+    },
+    "boardTip": "A standardized score has meaning only when interpreted within the individual's unique context.",
+    "keywords": [
+      "Standardization",
+      "Clinical Judgment",
+      "Assessment Context",
+      "Interpretation"
+    ]
+  },
+    {
+    "question": "A newly developed burnout inventory demonstrates the following evidence:\n\nCronbach's α = .96\nTest-retest reliability = .91\nCFA indicates poor model fit (CFI = .78; RMSEA = .12)\nStrong correlations with anxiety (r = .87) and depression (r = .90)\n\nWhich conclusion is MOST defensible?",
+    "choices": [
+      "The inventory possesses excellent construct validity because reliability is high.",
+      "The inventory appears reliable but may inadequately distinguish burnout from related constructs while lacking evidence for its proposed internal structure.",
+      "The inventory should be interpreted using a single total score.",
+      "High convergent validity eliminates concerns regarding discriminant validity."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "This question integrates three pillars of construct validity. The inventory demonstrates excellent internal consistency and test-retest reliability, but poor CFA fit indicates weak structural validity, while extremely high correlations with anxiety and depression suggest inadequate discriminant validity. Reliability alone does not establish construct validity.",
+    "incorrectExplanations": {
+      "0": "High reliability does not guarantee construct validity.",
+      "2": "Poor CFA suggests the proposed factor structure is not adequately supported.",
+      "3": "Convergent validity does not replace the need for discriminant validity."
+    },
+    "boardTip": "The best psychometricians evaluate multiple sources of validity evidence simultaneously.",
+    "keywords": [
+      "Construct Validity",
+      "Reliability",
+      "Structural Validity",
+      "Discriminant Validity",
+      "CFA"
+    ]
+  },
+  {
+    "question": "An employment selection test has Sensitivity = 96%, Specificity = 48%, and the disorder it screens for has a prevalence of only 2% in applicants.\n\nWhich conclusion is MOST accurate?",
+    "choices": [
+      "Most applicants who screen positive will actually have the disorder.",
+      "The positive predictive value will likely be low despite excellent sensitivity.",
+      "The negative predictive value will necessarily be poor.",
+      "The test is inappropriate because specificity is below .50."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Analyze",
+    "explanation": "This is a base-rate problem. When the prevalence of a condition is extremely low, even highly sensitive tests produce many false positives, resulting in a low Positive Predictive Value (PPV).",
+    "incorrectExplanations": {
+      "0": "With low prevalence, most positive results are actually false positives.",
+      "2": "Negative predictive value is usually very high when prevalence is low.",
+      "3": "Low specificity alone does not necessarily make a screening test inappropriate."
+    },
+    "boardTip": "Sensitivity, specificity, prevalence, PPV, and NPV measure different concepts.",
+    "keywords": [
+      "Sensitivity",
+      "Specificity",
+      "PPV",
+      "NPV",
+      "Prevalence"
+    ]
+  },
+  {
+    "question": "A psychologist concludes that because two intelligence tests correlate r = .94, they may be used interchangeably.\n\nWhat is the BEST criticism?",
+    "choices": [
+      "Correlation measures association rather than agreement.",
+      "High correlation guarantees identical scores.",
+      "Reliability coefficients should have been reported instead.",
+      "Intelligence tests cannot be compared statistically."
+    ],
+    "answer": 0,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "A very high correlation indicates similar rank ordering of individuals but does not imply identical scores. Two tests may correlate highly while systematically differing in score levels. Agreement requires analyses such as Bland-Altman plots, Intraclass Correlation (ICC), or mean difference analysis.",
+    "incorrectExplanations": {
+      "1": "High correlation does not guarantee identical observed scores.",
+      "2": "Reliability coefficients answer a different psychometric question.",
+      "3": "Intelligence tests can be statistically compared using appropriate methods."
+    },
+    "boardTip": "High correlation does not mean two tests are interchangeable.",
+    "keywords": [
+      "Correlation",
+      "Agreement",
+      "ICC",
+      "Bland-Altman",
+      "Psychometrics"
+    ]
+  },
+  {
+    "question": "During validation, a personality inventory predicts supervisor ratings at r = .58. Researchers later discover supervisors had access to applicants' inventory scores before completing evaluations.\n\nWhich threat MOST directly affects the validity study?",
+    "choices": [
+      "Criterion deficiency",
+      "Criterion contamination",
+      "Construct underrepresentation",
+      "Restriction of range"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Criterion contamination occurs when the criterion measure is influenced by knowledge of the predictor. Because supervisors knew applicants' inventory scores, their ratings may have been biased, artificially inflating the observed validity coefficient.",
+    "incorrectExplanations": {
+      "0": "Criterion deficiency refers to important aspects of performance being omitted from the criterion.",
+      "2": "Construct underrepresentation concerns inadequate sampling of the construct.",
+      "3": "Restriction of range involves limited variability in scores."
+    },
+    "boardTip": "Criterion contamination occurs when the criterion is influenced by the predictor.",
+    "keywords": [
+      "Criterion Contamination",
+      "Criterion Validity",
+      "Validation Study"
+    ]
+  },
+  {
+    "question": "A cognitive battery yields:\n\nSEM = 4\nObserved IQ = 101\n95% Confidence Interval = 93–109\nClinical cutoff = 100\n\nWhat is the BEST conclusion?",
+    "choices": [
+      "The examinee clearly exceeds the cutoff.",
+      "The examinee clearly falls below the cutoff.",
+      "Measurement error prevents confident classification using the observed score alone.",
+      "Confidence intervals are unnecessary because IQ is standardized."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Because the confidence interval overlaps both sides of the diagnostic cutoff, the individual's true score could reasonably fall above or below the threshold. Classification should therefore not rely solely on the observed score.",
+    "incorrectExplanations": {
+      "0": "The confidence interval crosses the cutoff, preventing certainty.",
+      "1": "The interval includes values above the cutoff.",
+      "3": "Confidence intervals remain essential even for standardized scores."
+    },
+    "boardTip": "Never ignore confidence intervals when scores are near clinical cutoffs.",
+    "keywords": [
+      "SEM",
+      "Confidence Interval",
+      "Cutoff Score",
+      "Measurement Error"
+    ]
+  },
+  {
+    "question": "Researchers compare two CFA models.\n\nModel A: CFI = .96, RMSEA = .04\nModel B: CFI = .82, RMSEA = .11\n\nAssuming all other statistics are acceptable, which model demonstrates superior structural validity?",
+    "choices": [
+      "Model A",
+      "Model B",
+      "Both equally",
+      "Impossible to determine"
+    ],
+    "answer": 0,
+    "difficulty": "Master",
+    "cognitiveLevel": "Analyze",
+    "explanation": "General guidelines suggest CFI values above .95 and RMSEA values below .06 indicate good model fit. Model A clearly demonstrates superior structural validity.",
+    "incorrectExplanations": {
+      "1": "Model B demonstrates poor model fit.",
+      "2": "The reported fit indices clearly favor Model A.",
+      "3": "Enough information is available to determine the better model."
+    },
+    "boardTip": "Remember: Higher CFI and lower RMSEA indicate better model fit.",
+    "keywords": [
+      "CFA",
+      "CFI",
+      "RMSEA",
+      "Structural Validity"
+    ]
+  },
+  {
+    "question": "A clinician interprets an MMPI profile despite VRIN being extremely elevated, TRIN elevated, and F moderately elevated.\n\nWhich conclusion is MOST appropriate?",
+    "choices": [
+      "Clinical scales should be interpreted normally.",
+      "Response consistency should be evaluated before interpreting clinical scales.",
+      "Elevated F automatically indicates psychosis.",
+      "The profile demonstrates excellent validity."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "VRIN and TRIN evaluate response consistency. Elevated scores suggest inconsistent responding that may invalidate interpretation of clinical scales. Validity scales must always be evaluated before clinical scales.",
+    "incorrectExplanations": {
+      "0": "Clinical scales may not be interpretable if validity scales indicate inconsistent responding.",
+      "2": "An elevated F scale alone does not diagnose psychosis.",
+      "3": "The elevated validity scales suggest possible problems with profile validity."
+    },
+    "boardTip": "Interpret MMPI validity scales before interpreting clinical scales.",
+    "keywords": [
+      "MMPI",
+      "VRIN",
+      "TRIN",
+      "Validity Scales"
+    ]
+  },
+  {
+    "question": "An item demonstrates statistically significant Differential Item Functioning (DIF). However, content review, expert review, and cognitive interviews find no meaningful evidence of bias.\n\nWhat is the BEST conclusion?",
+    "choices": [
+      "Statistical DIF automatically proves item bias.",
+      "DIF suggests the need for additional investigation but does not by itself establish unfairness.",
+      "The item must immediately be removed.",
+      "Reliability has been compromised."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Differential Item Functioning indicates that groups respond differently to an item, but DIF alone does not prove bias. Evidence from substantive review is needed before concluding that an item is unfair.",
+    "incorrectExplanations": {
+      "0": "Statistical DIF alone is insufficient to establish bias.",
+      "2": "Further investigation should occur before deciding whether to remove the item.",
+      "3": "DIF primarily concerns fairness, not reliability."
+    },
+    "boardTip": "Every biased item shows DIF, but not every DIF item is biased.",
+    "keywords": [
+      "DIF",
+      "Item Bias",
+      "Fairness",
+      "Measurement Invariance"
+    ]
+  },
+  {
+    "question": "A psychologist reports only statistically significant validation studies while intentionally omitting nonsignificant findings.\n\nThis practice MOST threatens:",
+    "choices": [
+      "Reliability",
+      "Ethical transparency of psychometric evidence",
+      "Internal consistency",
+      "Face validity"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Selective reporting creates an inflated impression of validity and violates ethical standards requiring complete and transparent reporting of psychometric evidence.",
+    "incorrectExplanations": {
+      "0": "Reliability is unrelated to selective reporting.",
+      "2": "Internal consistency concerns relationships among test items.",
+      "3": "Face validity refers only to appearance."
+    },
+    "boardTip": "Ethical psychometric practice requires reporting both favorable and unfavorable evidence.",
+    "keywords": [
+      "Ethics",
+      "Selective Reporting",
+      "Validity",
+      "Transparency"
+    ]
+  },
+  {
+    "question": "A psychologist evaluates an examinee using a clinical interview, WAIS-IV, MMPI-2, behavioral observation, collateral interview, and academic records. The sources disagree substantially.\n\nWhich action BEST reflects evidence-based assessment?",
+    "choices": [
+      "Report the WAIS-IV because intelligence tests are most objective.",
+      "Report the MMPI because personality inventories are standardized.",
+      "Integrate all available information, investigate reasons for discrepancies, and avoid conclusions unsupported by converging evidence.",
+      "Average all obtained scores."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Evidence-based assessment requires integrating all available data, investigating discrepancies, evaluating the quality of each source, seeking additional evidence when needed, and drawing conclusions based on converging evidence while acknowledging uncertainty.",
+    "incorrectExplanations": {
+      "0": "No single assessment should automatically outweigh all others.",
+      "1": "Standardized personality inventories are only one component of comprehensive assessment.",
+      "3": "Scores from different instruments measure different constructs and should not be averaged."
+    },
+    "boardTip": "The strongest assessment conclusions come from multiple independent sources that converge on the same interpretation.",
+    "keywords": [
+      "Evidence-Based Assessment",
+      "Data Integration",
+      "Clinical Judgment",
+      "Multimethod Assessment"
+    ]
+  },
+   {
+    "question": "A newly developed executive functioning battery demonstrates the following evidence:\n\nInternal consistency (α) = .94\nTest-retest reliability = .90\nCFA indicates excellent model fit (CFI = .97; RMSEA = .04)\nStrong correlations with established executive functioning tests (r = .81)\nModerate correlations with intelligence tests (r = .42)\n\nHowever, the battery fails to predict real-world executive functioning in occupational settings.\n\nWhich conclusion is MOST defensible?",
+    "choices": [
+      "The battery demonstrates excellent construct validity and predictive validity.",
+      "The battery demonstrates excellent construct validity but limited criterion-related (predictive) validity.",
+      "The battery lacks reliability because it failed to predict occupational performance.",
+      "The battery should not be used because predictive validity is more important than construct validity."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "The battery demonstrates excellent internal consistency, test-retest reliability, structural validity through excellent CFA fit, and convergent validity with established executive functioning measures. However, predictive validity is a separate source of validity evidence. Its failure to predict occupational executive functioning indicates limited criterion-related (predictive) validity despite strong construct validity.",
+    "incorrectExplanations": {
+      "0": "Predictive validity is weak because the battery failed to predict occupational performance.",
+      "2": "Reliability refers to score consistency, not the ability to predict outcomes.",
+      "3": "Weak predictive validity does not invalidate an otherwise well-constructed measure."
+    },
+    "boardTip": "Construct validity answers 'Does the test measure the construct?' Predictive validity answers 'Does the test predict meaningful outcomes?'",
+    "keywords": [
+      "Construct Validity",
+      "Predictive Validity",
+      "Criterion-related Validity",
+      "CFA",
+      "Reliability"
+    ]
+  },
+  {
+    "question": "An intelligence test consistently produces higher scores for highly educated individuals and lower scores for individuals with limited educational opportunities, even when both groups demonstrate similar reasoning ability.\n\nWhich psychometric issue is MOST directly threatened?",
+    "choices": [
+      "Measurement invariance.",
+      "Test-retest reliability.",
+      "Internal consistency.",
+      "Parallel-forms reliability."
+    ],
+    "answer": 0,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Measurement invariance refers to whether a test measures the same construct in the same way across different groups. If equally capable individuals obtain systematically different scores because of educational background, the meaning of the scores differs across groups, threatening fairness and validity.",
+    "incorrectExplanations": {
+      "1": "Test-retest reliability concerns score stability across time.",
+      "2": "Internal consistency concerns relationships among items.",
+      "3": "Parallel-forms reliability concerns equivalence between alternate forms."
+    },
+    "boardTip": "Whenever group membership changes the meaning of scores, think measurement invariance.",
+    "keywords": [
+      "Measurement Invariance",
+      "Fairness",
+      "Bias",
+      "Construct Validity"
+    ]
+  },
+  {
+    "question": "During item analysis, an item demonstrates the following characteristics:\n\nDifficulty index (p) = .52\nDiscrimination index = .02\nItem-total correlation = .05\n\nWhich recommendation is MOST appropriate?",
+    "choices": [
+      "Retain the item because its difficulty is acceptable.",
+      "Revise or remove the item because it contributes little to measuring the intended construct.",
+      "Increase the scoring weight of the item.",
+      "Use the item as an anchor item in future forms."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Although the item has an ideal difficulty level, its discrimination index and item-total correlation are both extremely low, indicating that it contributes very little to distinguishing examinees or measuring the intended construct. Good test items require both appropriate difficulty and strong discrimination.",
+    "incorrectExplanations": {
+      "0": "Difficulty alone is insufficient for retaining an item.",
+      "2": "Increasing the weight of a poor item would decrease overall test quality.",
+      "3": "Anchor items should demonstrate excellent psychometric properties."
+    },
+    "boardTip": "A good item requires both appropriate difficulty and good discrimination.",
+    "keywords": [
+      "Item Analysis",
+      "Difficulty Index",
+      "Discrimination Index",
+      "Item-total Correlation"
+    ]
+  },
+  {
+    "question": "A clinician interprets an elevated depression scale without considering that the client completed the assessment one day after experiencing the unexpected death of a close family member.\n\nWhich assessment principle has MOST likely been violated?",
+    "choices": [
+      "Standardization.",
+      "Contextual interpretation.",
+      "Internal consistency.",
+      "Parallel-forms reliability."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Psychological assessment requires integrating test scores with the individual's current life circumstances. Acute grief can temporarily elevate depression scores without indicating a depressive disorder. Competent interpretation always considers contextual information alongside psychometric evidence.",
+    "incorrectExplanations": {
+      "0": "The scenario concerns interpretation rather than administration procedures.",
+      "2": "Internal consistency concerns relationships among items within a scale.",
+      "3": "Parallel-forms reliability is unrelated to clinical interpretation."
+    },
+    "boardTip": "Psychological tests should always be interpreted within the client's developmental, medical, cultural, and situational context.",
+    "keywords": [
+      "Contextual Interpretation",
+      "Clinical Assessment",
+      "Grief",
+      "Validity"
+    ]
+  },
+  {
+    "question": "Researchers validate an employment selection test using only applicants who were hired. The resulting validity coefficient is substantially lower than expected.\n\nWhich explanation is MOST likely?",
+    "choices": [
+      "Restriction of range reduced the observed validity coefficient.",
+      "Criterion contamination occurred.",
+      "Practice effects reduced performance.",
+      "Internal consistency was poor."
+    ],
+    "answer": 0,
+    "difficulty": "Master",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Because only successful applicants were included, predictor scores show limited variability. Restricted variability reduces the magnitude of observed correlations, making the predictor appear less valid than it may actually be within the full applicant population.",
+    "incorrectExplanations": {
+      "1": "Criterion contamination occurs when the criterion is influenced by knowledge of predictor scores.",
+      "2": "Practice effects result from repeated testing.",
+      "3": "Internal consistency cannot be inferred from the information provided."
+    },
+    "boardTip": "Whenever only selected individuals are studied, consider restriction of range.",
+    "keywords": [
+      "Restriction of Range",
+      "Criterion-related Validity",
+      "Personnel Selection",
+      "Predictive Validity"
+    ]
+  },
+   {
+    "question": "A psychologist concludes that a personality disorder diagnosis is certain because three different personality inventories produced similar profiles.\n\nWhich criticism is MOST appropriate?",
+    "choices": [
+      "Agreement among inventories alone cannot establish a diagnosis.",
+      "Similar profiles eliminate measurement error.",
+      "Multiple inventories automatically increase diagnostic accuracy.",
+      "Personality inventories are sufficient for psychiatric diagnosis."
+    ],
+    "answer": 0,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Although convergence across multiple personality inventories increases confidence in the findings, diagnosis requires integration of interviews, behavioral observations, developmental history, collateral information, and diagnostic criteria. Psychological tests provide evidence, but they cannot establish a diagnosis in isolation.",
+    "incorrectExplanations": {
+      "1": "Measurement error is never completely eliminated.",
+      "2": "Agreement among inventories increases confidence but does not guarantee diagnostic accuracy.",
+      "3": "Psychiatric diagnosis requires multiple assessment methods and clinical judgment."
+    },
+    "boardTip": "Multiple psychological tests strengthen conclusions—but clinical judgment remains essential.",
+    "keywords": [
+      "Diagnosis",
+      "Data Integration",
+      "Clinical Judgment",
+      "Personality Assessment",
+      "Converging Evidence"
+    ]
+  },
+  {
+    "question": "A screening instrument demonstrates the following characteristics:\n\nSensitivity = 98%\nSpecificity = 38%\n\nIt is administered in a population where the disorder prevalence is only 1%.\n\nWhich statement is MOST accurate?",
+    "choices": [
+      "Most positive test results will likely be false positives.",
+      "Positive predictive value will be extremely high.",
+      "Negative predictive value will be poor.",
+      "Sensitivity determines disease prevalence."
+    ],
+    "answer": 0,
+    "difficulty": "Master",
+    "cognitiveLevel": "Analyze",
+    "explanation": "When prevalence is extremely low, false positives usually outnumber true positives unless specificity is also high. Consequently, many individuals who screen positive will not actually have the disorder, resulting in a low positive predictive value despite excellent sensitivity.",
+    "incorrectExplanations": {
+      "1": "Positive predictive value decreases when prevalence is very low.",
+      "2": "Negative predictive value is typically very high under conditions of low prevalence and high sensitivity.",
+      "3": "Prevalence is a characteristic of the population, not a property of the test."
+    },
+    "boardTip": "Low prevalence + Low specificity = Many false positives.",
+    "keywords": [
+      "Sensitivity",
+      "Specificity",
+      "Positive Predictive Value",
+      "Negative Predictive Value",
+      "Prevalence"
+    ]
+  },
+  {
+    "question": "A psychologist administers a cognitive battery to a multilingual client using an interpreter who frequently paraphrases standardized test instructions.\n\nWhich concern is MOST significant?",
+    "choices": [
+      "Standardization has been compromised, threatening the validity of score interpretation.",
+      "Reliability automatically becomes unacceptable.",
+      "The client's percentile rank is invalid.",
+      "Internal consistency is reduced."
+    ],
+    "answer": 0,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Standardized instructions ensure that all examinees receive identical testing conditions. Paraphrasing instructions may alter task demands, making it difficult to determine whether observed scores reflect the client's true ability or differences in administration. This primarily threatens the validity of score interpretation.",
+    "incorrectExplanations": {
+      "1": "Reliability cannot be assumed to become unacceptable because of one administration.",
+      "2": "Percentile ranks are not automatically invalid, although interpretation becomes more cautious.",
+      "3": "Internal consistency concerns relationships among test items rather than administration procedures."
+    },
+    "boardTip": "When administration deviates from standardized procedures, interpretation—not necessarily scoring—is most affected.",
+    "keywords": [
+      "Standardization",
+      "Administration",
+      "Interpreter",
+      "Validity",
+      "Assessment"
+    ]
+  },
+  {
+    "question": "A factor analysis reveals that one subscale loads substantially on two theoretically unrelated latent factors.\n\nWhich interpretation is MOST appropriate?",
+    "choices": [
+      "The subscale demonstrates problematic cross-loading, reducing interpretability.",
+      "The subscale demonstrates excellent discriminant validity.",
+      "The finding indicates criterion contamination.",
+      "The subscale should automatically be retained because it measures multiple constructs."
+    ],
+    "answer": 0,
+    "difficulty": "Master",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Cross-loading occurs when a subscale or item loads substantially on more than one factor. This suggests that it does not clearly represent a single construct, making interpretation more difficult and weakening evidence for structural validity.",
+    "incorrectExplanations": {
+      "1": "Cross-loading weakens rather than strengthens discriminant validity.",
+      "2": "Criterion contamination concerns validation studies, not factor analysis.",
+      "3": "Measuring multiple constructs is generally undesirable unless intentionally designed."
+    },
+    "boardTip": "Well-developed factors should be conceptually distinct and supported by clear loading patterns.",
+    "keywords": [
+      "Factor Analysis",
+      "Cross-loading",
+      "Structural Validity",
+      "Discriminant Validity",
+      "Construct Validity"
+    ]
+  },
+  {
+    "question": "A psychologist receives the following assessment results:\n\nWAIS-IV: Average intellectual functioning\nAchievement testing: Reading and written expression substantially below expectations\nTeacher reports: Persistent academic difficulties\nParent interview: Long history of reading problems\nBehavioral observations: Excellent effort throughout testing\nPersonality assessment: No significant emotional disturbance\n\nWhich interpretation is MOST appropriate?",
+    "choices": [
+      "Average intelligence rules out a learning disorder.",
+      "The findings converge to support further evaluation for a Specific Learning Disorder.",
+      "Teacher reports should be given little weight because they are subjective.",
+      "Academic difficulties are most likely due to poor motivation."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "The assessment demonstrates convergence across multiple independent sources: average intellectual ability, significant academic weaknesses, a developmental history of persistent learning problems, strong effort during testing, and no evidence that emotional factors primarily explain the difficulties. Together, these findings support further evaluation for a Specific Learning Disorder.",
+    "incorrectExplanations": {
+      "0": "Individuals with learning disorders often demonstrate average or above-average intelligence.",
+      "2": "Teacher observations provide valuable information about functioning across settings.",
+      "3": "Behavioral observations indicate strong motivation and effort, making poor motivation an unlikely explanation."
+    },
+    "boardTip": "The strongest assessment conclusions are based on multiple independent sources that converge on the same interpretation. No single test score should determine the final conclusion.",
+    "keywords": [
+      "Specific Learning Disorder",
+      "Data Integration",
+      "Achievement Testing",
+      "WAIS-IV",
+      "Evidence-based Assessment"
+    ]
+  },
+  {
+    "question": "A psychologist develops a new measure of emotional regulation. Validation results reveal:\n\nCronbach's α = .96\nTest-retest reliability = .92\nExcellent CFA fit (CFI = .98; RMSEA = .03)\nStrong correlations with established emotion regulation measures (r = .84)\nStrong negative correlations with psychological distress (r = –.79)\n\nHowever, a Multitrait-Multimethod (MTMM) matrix shows stronger correlations between different constructs measured by the same method than between the same construct measured by different methods.\n\nWhich conclusion is MOST appropriate?",
+    "choices": [
+      "The inventory demonstrates excellent construct validity.",
+      "Method variance may be inflating validity evidence, requiring further investigation.",
+      "Reliability is inadequate.",
+      "The CFA results invalidate the MTMM findings."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Although the inventory demonstrates excellent reliability, structural validity, and convergent validity, the MTMM findings indicate that method effects may be contributing to the observed relationships. When measures obtained using the same method correlate more strongly than measures of the same construct obtained using different methods, validity evidence may be partially attributable to the assessment method rather than the construct itself.",
+    "incorrectExplanations": {
+      "0": "The MTMM findings raise concerns about construct validity despite otherwise strong psychometric evidence.",
+      "2": "Reliability indices are excellent and do not indicate inadequate reliability.",
+      "3": "CFA and MTMM evaluate different aspects of construct validity and should be interpreted together."
+    },
+    "boardTip": "Excellent reliability and CFA cannot compensate for method variance. MTMM remains one of the strongest approaches for evaluating construct validity.",
+    "keywords": [
+      "MTMM",
+      "Method Variance",
+      "Construct Validity",
+      "CFA",
+      "Reliability"
+    ]
+  },
+  {
+    "question": "A psychologist administers an intelligence test to a client whose observed Full Scale IQ is 99. The Standard Error of Measurement (SEM) is 3, and the diagnostic cutoff for services is 100.\n\nWhat is the MOST appropriate recommendation?",
+    "choices": [
+      "Conclude that the client does not qualify because the observed score is below the cutoff.",
+      "Report that the client clearly qualifies because the SEM favors higher scores.",
+      "Interpret the confidence interval and integrate additional assessment information before making a classification.",
+      "Ignore the SEM because standardized scores are sufficiently precise."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "An observed score near a diagnostic cutoff should never be interpreted in isolation. The Standard Error of Measurement acknowledges that obtained scores contain measurement error, meaning the client's true score may reasonably fall above or below the cutoff. Competent assessment requires interpreting confidence intervals and integrating additional evidence before making high-stakes decisions.",
+    "incorrectExplanations": {
+      "0": "A single observed score is insufficient when measurement error overlaps the decision cutoff.",
+      "1": "The SEM does not systematically favor higher scores.",
+      "3": "Ignoring measurement error contradicts sound psychometric practice."
+    },
+    "boardTip": "Whenever an observed score lies near a decision threshold, confidence intervals become more important than the observed score itself.",
+    "keywords": [
+      "Standard Error of Measurement",
+      "Confidence Interval",
+      "Diagnostic Cutoff",
+      "Measurement Error",
+      "Clinical Decision Making"
+    ]
+  },
+  {
+    "question": "A psychologist validates a cognitive ability test using supervisor ratings of job performance. Later, investigators discover that supervisors received employees' test scores before completing the ratings.\n\nWhich threat to validity is MOST directly involved?",
+    "choices": [
+      "Criterion deficiency.",
+      "Restriction of range.",
+      "Criterion contamination.",
+      "Construct underrepresentation."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Criterion contamination occurs when the criterion measure is influenced by knowledge of the predictor. Because supervisors knew employees' cognitive test scores before evaluating job performance, their ratings may have been biased, artificially increasing the observed validity coefficient.",
+    "incorrectExplanations": {
+      "0": "Criterion deficiency refers to important aspects of job performance being omitted from the criterion.",
+      "1": "Restriction of range concerns reduced variability in predictor or criterion scores.",
+      "3": "Construct underrepresentation occurs when the test fails to adequately measure the intended construct."
+    },
+    "boardTip": "If the criterion 'knows' the predictor, think criterion contamination.",
+    "keywords": [
+      "Criterion Contamination",
+      "Criterion-related Validity",
+      "Predictive Validity",
+      "Supervisor Ratings",
+      "Validation Study"
+    ]
+  },
+  {
+    "question": "A psychologist administers an English-language personality inventory to a bilingual client who demonstrates limited English proficiency. The psychologist proceeds because the test has excellent reliability and validity in English-speaking populations.\n\nWhich concern is MOST significant?",
+    "choices": [
+      "High reliability guarantees accurate interpretation.",
+      "The psychologist may be extending score interpretations beyond populations for which sufficient validity evidence exists.",
+      "Internal consistency is likely reduced.",
+      "Test-retest reliability becomes meaningless."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Validity depends on the population and purpose for which scores are interpreted. A test validated in English-speaking populations may not produce equivalent interpretations for individuals with limited English proficiency unless cross-cultural validation or appropriate adaptations have been established.",
+    "incorrectExplanations": {
+      "0": "Reliability alone does not ensure valid interpretation.",
+      "2": "Internal consistency cannot be assumed to decrease from the information provided.",
+      "3": "Test-retest reliability is unrelated to the primary concern in this scenario."
+    },
+    "boardTip": "Always ask: 'Has this test been validated for this client and this purpose?'",
+    "keywords": [
+      "Validity",
+      "Cross-cultural Assessment",
+      "Language Proficiency",
+      "Assessment Ethics",
+      "Population-specific Validity"
+    ]
+  },
+  {
+    "question": "A new clinical screening instrument demonstrates:\n\nSensitivity = 99%\nSpecificity = 42%\n\nThe disorder prevalence in the screening population is 0.5%.\n\nWhich statement is MOST accurate?",
+    "choices": [
+      "Most individuals with positive results will actually have the disorder.",
+      "The Positive Predictive Value will likely be low because false positives will greatly outnumber true positives.",
+      "The Negative Predictive Value will be poor.",
+      "The screening instrument lacks reliability."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Even highly sensitive tests produce many false positives when the disorder is rare and specificity is low. Consequently, the probability that a positive result represents a true case (Positive Predictive Value) becomes relatively low despite excellent sensitivity.",
+    "incorrectExplanations": {
+      "0": "Low prevalence substantially reduces Positive Predictive Value.",
+      "2": "Negative Predictive Value is usually very high under conditions of low prevalence and high sensitivity.",
+      "3": "Sensitivity and specificity evaluate diagnostic accuracy, not reliability."
+    },
+    "boardTip": "A highly sensitive screening test may still generate many false positives when disease prevalence is very low.",
+    "keywords": [
+      "Sensitivity",
+      "Specificity",
+      "Positive Predictive Value",
+      "Prevalence",
+      "Screening Tests"
+    ]
+  },
+    {
+    "question": "A new clinical screening instrument demonstrates the following evidence:\n\nSensitivity = 99%\nSpecificity = 42%\nDisorder prevalence = 0.5%\n\nWhich statement is MOST accurate?",
+    "choices": [
+      "Most individuals with positive results will actually have the disorder.",
+      "The Positive Predictive Value will likely be low because false positives will greatly outnumber true positives.",
+      "The Negative Predictive Value will be poor.",
+      "The screening instrument lacks reliability."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Even highly sensitive tests produce many false positives when the disorder is rare and specificity is low. Consequently, the probability that a positive result represents a true case (Positive Predictive Value) becomes relatively low.",
+    "incorrectExplanations": {
+      "0": "Low prevalence substantially reduces Positive Predictive Value.",
+      "2": "Negative Predictive Value is typically very high when prevalence is very low.",
+      "3": "Sensitivity and specificity measure diagnostic accuracy, not reliability."
+    },
+    "boardTip": "A highly sensitive screening test may still generate many false positives when disease prevalence is very low.",
+    "keywords": [
+      "Sensitivity",
+      "Specificity",
+      "Positive Predictive Value",
+      "Negative Predictive Value",
+      "Base Rate",
+      "Screening"
+    ]
+  },
+  {
+    "question": "A psychologist concludes that because a depression inventory demonstrates Cronbach's α = .98, it is unquestionably the best measure of depression.\n\nWhy is this conclusion MOST problematic?",
+    "choices": [
+      "Very high alpha may indicate unnecessary item redundancy rather than superior measurement.",
+      "High alpha automatically lowers construct validity.",
+      "Alpha measures predictive validity.",
+      "Alpha determines criterion validity."
+    ],
+    "answer": 0,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Although high internal consistency is desirable, extremely high alpha coefficients (e.g., ≥ .95) may suggest that many items are excessively similar, measuring nearly identical content rather than adequately sampling the construct. Such redundancy increases test length without necessarily improving measurement quality.",
+    "incorrectExplanations": {
+      "1": "High alpha does not automatically reduce construct validity.",
+      "2": "Cronbach's alpha measures internal consistency, not predictive validity.",
+      "3": "Criterion validity is established through relationships with external criteria, not alpha."
+    },
+    "boardTip": "Higher alpha is not always better. Extremely high values may indicate redundant items.",
+    "keywords": [
+      "Cronbach's Alpha",
+      "Internal Consistency",
+      "Reliability",
+      "Item Redundancy",
+      "Test Construction"
+    ]
+  },
+  {
+    "question": "During cross-cultural validation, researchers find that an item demonstrates statistically significant Differential Item Functioning (DIF). However, qualitative interviews reveal that cultural differences in familiarity with the item's content explain the finding.\n\nWhich conclusion is MOST appropriate?",
+    "choices": [
+      "DIF automatically proves item bias.",
+      "Statistical DIF should be interpreted alongside substantive evidence before concluding that an item is biased.",
+      "The item should immediately be discarded.",
+      "The test is invalid."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Differential Item Functioning indicates that groups respond differently after controlling for ability, but DIF alone does not establish unfairness. Determining whether an item is truly biased requires integrating statistical evidence with theoretical, cultural, and substantive analyses.",
+    "incorrectExplanations": {
+      "0": "DIF indicates the need for investigation but is not proof of item bias.",
+      "2": "Revision or removal should occur only after comprehensive evaluation.",
+      "3": "A single DIF item does not invalidate the entire test."
+    },
+    "boardTip": "Remember: All biased items show DIF, but not all DIF items are biased.",
+    "keywords": [
+      "Differential Item Functioning",
+      "DIF",
+      "Item Bias",
+      "Cross-Cultural Assessment",
+      "Fairness"
+    ]
+  },
+  {
+    "question": "A psychologist administers a cognitive battery, personality inventory, behavioral observations, collateral interviews, and academic records. The results are inconsistent, and no single explanation accounts for all findings.\n\nWhich action BEST reflects competent evidence-based assessment?",
+    "choices": [
+      "Report only the results of the most reliable standardized test.",
+      "Average all standardized scores to obtain an overall estimate.",
+      "Acknowledge the inconsistencies, investigate possible explanations, obtain additional data if necessary, and avoid conclusions unsupported by converging evidence.",
+      "Base conclusions solely on the referral question."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Evidence-based assessment requires integrating multiple independent sources while recognizing uncertainty. When assessment results conflict, psychologists should examine potential explanations such as response style, motivation, situational influences, cultural factors, measurement error, or limitations of the assessment instruments before reaching conclusions.",
+    "incorrectExplanations": {
+      "0": "Even highly reliable tests should not outweigh all other available evidence.",
+      "1": "Scores measuring different constructs should not be averaged.",
+      "3": "The referral question guides assessment but does not replace empirical evidence."
+    },
+    "boardTip": "The strongest psychological conclusions emerge from converging evidence, not from choosing one preferred test.",
+    "keywords": [
+      "Evidence-Based Assessment",
+      "Data Integration",
+      "Clinical Judgment",
+      "Converging Evidence",
+      "Assessment Interpretation"
+    ]
+  },
+  {
+    "question": "A psychologist selects a personality inventory because it is widely used and reports excellent psychometric properties. However, no studies support its use for the specific forensic referral question.\n\nWhat is the MOST appropriate conclusion?",
+    "choices": [
+      "The psychologist may be applying valid test scores to an unsupported purpose.",
+      "Reliability guarantees appropriate forensic interpretation.",
+      "Face validity is sufficient for forensic assessment.",
+      "Widespread use establishes criterion validity."
+    ],
+    "answer": 0,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Validity concerns the interpretation of scores for a specific purpose. A test may be highly reliable and appropriate for clinical assessment but lack evidence supporting forensic interpretations. Ethical assessment requires selecting instruments with validity evidence relevant to the referral question.",
+    "incorrectExplanations": {
+      "1": "Reliability alone does not justify forensic interpretations.",
+      "2": "Face validity provides little evidentiary support for forensic decisions.",
+      "3": "Popularity does not establish criterion validity."
+    },
+    "boardTip": "Tests are not inherently valid—score interpretations are validated for specific purposes.",
+    "keywords": [
+      "Validity",
+      "Forensic Assessment",
+      "Referral Question",
+      "Test Selection",
+      "Ethics"
+    ]
+  },
+  {
+    "question": "A psychologist is asked to determine whether an employee is psychologically fit for a high-risk occupation. The assessment includes:\n\nCognitive ability testing\nPersonality assessment\nStructured clinical interview\nBehavioral observations\nCollateral information from supervisors\nReview of occupational history\nMedical documentation\n\nSome findings support fitness, while others raise concerns regarding judgment under stress.\n\nWhich conclusion is MOST consistent with best psychometric and professional practice?",
+    "choices": [
+      "Base the recommendation solely on the cognitive ability test because intelligence is the strongest predictor of occupational success.",
+      "Recommend fitness because most assessment results are favorable.",
+      "Integrate all available evidence, evaluate the quality and consistency of each source, acknowledge uncertainty where appropriate, and base conclusions on the weight of converging evidence relevant to the referral question.",
+      "Delay the report until every assessment result agrees completely."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "This question summarizes the central philosophy of modern psychological assessment. Competent psychologists do not rely on a single instrument, majority vote among tests, or perfect agreement between data sources. Instead, they critically evaluate each source, consider its strengths and limitations, investigate discrepancies, and formulate conclusions supported by the overall pattern of evidence relevant to the referral question.",
+    "incorrectExplanations": {
+      "0": "Cognitive ability is only one component of occupational fitness.",
+      "1": "Assessment conclusions should be based on the quality and relevance of evidence, not simply the number of favorable findings.",
+      "3": "Complete agreement among assessment methods is uncommon; psychologists manage discrepancies rather than waiting for perfect consistency."
+    },
+    "boardTip": "The hallmark of an expert psychometrician is integrating multiple sources of evidence, recognizing uncertainty, and justifying conclusions using sound psychometric principles.",
+    "keywords": [
+      "Evidence-Based Assessment",
+      "Occupational Assessment",
+      "Clinical Judgment",
+      "Data Integration",
+      "Psychological Fitness",
+      "Referral Question"
+    ]
+  }
+]
