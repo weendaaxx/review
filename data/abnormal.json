@@ -1033,5 +1033,1566 @@
       "DSM-5-TR",
       "Mania"
     ]
+  },
+   {
+    "question": "A 35-year-old man reports excessive worry about multiple life domains. However, what distinguishes his condition from normal anxiety is that he experiences muscle tension, irritability, and sleep disturbance almost daily for over 8 months, and he finds it difficult to control the worry.\n\nWhich additional feature would MOST strongly support a diagnosis of Generalized Anxiety Disorder?",
+    "choices": [
+      "Presence of panic attacks",
+      "Worry limited to a single situation",
+      "Difficulty controlling the worry",
+      "Avoidance of social situations"
+    ],
+    "answer": 2,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The hallmark of Generalized Anxiety Disorder (GAD) is excessive anxiety and worry occurring more days than not for at least six months, accompanied by difficulty controlling the worry. Associated symptoms commonly include muscle tension, irritability, fatigue, poor concentration, restlessness, and sleep disturbance. Difficulty controlling the worry distinguishes GAD from ordinary life stress.",
+    "incorrectExplanations": {
+      "0": "Panic attacks may occur in GAD but are not required for the diagnosis.",
+      "1": "GAD involves excessive worry across multiple life domains rather than a single situation.",
+      "3": "Avoidance of social situations is more characteristic of Social Anxiety Disorder."
+    },
+    "boardTip": "Think: GAD = Excessive worry + difficult to control + ≥6 months.",
+    "keywords": [
+      "Generalized Anxiety Disorder",
+      "DSM-5-TR",
+      "Anxiety Disorders",
+      "Differential Diagnosis",
+      "Excessive Worry"
+    ]
+  },
+  {
+    "question": "A client believes that the government is tracking his movements through implanted devices. He functions relatively well socially and occupationally, but maintains this belief despite evidence to the contrary for over 2 years.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Schizophrenia",
+      "Delusional Disorder, Persecutory Type",
+      "Schizophreniform Disorder",
+      "Brief Psychotic Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Delusional Disorder is characterized by one or more persistent delusions lasting at least one month, with relatively preserved functioning apart from the impact of the delusion. The persecutory type involves beliefs of being harmed, followed, spied on, or conspired against. The absence of prominent hallucinations, disorganized speech, or marked functional decline supports this diagnosis.",
+    "incorrectExplanations": {
+      "0": "Schizophrenia typically includes additional psychotic symptoms such as hallucinations, disorganized speech, negative symptoms, and significant functional deterioration.",
+      "2": "Schizophreniform Disorder lasts between one and six months.",
+      "3": "Brief Psychotic Disorder lasts less than one month."
+    },
+    "boardTip": "Persistent isolated delusion with relatively intact functioning → Delusional Disorder.",
+    "keywords": [
+      "Delusional Disorder",
+      "Persecutory Type",
+      "Psychotic Disorders",
+      "DSM-5-TR",
+      "Differential Diagnosis"
+    ]
+  },
+  {
+    "question": "A client repeatedly checks locks and switches for hours each night due to intrusive fears that the house will burn down. He recognizes the thoughts are irrational but cannot stop the behavior.\n\nWhich mechanism BEST explains the maintenance of the disorder?",
+    "choices": [
+      "Positive reinforcement from avoidance of punishment",
+      "Reduction of anxiety following compulsive behavior",
+      "Genetic predisposition alone",
+      "Classical conditioning of hallucinations"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Obsessive-Compulsive Disorder is maintained through negative reinforcement. Intrusive obsessions generate anxiety, compulsive rituals temporarily reduce that anxiety, and the relief reinforces future compulsive behavior. This cycle perpetuates OCD even though the individual recognizes the behavior as excessive.",
+    "incorrectExplanations": {
+      "0": "The core behavioral mechanism is negative reinforcement through anxiety reduction, not positive reinforcement.",
+      "2": "Genetic factors increase vulnerability but do not explain how compulsive behaviors are maintained.",
+      "3": "Hallucinations are not characteristic of OCD."
+    },
+    "boardTip": "OCD cycle: Obsession → Anxiety → Compulsion → Temporary Relief → Negative Reinforcement.",
+    "keywords": [
+      "Obsessive-Compulsive Disorder",
+      "Negative Reinforcement",
+      "Behavioral Psychology",
+      "Compulsions",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A woman reports feeling detached from her surroundings as if the world is 'dreamlike,' but she knows this perception is not real. No hallucinations or delusions are present.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Depersonalization/Derealization Disorder",
+      "Schizophrenia",
+      "Dissociative Identity Disorder",
+      "Panic Disorder"
+    ],
+    "answer": 0,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Depersonalization/Derealization Disorder involves persistent or recurrent experiences of depersonalization (detachment from oneself) or derealization (the external world feels unreal or dreamlike) while reality testing remains intact. Preserved insight distinguishes this disorder from psychotic disorders.",
+    "incorrectExplanations": {
+      "1": "Schizophrenia involves impaired reality testing, hallucinations, delusions, or other psychotic symptoms.",
+      "2": "Dissociative Identity Disorder involves disruption of identity with two or more distinct personality states.",
+      "3": "Panic Disorder primarily involves recurrent unexpected panic attacks rather than persistent derealization."
+    },
+    "boardTip": "Feeling unreal but knowing it's unreal = Depersonalization/Derealization Disorder.",
+    "keywords": [
+      "Depersonalization",
+      "Derealization",
+      "Dissociative Disorders",
+      "Reality Testing",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client presents with alternating periods of mild depressive symptoms and hypomanic symptoms over a 3-year period, none of which meet full criteria for a major depressive or manic episode.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Bipolar I Disorder",
+      "Bipolar II Disorder",
+      "Cyclothymic Disorder",
+      "Persistent Depressive Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Cyclothymic Disorder is characterized by numerous periods of hypomanic symptoms and depressive symptoms lasting at least two years (one year in youth), with symptoms never meeting the full criteria for hypomanic, manic, or major depressive episodes. The chronic fluctuating course distinguishes it from other mood disorders.",
+    "incorrectExplanations": {
+      "0": "Bipolar I Disorder requires at least one full manic episode.",
+      "1": "Bipolar II Disorder requires at least one hypomanic episode and one major depressive episode.",
+      "3": "Persistent Depressive Disorder involves chronic depressive symptoms without hypomanic features."
+    },
+    "boardTip": "Long-term subthreshold highs and lows that never become full episodes = Cyclothymic Disorder.",
+    "keywords": [
+      "Cyclothymic Disorder",
+      "Mood Disorders",
+      "Bipolar Spectrum",
+      "DSM-5-TR",
+      "Differential Diagnosis"
+    ]
+  },
+   {
+    "question": "A client reports that after a traumatic accident, she experiences flashbacks, avoids reminders of the event, has persistent negative mood, and exaggerated startle response for 2 months.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Acute Stress Disorder",
+      "Posttraumatic Stress Disorder",
+      "Adjustment Disorder",
+      "Generalized Anxiety Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "The client meets the core DSM-5-TR criteria for Posttraumatic Stress Disorder (PTSD): exposure to a traumatic event, intrusion symptoms (flashbacks), avoidance, negative alterations in mood, increased arousal (exaggerated startle response), and symptom duration exceeding one month. Since the symptoms have persisted for two months, PTSD is the most appropriate diagnosis.",
+    "incorrectExplanations": {
+      "0": "Acute Stress Disorder has similar symptoms but lasts from 3 days to 1 month after trauma.",
+      "2": "Adjustment Disorder does not include the characteristic trauma-related symptom clusters seen in PTSD.",
+      "3": "Generalized Anxiety Disorder involves excessive worry across multiple domains and is not trauma-specific."
+    },
+    "boardTip": "Trauma + symptoms lasting more than 1 month = PTSD.",
+    "keywords": [
+      "PTSD",
+      "Trauma",
+      "Acute Stress Disorder",
+      "DSM-5-TR",
+      "Differential Diagnosis"
+    ]
+  },
+  {
+    "question": "A man persistently believes he is responsible for causing a natural disaster despite no evidence and despite logical explanations. The belief is fixed and not culturally shared.\n\nWhich term BEST describes this symptom?",
+    "choices": [
+      "Hallucination",
+      "Delusion of grandeur",
+      "Delusion of guilt",
+      "Idea of reference"
+    ],
+    "answer": 2,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "A delusion of guilt is a fixed false belief that one has committed a terrible wrongdoing or caused catastrophic events despite clear evidence to the contrary. These delusions are commonly seen in severe depressive disorders with psychotic features but may also occur in other psychotic disorders.",
+    "incorrectExplanations": {
+      "0": "Hallucinations involve false sensory perceptions rather than false beliefs.",
+      "1": "Delusions of grandeur involve exaggerated beliefs about one's importance, power, or abilities.",
+      "3": "Ideas or delusions of reference involve believing that neutral events or messages are directed specifically at oneself."
+    },
+    "boardTip": "Believing you caused a catastrophe without evidence = Delusion of guilt.",
+    "keywords": [
+      "Delusion of Guilt",
+      "Psychotic Symptoms",
+      "Delusions",
+      "Abnormal Psychology",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client presents with sudden onset of multiple neurological symptoms (blindness, paralysis), but medical tests show no physiological basis. Symptoms began after a stressful event.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Somatic Symptom Disorder",
+      "Conversion Disorder",
+      "Factitious Disorder",
+      "Malingering"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Conversion Disorder (Functional Neurological Symptom Disorder) involves neurological symptoms that are incompatible with recognized neurological or medical conditions. Symptoms often appear after psychological stress and are not intentionally produced. Common manifestations include paralysis, blindness, seizures, or sensory loss.",
+    "incorrectExplanations": {
+      "0": "Somatic Symptom Disorder centers on excessive distress about physical symptoms rather than unexplained neurological deficits.",
+      "2": "Factitious Disorder involves intentional production or falsification of symptoms without obvious external rewards.",
+      "3": "Malingering involves intentional symptom production for external incentives such as financial gain or avoiding responsibilities."
+    },
+    "boardTip": "Neurological symptoms without a medical explanation, especially after stress = Conversion Disorder.",
+    "keywords": [
+      "Conversion Disorder",
+      "Functional Neurological Symptom Disorder",
+      "Somatic Disorders",
+      "DSM-5-TR",
+      "Differential Diagnosis"
+    ]
+  },
+  {
+    "question": "A client reports compulsive gambling despite repeated financial losses and inability to stop. He describes increasing bets to achieve excitement.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Impulse Control Disorder (older classification)",
+      "Gambling Disorder",
+      "Substance Use Disorder",
+      "Antisocial Personality Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "DSM-5-TR classifies Gambling Disorder under Substance-Related and Addictive Disorders because it shares many characteristics with substance addictions, including impaired control, continued behavior despite negative consequences, craving, and tolerance-like behavior such as needing to gamble increasing amounts of money for excitement.",
+    "incorrectExplanations": {
+      "0": "Although previously classified as an impulse-control disorder, DSM-5-TR now places Gambling Disorder among addictive disorders.",
+      "2": "No psychoactive substance is involved in the behavior.",
+      "3": "Antisocial Personality Disorder is not required to explain compulsive gambling."
+    },
+    "boardTip": "Gambling Disorder is the only behavioral addiction officially classified with Substance-Related and Addictive Disorders in DSM-5-TR.",
+    "keywords": [
+      "Gambling Disorder",
+      "Behavioral Addiction",
+      "DSM-5-TR",
+      "Addictive Disorders",
+      "Impulse Control"
+    ]
+  },
+  {
+    "question": "A client with depression shows slowed speech, decreased movement, and stupor-like immobility. He does not respond to external stimuli.\n\nWhich specifier BEST applies?",
+    "choices": [
+      "Psychotic Features",
+      "Melancholic Features",
+      "Catatonic Features",
+      "Atypical Features"
+    ],
+    "answer": 2,
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "explanation": "Catatonia is characterized by marked psychomotor disturbances such as stupor, mutism, waxy flexibility, posturing, negativism, and decreased responsiveness to the environment. It can occur with depressive disorders, bipolar disorders, schizophrenia, and certain medical conditions. In this case, motor immobility and unresponsiveness indicate Catatonic Features.",
+    "incorrectExplanations": {
+      "0": "Psychotic Features involve hallucinations or delusions rather than profound motor abnormalities.",
+      "1": "Melancholic Features emphasize anhedonia, lack of mood reactivity, early morning awakening, excessive guilt, and psychomotor changes but not the classic signs of catatonia.",
+      "3": "Atypical Features include mood reactivity, hypersomnia, increased appetite, and rejection sensitivity."
+    },
+    "boardTip": "Motor immobility, stupor, mutism, or posturing in mood disorders = Catatonic Features.",
+    "keywords": [
+      "Catatonia",
+      "Major Depressive Disorder",
+      "Catatonic Features",
+      "Mood Disorders",
+      "DSM-5-TR"
+    ]
+  },
+   {
+    "question": "A 24-year-old graduate student presents with depressed mood, insomnia, poor concentration, and loss of appetite for three weeks. During the interview, she reports experiencing a four-day period one year ago in which she felt unusually energetic, slept only three hours per night without fatigue, was more talkative than usual, and completed multiple research projects. She was not hospitalized, experienced no psychotic symptoms, and did not consider the episode problematic.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Major Depressive Disorder",
+      "Persistent Depressive Disorder",
+      "Bipolar I Disorder",
+      "Bipolar II Disorder"
+    ],
+    "answer": 3,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Although the client currently presents with a major depressive episode, the history of a hypomanic episode lasting at least four days without marked impairment, hospitalization, or psychotic symptoms is critical. The combination of one or more major depressive episodes and at least one hypomanic episode is diagnostic of Bipolar II Disorder.",
+    "incorrectExplanations": {
+      "0": "Major Depressive Disorder cannot be diagnosed when there is a history of hypomania.",
+      "1": "Persistent Depressive Disorder requires chronic depressive symptoms lasting at least two years.",
+      "2": "Bipolar I Disorder requires at least one manic episode."
+    },
+    "boardTip": "Always ask about previous periods of elevated mood before diagnosing Major Depressive Disorder.",
+    "keywords": [
+      "Bipolar II Disorder",
+      "Hypomania",
+      "Major Depressive Episode",
+      "Mood Disorders",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client presents with persecutory delusions and frequent auditory hallucinations. Symptoms have persisted for four months. Functional impairment is evident, but there is no history of mood episodes.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Delusional Disorder",
+      "Brief Psychotic Disorder",
+      "Schizophreniform Disorder",
+      "Schizophrenia"
+    ],
+    "answer": 2,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "The determining factor is the duration of psychotic symptoms. According to the DSM-5-TR, symptoms lasting between one and six months are consistent with Schizophreniform Disorder. The client's four-month history best fits this diagnosis.",
+    "incorrectExplanations": {
+      "0": "Delusional Disorder typically lacks prominent hallucinations and marked functional impairment.",
+      "1": "Brief Psychotic Disorder lasts less than one month.",
+      "3": "Schizophrenia requires continuous signs of the disorder for at least six months."
+    },
+    "boardTip": "For psychotic disorders, determine the timeline before considering other diagnostic features.",
+    "keywords": [
+      "Schizophreniform Disorder",
+      "Psychotic Disorders",
+      "Hallucinations",
+      "Delusions",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A 32-year-old woman repeatedly seeks reassurance that she does not have breast cancer despite multiple normal examinations. She briefly feels relieved after each medical visit but resumes worrying within days. She reports almost no physical symptoms.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Somatic Symptom Disorder",
+      "Illness Anxiety Disorder",
+      "Generalized Anxiety Disorder",
+      "Obsessive-Compulsive Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "The client's primary concern is persistent fear of having a serious illness despite minimal physical symptoms and repeated medical reassurance. This pattern is characteristic of Illness Anxiety Disorder.",
+    "incorrectExplanations": {
+      "0": "Somatic Symptom Disorder requires one or more distressing somatic symptoms.",
+      "2": "Generalized Anxiety Disorder involves excessive worry across multiple life domains rather than health concerns alone.",
+      "3": "Although OCD may involve health-related obsessions, the absence of compulsions and the emphasis on illness fears support Illness Anxiety Disorder."
+    },
+    "boardTip": "Minimal physical symptoms combined with excessive fear of illness strongly suggests Illness Anxiety Disorder.",
+    "keywords": [
+      "Illness Anxiety Disorder",
+      "Health Anxiety",
+      "Somatic Disorders",
+      "DSM-5-TR",
+      "Differential Diagnosis"
+    ]
+  },
+  {
+    "question": "A client washes her hands approximately 150 times daily because she fears contaminating her family with deadly germs. She recognizes that the fear is excessive but reports overwhelming anxiety if she resists washing.\n\nWhich cognitive-behavioral principle BEST explains the persistence of her compulsive behavior?",
+    "choices": [
+      "Positive reinforcement",
+      "Negative reinforcement",
+      "Classical conditioning alone",
+      "Learned helplessness"
+    ],
+    "answer": 1,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Each time the client performs the compulsion, her anxiety temporarily decreases. Removing an unpleasant emotional state strengthens the behavior through negative reinforcement, explaining why compulsive behaviors persist despite insight.",
+    "incorrectExplanations": {
+      "0": "Positive reinforcement involves adding a rewarding stimulus rather than removing anxiety.",
+      "2": "Classical conditioning helps explain the development of fear but not the maintenance of compulsive behavior.",
+      "3": "Learned helplessness is primarily associated with depression rather than obsessive-compulsive symptoms."
+    },
+    "boardTip": "Compulsions persist because they temporarily reduce anxiety—a classic example of negative reinforcement.",
+    "keywords": [
+      "Obsessive-Compulsive Disorder",
+      "Negative Reinforcement",
+      "Behavioral Theory",
+      "Compulsions",
+      "Learning Principles"
+    ]
+  },
+  {
+    "question": "Following a devastating earthquake, a client develops intrusive memories, avoidance, hypervigilance, emotional numbing, and exaggerated startle responses. Symptoms begin two days after the event and resolve completely after three weeks.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Posttraumatic Stress Disorder",
+      "Acute Stress Disorder",
+      "Adjustment Disorder",
+      "Generalized Anxiety Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "The client's trauma-related symptoms persist for less than one month. According to the DSM-5-TR, trauma symptoms lasting from three days to one month are classified as Acute Stress Disorder rather than Posttraumatic Stress Disorder.",
+    "incorrectExplanations": {
+      "0": "PTSD requires symptoms to persist for more than one month.",
+      "2": "Adjustment Disorder does not include the characteristic trauma-related symptom clusters of intrusion, avoidance, and hyperarousal.",
+      "3": "Generalized Anxiety Disorder is characterized by excessive worry and is not specifically triggered by trauma."
+    },
+    "boardTip": "In trauma-related disorders, duration is often the deciding factor: 3 days to 1 month = Acute Stress Disorder; more than 1 month = PTSD.",
+    "keywords": [
+      "Acute Stress Disorder",
+      "PTSD",
+      "Trauma",
+      "DSM-5-TR",
+      "Duration Criteria"
+    ]
+  },
+  {
+    "question": "A psychologist evaluates a client who reports hearing voices only during episodes of severe depression. Outside depressive episodes, the hallucinations disappear completely.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Schizophrenia",
+      "Schizoaffective Disorder",
+      "Major Depressive Disorder with Psychotic Features",
+      "Delusional Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "The client's psychotic symptoms occur exclusively during major depressive episodes. This pattern is consistent with Major Depressive Disorder with Psychotic Features. In contrast, Schizoaffective Disorder requires at least two weeks of psychotic symptoms in the absence of a major mood episode.",
+    "incorrectExplanations": {
+      "0": "Schizophrenia is not limited to periods of mood disturbance and requires psychotic symptoms independent of mood episodes.",
+      "1": "Schizoaffective Disorder requires psychotic symptoms to occur for at least two weeks without depression or mania.",
+      "3": "Delusional Disorder typically does not involve prominent hallucinations or major depressive episodes."
+    },
+    "boardTip": "Ask whether psychotic symptoms ever occur without depression or mania. If they do not, consider a mood disorder with psychotic features.",
+    "keywords": [
+      "Major Depressive Disorder",
+      "Psychotic Features",
+      "Schizoaffective Disorder",
+      "Schizophrenia",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client reports chronic perfectionism, excessive devotion to work, rigidity, reluctance to delegate tasks, and preoccupation with rules. He denies intrusive thoughts or repetitive rituals and believes his behavior is appropriate.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Obsessive-Compulsive Disorder",
+      "Obsessive-Compulsive Personality Disorder",
+      "Autism Spectrum Disorder",
+      "Generalized Anxiety Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "The client's traits are ego-syntonic, meaning he views them as appropriate and desirable. This pattern is characteristic of Obsessive-Compulsive Personality Disorder (OCPD). Unlike OCD, there are no intrusive obsessions or compulsive rituals performed to reduce anxiety.",
+    "incorrectExplanations": {
+      "0": "Obsessive-Compulsive Disorder involves ego-dystonic obsessions and compulsions that cause significant distress.",
+      "2": "Autism Spectrum Disorder requires persistent deficits in social communication and restricted, repetitive behaviors beginning in early development.",
+      "3": "Generalized Anxiety Disorder does not explain pervasive perfectionism, rigidity, and excessive conscientiousness."
+    },
+    "boardTip": "Remember the distinction: OCD is ego-dystonic ('I don't want these thoughts'); OCPD is ego-syntonic ('This is the correct way to do things').",
+    "keywords": [
+      "Obsessive-Compulsive Personality Disorder",
+      "Obsessive-Compulsive Disorder",
+      "Personality Disorders",
+      "Ego-Syntonic",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A 67-year-old man develops fluctuating attention, disorientation, visual hallucinations, and impaired awareness over two days following a severe urinary tract infection.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Major Neurocognitive Disorder due to Alzheimer's Disease",
+      "Delirium",
+      "Mild Neurocognitive Disorder",
+      "Schizophrenia"
+    ],
+    "answer": 1,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "The acute onset, fluctuating course, impaired attention, altered awareness, and association with a medical illness strongly support Delirium. Unlike dementia, delirium develops rapidly and often improves once the underlying medical condition is treated.",
+    "incorrectExplanations": {
+      "0": "Major Neurocognitive Disorder due to Alzheimer's Disease develops gradually rather than over a few days.",
+      "2": "Mild Neurocognitive Disorder does not involve fluctuating consciousness or marked impairment of attention.",
+      "3": "Schizophrenia rarely begins at this age and does not typically cause fluctuating awareness."
+    },
+    "boardTip": "Acute onset + fluctuating attention + medical illness = Delirium.",
+    "keywords": [
+      "Delirium",
+      "Neurocognitive Disorders",
+      "Attention",
+      "Medical Conditions",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client intentionally injects himself with bacteria to produce fever and repeatedly seeks hospitalization. He receives no financial benefit and appears motivated by the desire to assume the sick role.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Somatic Symptom Disorder",
+      "Illness Anxiety Disorder",
+      "Factitious Disorder Imposed on Self",
+      "Malingering"
+    ],
+    "answer": 2,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "The client intentionally produces symptoms without obvious external rewards. His motivation is psychological—the desire to assume the sick role—which is characteristic of Factitious Disorder Imposed on Self.",
+    "incorrectExplanations": {
+      "0": "Somatic Symptom Disorder involves genuine symptoms that are not intentionally produced.",
+      "1": "Illness Anxiety Disorder involves fear of illness rather than intentional deception.",
+      "3": "Malingering involves producing symptoms for external incentives such as financial gain, avoiding work, or obtaining legal benefits."
+    },
+    "boardTip": "Factitious Disorder = wants to be a patient. Malingering = wants an external reward.",
+    "keywords": [
+      "Factitious Disorder",
+      "Malingering",
+      "Somatic Disorders",
+      "Sick Role",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A psychologist evaluates a client with severe depression following the death of his spouse six weeks ago. The client reports persistent worthlessness, profound anhedonia, recurrent suicidal ideation, and psychomotor retardation. His symptoms significantly impair daily functioning and exceed what would be expected from culturally normative grief.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Normal Bereavement",
+      "Persistent Complex Bereavement Disorder",
+      "Major Depressive Disorder",
+      "Adjustment Disorder with Depressed Mood"
+    ],
+    "answer": 2,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "DSM-5-TR no longer excludes Major Depressive Disorder simply because symptoms occur after bereavement. The client's severe anhedonia, persistent worthlessness, suicidal ideation, psychomotor retardation, and marked functional impairment meet the criteria for a Major Depressive Episode that extends beyond a typical grief reaction.",
+    "incorrectExplanations": {
+      "0": "Normal bereavement usually involves preserved self-esteem and emotions that fluctuate rather than persistent severe depressive symptoms.",
+      "1": "Persistent Complex Bereavement Disorder involves prolonged grief lasting much longer than six weeks and follows different diagnostic considerations.",
+      "3": "The severity and pattern of symptoms exceed what is expected for Adjustment Disorder."
+    },
+    "boardTip": "Since DSM-5, bereavement does not rule out Major Depressive Disorder. Focus on whether the full diagnostic criteria for a major depressive episode are met.",
+    "keywords": [
+      "Major Depressive Disorder",
+      "Bereavement",
+      "Grief",
+      "Mood Disorders",
+      "DSM-5-TR"
+    ]
+  },
+   {
+    "question": "A 31-year-old woman has recurrent depressive episodes and occasional psychotic symptoms. Her hallucinations occur only during depressive episodes and disappear completely once the depression remits.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Schizoaffective Disorder",
+      "Schizophrenia",
+      "Major Depressive Disorder with Psychotic Features",
+      "Delusional Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "The critical diagnostic clue is that the psychotic symptoms occur exclusively during episodes of depression. In Major Depressive Disorder with Psychotic Features, hallucinations or delusions occur only during the mood episode. Schizoaffective Disorder requires at least two weeks of psychotic symptoms in the absence of a major mood episode.",
+    "incorrectExplanations": {
+      "0": "Schizoaffective Disorder requires psychosis independent of mood episodes.",
+      "1": "Schizophrenia is not limited to depressive episodes.",
+      "3": "Delusional Disorder rarely presents with prominent hallucinations."
+    },
+    "boardTip": "Ask: 'Do hallucinations continue after depression disappears?' If no, think Mood Disorder with Psychotic Features. If yes, consider Schizoaffective Disorder.",
+    "keywords": [
+      "Major Depressive Disorder",
+      "Psychotic Features",
+      "Schizoaffective Disorder",
+      "Hallucinations",
+      "Mood Disorders"
+    ]
+  },
+  {
+    "question": "A psychologist evaluates a client who has experienced repeated unstable relationships, frantic efforts to avoid abandonment, chronic feelings of emptiness, recurrent self-harm, and marked emotional instability since late adolescence.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Histrionic Personality Disorder",
+      "Borderline Personality Disorder",
+      "Bipolar II Disorder",
+      "Dependent Personality Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Borderline Personality Disorder is characterized by fear of abandonment, unstable interpersonal relationships, identity disturbance, emotional instability, impulsivity, recurrent suicidal or self-injurious behavior, and chronic feelings of emptiness. The pervasive pattern beginning in adolescence or early adulthood strongly supports this diagnosis.",
+    "incorrectExplanations": {
+      "0": "Histrionic Personality Disorder emphasizes attention-seeking rather than self-harm and abandonment fears.",
+      "2": "Bipolar II Disorder involves episodic mood changes rather than the chronic interpersonal instability seen in BPD.",
+      "3": "Dependent Personality Disorder lacks impulsivity, identity disturbance, and recurrent self-harm."
+    },
+    "boardTip": "The combination of abandonment fears, self-harm, unstable relationships, and emotional instability is highly characteristic of Borderline Personality Disorder.",
+    "keywords": [
+      "Borderline Personality Disorder",
+      "Personality Disorders",
+      "Self-Harm",
+      "Abandonment",
+      "Emotional Dysregulation"
+    ]
+  },
+  {
+    "question": "A client presents with depressed mood, insomnia, weight loss, excessive guilt, psychomotor retardation, and complete inability to experience pleasure. His mood does not improve when positive events occur.\n\nWhich depressive specifier BEST fits this presentation?",
+    "choices": [
+      "Atypical Features",
+      "Melancholic Features",
+      "Catatonic Features",
+      "Mixed Features"
+    ],
+    "answer": 1,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Melancholic Features include loss of pleasure in almost all activities (anhedonia), lack of mood reactivity, psychomotor changes, significant weight loss, excessive guilt, and insomnia. The absence of mood reactivity is a key feature distinguishing melancholic from atypical depression.",
+    "incorrectExplanations": {
+      "0": "Atypical Features are characterized by mood reactivity, hypersomnia, increased appetite, and rejection sensitivity.",
+      "2": "Catatonic Features require marked psychomotor abnormalities such as stupor, mutism, or posturing.",
+      "3": "Mixed Features require concurrent symptoms of mania or hypomania."
+    },
+    "boardTip": "Mood improves with positive events → Atypical Features. Mood never improves → Melancholic Features.",
+    "keywords": [
+      "Major Depressive Disorder",
+      "Melancholic Features",
+      "Depression Specifiers",
+      "Anhedonia",
+      "Mood Reactivity"
+    ]
+  },
+  {
+    "question": "Following an armed robbery, a client develops intrusive memories, nightmares, hypervigilance, avoidance, and exaggerated startle response. Six weeks later, symptoms remain severe.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Acute Stress Disorder",
+      "Posttraumatic Stress Disorder",
+      "Adjustment Disorder",
+      "Panic Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "The client demonstrates trauma exposure, intrusion symptoms, avoidance, increased arousal, and symptom duration exceeding one month. These findings meet DSM-5-TR criteria for Posttraumatic Stress Disorder.",
+    "incorrectExplanations": {
+      "0": "Acute Stress Disorder lasts from 3 days to 1 month after trauma.",
+      "2": "Adjustment Disorder does not include the characteristic trauma-specific symptom clusters.",
+      "3": "Panic Disorder is characterized by recurrent unexpected panic attacks rather than trauma-related symptoms."
+    },
+    "boardTip": "Always verify symptom duration when distinguishing Acute Stress Disorder from PTSD: ≤1 month = ASD; >1 month = PTSD.",
+    "keywords": [
+      "PTSD",
+      "Acute Stress Disorder",
+      "Trauma",
+      "DSM-5-TR",
+      "Anxiety Disorders"
+    ]
+  },
+  {
+    "question": "A client believes coworkers are secretly plotting against him. Over the past year he has become socially withdrawn, demonstrates flat affect, and frequently hears voices commenting on his actions.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Delusional Disorder",
+      "Schizophrenia",
+      "Paranoid Personality Disorder",
+      "Schizotypal Personality Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "The client demonstrates delusions, auditory hallucinations, negative symptoms (flat affect and social withdrawal), functional decline, and a duration exceeding six months. These findings fulfill DSM-5-TR criteria for Schizophrenia.",
+    "incorrectExplanations": {
+      "0": "Delusional Disorder generally lacks prominent hallucinations, negative symptoms, and marked functional decline.",
+      "2": "Paranoid Personality Disorder involves suspiciousness without psychotic symptoms such as hallucinations.",
+      "3": "Schizotypal Personality Disorder may involve odd beliefs but not persistent hallucinations and chronic psychosis."
+    },
+    "boardTip": "Hallucinations combined with negative symptoms and illness lasting longer than six months strongly suggest Schizophrenia.",
+    "keywords": [
+      "Schizophrenia",
+      "Psychotic Disorders",
+      "Hallucinations",
+      "Negative Symptoms",
+      "Delusions"
+    ]
+  },
+  {
+    "question": "A patient repeatedly presents to emergency departments with fabricated seizure episodes. Extensive investigation later reveals deliberate falsification of symptoms, with no external incentives identified.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Conversion Disorder",
+      "Malingering",
+      "Factitious Disorder Imposed on Self",
+      "Somatic Symptom Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "The intentional production of symptoms without obvious external rewards is characteristic of Factitious Disorder Imposed on Self. The individual's motivation is psychological, specifically the desire to assume the sick role rather than obtain tangible external benefits.",
+    "incorrectExplanations": {
+      "0": "Conversion Disorder involves neurological symptoms that are not intentionally produced.",
+      "1": "Malingering involves intentional symptom production for external incentives such as money, avoiding work, or legal benefits.",
+      "3": "Somatic Symptom Disorder involves genuine distress about physical symptoms rather than deliberate fabrication."
+    },
+    "boardTip": "Intentional + no external reward = Factitious Disorder. Intentional + external reward = Malingering.",
+    "keywords": [
+      "Factitious Disorder",
+      "Malingering",
+      "Conversion Disorder",
+      "Somatic Symptom Disorder",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A client experiences recurrent panic attacks. Medical evaluation, including ECG, thyroid function tests, and toxicology screening, is normal.\n\nWhy is medical evaluation important before diagnosing Panic Disorder?",
+    "choices": [
+      "Panic Disorder is primarily a neurological disorder.",
+      "Several medical conditions can mimic panic symptoms.",
+      "Panic Disorder requires abnormal laboratory findings.",
+      "Panic Disorder cannot coexist with medical illness."
+    ],
+    "answer": 1,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Medical conditions such as hyperthyroidism, cardiac arrhythmias, asthma, stimulant intoxication, and other illnesses can produce symptoms that closely resemble panic attacks. DSM-5-TR requires clinicians to rule out medical causes before making a psychiatric diagnosis.",
+    "incorrectExplanations": {
+      "0": "Panic Disorder is not primarily considered a neurological disorder.",
+      "2": "There are no laboratory tests that confirm Panic Disorder.",
+      "3": "Panic Disorder may coexist with medical illnesses."
+    },
+    "boardTip": "Always rule out medical conditions before diagnosing psychiatric disorders.",
+    "keywords": [
+      "Panic Disorder",
+      "Differential Diagnosis",
+      "Medical Evaluation",
+      "DSM-5-TR",
+      "Anxiety Disorders"
+    ]
+  },
+  {
+    "question": "A client reports repeated binge eating episodes followed by vomiting. She also demonstrates significantly low body weight and intense fear of gaining weight.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Bulimia Nervosa",
+      "Binge-Eating Disorder",
+      "Anorexia Nervosa, Binge-Eating/Purging Type",
+      "Avoidant/Restrictive Food Intake Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Although the client engages in binge eating and purging behaviors, the presence of significantly low body weight and an intense fear of gaining weight makes Anorexia Nervosa, Binge-Eating/Purging Type the most appropriate diagnosis. Low body weight is the defining distinction from Bulimia Nervosa.",
+    "incorrectExplanations": {
+      "0": "Bulimia Nervosa typically occurs in individuals with normal or above-normal body weight.",
+      "1": "Binge-Eating Disorder does not involve compensatory behaviors such as vomiting.",
+      "3": "ARFID does not involve body image disturbance or fear of gaining weight."
+    },
+    "boardTip": "When differentiating anorexia from bulimia, determine body weight first.",
+    "keywords": [
+      "Anorexia Nervosa",
+      "Bulimia Nervosa",
+      "Eating Disorders",
+      "DSM-5-TR",
+      "Binge-Eating/Purging Type"
+    ]
+  },
+  {
+    "question": "A psychologist interviews a client who reports hearing the voice of his deceased spouse every evening for two weeks following her funeral. The client remains fully oriented, functions well, understands that the experience may be related to grief, and has no other psychotic symptoms.\n\nWhich is the MOST appropriate clinical interpretation?",
+    "choices": [
+      "Schizophrenia",
+      "Brief Psychotic Disorder",
+      "A normal grief-related experience that should be interpreted within cultural and clinical context",
+      "Major Depressive Disorder with Psychotic Features"
+    ],
+    "answer": 2,
+    "difficulty": "Difficult",
+    "cognitiveLevel": "Analyze",
+    "explanation": "Brief sensory experiences of a deceased loved one, such as hearing their voice or sensing their presence, may occur during normal bereavement and do not necessarily indicate psychosis. The client's preserved insight, intact functioning, lack of additional psychotic symptoms, and close temporal relationship to the loss support a normal grief-related experience. DSM-5-TR emphasizes interpreting these experiences within their cultural and clinical context.",
+    "incorrectExplanations": {
+      "0": "Schizophrenia requires persistent psychotic symptoms accompanied by functional impairment.",
+      "1": "Brief Psychotic Disorder involves clinically significant psychotic symptoms that do not fit this grief-related context.",
+      "3": "Major Depressive Disorder with Psychotic Features requires a major depressive episode with psychotic symptoms occurring during that episode."
+    },
+    "boardTip": "Not every unusual perception is psychopathology. Always consider context, insight, duration, culture, and functional impairment before diagnosing psychosis.",
+    "keywords": [
+      "Bereavement",
+      "Grief",
+      "Psychotic Disorders",
+      "DSM-5-TR",
+      "Differential Diagnosis",
+      "Cultural Context"
+    ]
+  },
+   {
+    "question": "A 29-year-old woman reports chronic feelings of emptiness, unstable relationships, impulsive spending, recurrent self-inflicted cuts, and intense fear that her partner will leave her. During periods of interpersonal conflict, she briefly reports hearing her deceased mother's voice telling her she is \"worthless.\" The experiences last only a few hours and resolve after the conflict.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Schizoaffective Disorder",
+      "Borderline Personality Disorder",
+      "Schizophrenia",
+      "Bipolar II Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Borderline Personality Disorder (BPD) may include transient, stress-related paranoid ideation or dissociative symptoms. Brief psychotic-like experiences occurring during periods of intense emotional distress do not necessarily indicate a primary psychotic disorder. The enduring pattern of abandonment fears, unstable relationships, impulsivity, recurrent self-harm, chronic feelings of emptiness, and affective instability strongly supports BPD.",
+    "incorrectExplanations": {
+      "0": "Schizoaffective Disorder requires psychotic symptoms that persist independently of mood episodes.",
+      "2": "Schizophrenia involves persistent psychotic symptoms, functional decline, and is not limited to brief stress-related episodes.",
+      "3": "Bipolar II Disorder is characterized by episodic mood changes rather than chronic interpersonal instability and identity disturbance."
+    },
+    "boardTip": "Brief hallucination-like experiences during emotional crises can occur in Borderline Personality Disorder. Evaluate the overall personality pattern rather than focusing on a single symptom.",
+    "keywords": [
+      "Borderline Personality Disorder",
+      "Personality Disorders",
+      "Transient Psychotic Symptoms",
+      "Self-Harm",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A psychologist evaluates a client with severe depression accompanied by auditory hallucinations. Review of records shows that hallucinations persisted for three weeks after the depressive episode had completely resolved.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Major Depressive Disorder with Psychotic Features",
+      "Schizoaffective Disorder",
+      "Persistent Depressive Disorder",
+      "Delusional Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "The defining feature of Schizoaffective Disorder is the presence of psychotic symptoms for at least two weeks in the absence of a major mood episode. Because the hallucinations continued after the depressive episode resolved, the diagnosis is no longer Major Depressive Disorder with Psychotic Features.",
+    "incorrectExplanations": {
+      "0": "In Major Depressive Disorder with Psychotic Features, psychotic symptoms occur only during depressive episodes.",
+      "2": "Persistent Depressive Disorder does not include psychotic symptoms as a defining feature.",
+      "3": "Delusional Disorder does not adequately explain persistent auditory hallucinations."
+    },
+    "boardTip": "Psychosis outside mood episodes strongly suggests Schizoaffective Disorder.",
+    "keywords": [
+      "Schizoaffective Disorder",
+      "Major Depressive Disorder",
+      "Psychotic Features",
+      "Differential Diagnosis",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A psychologist receives the following information:\n\nClinical interview suggests Major Depressive Disorder.\nThe client's spouse reports episodes of elevated mood lasting one week.\nMedical records document hospitalization for mania five years earlier.\nThe client denies any history of mania.\n\nWhat is the BEST clinical decision?",
+    "choices": [
+      "Diagnose Major Depressive Disorder because the client denies mania.",
+      "Diagnose Bipolar I Disorder after integrating all available evidence.",
+      "Ignore collateral information because only self-report is valid.",
+      "Delay diagnosis until the client admits having mania."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Evidence-based assessment requires integrating information from multiple sources, including collateral reports and previous medical records. A documented manic episode is sufficient for a diagnosis of Bipolar I Disorder, even if the client lacks insight or denies experiencing mania.",
+    "incorrectExplanations": {
+      "0": "Self-report alone may be inaccurate or limited by poor insight.",
+      "2": "Collateral information is an important component of comprehensive psychological assessment.",
+      "3": "Diagnosis should be based on the totality of evidence rather than patient acknowledgment alone."
+    },
+    "boardTip": "Base diagnostic decisions on converging evidence from interviews, collateral sources, and records—not on a single source.",
+    "keywords": [
+      "Bipolar I Disorder",
+      "Collateral Information",
+      "Evidence-Based Assessment",
+      "Mania",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A 40-year-old client insists she has a fatal neurological disease despite extensive normal investigations. After each consultation, she immediately schedules another specialist because she believes previous physicians \"missed something.\"\n\nWhich feature MOST strongly distinguishes this presentation from Delusional Disorder?",
+    "choices": [
+      "The belief is health-related.",
+      "The client continues seeking reassurance and can consider alternative explanations, even if only briefly.",
+      "The client is female.",
+      "Medical investigations are normal."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Individuals with Illness Anxiety Disorder typically seek repeated reassurance and may temporarily consider alternative explanations, even if their anxiety quickly returns. In contrast, Delusional Disorder involves fixed false beliefs that remain largely resistant to contradictory evidence.",
+    "incorrectExplanations": {
+      "0": "Both Illness Anxiety Disorder and Delusional Disorder may involve health-related beliefs.",
+      "2": "Sex is not a diagnostic criterion for either disorder.",
+      "3": "Normal medical evaluations may occur in both conditions."
+    },
+    "boardTip": "Reassurance-seeking suggests anxiety; unwavering certainty despite evidence suggests delusion.",
+    "keywords": [
+      "Illness Anxiety Disorder",
+      "Delusional Disorder",
+      "Differential Diagnosis",
+      "Health Anxiety",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A psychologist evaluates a client immediately after a devastating typhoon. The client reports insomnia, intrusive memories, hypervigilance, crying spells, and emotional numbness for five days.\n\nWhat is the MOST appropriate diagnosis?",
+    "choices": [
+      "Posttraumatic Stress Disorder",
+      "Acute Stress Disorder",
+      "Adjustment Disorder",
+      "Major Depressive Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "The client experienced a qualifying traumatic event and developed characteristic trauma-related symptoms lasting between 3 days and 1 month, meeting DSM-5-TR criteria for Acute Stress Disorder. PTSD requires symptoms to persist for more than one month.",
+    "incorrectExplanations": {
+      "0": "PTSD requires symptoms lasting longer than one month.",
+      "2": "Adjustment Disorder does not include the characteristic trauma-related symptom clusters.",
+      "3": "The presentation is better explained by a trauma-related disorder than by a primary depressive disorder."
+    },
+    "boardTip": "For trauma questions, always identify the trauma, symptom cluster, and duration before making the diagnosis.",
+    "keywords": [
+      "Acute Stress Disorder",
+      "PTSD",
+      "Trauma",
+      "DSM-5-TR",
+      "Duration"
+    ]
+  },
+  {
+    "question": "A psychologist evaluates a client who reports hearing voices. The voices occur only while falling asleep and immediately upon awakening. The client has intact reality testing, no functional impairment, and no other psychotic symptoms.\n\nWhich interpretation is MOST appropriate?",
+    "choices": [
+      "Schizophrenia",
+      "Normal hypnagogic and hypnopompic hallucinations",
+      "Delusional Disorder",
+      "Brief Psychotic Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Hallucinations that occur during the transition between wakefulness and sleep (hypnagogic) or between sleep and wakefulness (hypnopompic) are relatively common and are not, by themselves, evidence of a psychotic disorder. Preserved insight, intact functioning, and the absence of additional psychotic symptoms support a normal sleep-related phenomenon.",
+    "incorrectExplanations": {
+      "0": "Schizophrenia requires persistent psychotic symptoms accompanied by functional impairment.",
+      "2": "Delusional Disorder is characterized by fixed false beliefs rather than sleep-related perceptual experiences.",
+      "3": "Brief Psychotic Disorder involves acute psychotic symptoms causing clinically significant impairment."
+    },
+    "boardTip": "Not every hallucination indicates psychosis. Always consider timing, context, insight, and associated symptoms before assigning a psychiatric diagnosis.",
+    "keywords": [
+      "Hypnagogic Hallucinations",
+      "Hypnopompic Hallucinations",
+      "Sleep Disorders",
+      "Psychosis",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A 30-year-old client presents with episodes of elevated mood lasting 8–10 days accompanied by grandiosity, decreased need for sleep, pressured speech, and excessive spending. During these episodes, he hears voices telling him he has been chosen by God. The hallucinations disappear completely when the manic symptoms resolve.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Schizoaffective Disorder",
+      "Bipolar I Disorder with Psychotic Features",
+      "Schizophrenia",
+      "Delusional Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "The client is experiencing a manic episode accompanied by psychotic symptoms. Because the hallucinations occur exclusively during the manic episode and resolve completely when the mood episode ends, the diagnosis is Bipolar I Disorder with Psychotic Features. In Schizoaffective Disorder, psychotic symptoms must persist for at least two weeks in the absence of a mood episode.",
+    "incorrectExplanations": {
+      "0": "Schizoaffective Disorder requires psychotic symptoms that occur independently of mood episodes.",
+      "2": "Schizophrenia is characterized by persistent psychotic symptoms that are not limited to mood episodes.",
+      "3": "Delusional Disorder does not account for prominent manic symptoms and hallucinations."
+    },
+    "boardTip": "Ask: 'Does psychosis occur outside the mood episode?' If yes, consider Schizoaffective Disorder. If no, think Bipolar I Disorder with Psychotic Features.",
+    "keywords": [
+      "Bipolar I Disorder",
+      "Psychotic Features",
+      "Mania",
+      "Schizoaffective Disorder",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A psychologist is asked to evaluate a client who insists that every task must be completed perfectly, refuses to delegate work, spends excessive time organizing schedules, and believes these behaviors are appropriate. He denies intrusive thoughts and does not perform rituals to reduce anxiety.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Obsessive-Compulsive Disorder",
+      "Obsessive-Compulsive Personality Disorder",
+      "Autism Spectrum Disorder",
+      "Generalized Anxiety Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "The client's pervasive perfectionism, rigidity, need for control, and belief that these behaviors are appropriate (ego-syntonic) are characteristic of Obsessive-Compulsive Personality Disorder. There are no intrusive obsessions or anxiety-driven compulsions, which distinguishes OCPD from OCD.",
+    "incorrectExplanations": {
+      "0": "Obsessive-Compulsive Disorder requires obsessions and/or compulsions that are ego-dystonic and performed to reduce anxiety.",
+      "2": "Autism Spectrum Disorder primarily involves deficits in social communication and restricted, repetitive behaviors beginning in early development.",
+      "3": "Generalized Anxiety Disorder does not explain a longstanding pattern of perfectionism and rigidity."
+    },
+    "boardTip": "Ego-syntonic perfectionism suggests OCPD. Ego-dystonic intrusive thoughts and compulsions suggest OCD.",
+    "keywords": [
+      "Obsessive-Compulsive Personality Disorder",
+      "Obsessive-Compulsive Disorder",
+      "Personality Disorders",
+      "DSM-5-TR",
+      "Differential Diagnosis"
+    ]
+  },
+  {
+    "question": "A 42-year-old man intentionally exaggerates back pain to obtain long-term disability benefits. Surveillance later shows him lifting heavy furniture without difficulty.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Somatic Symptom Disorder",
+      "Factitious Disorder Imposed on Self",
+      "Malingering",
+      "Conversion Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "The client is intentionally feigning symptoms for an obvious external incentive—obtaining disability benefits. This pattern is consistent with Malingering, which is not considered a mental disorder in the DSM-5-TR.",
+    "incorrectExplanations": {
+      "0": "Somatic Symptom Disorder involves genuine distress regarding physical symptoms rather than intentional deception.",
+      "1": "Factitious Disorder involves intentional symptom production motivated by assuming the sick role, not by external rewards.",
+      "3": "Conversion Disorder involves neurological symptoms that are not intentionally produced."
+    },
+    "boardTip": "External reward = Malingering. Psychological need to assume the sick role = Factitious Disorder.",
+    "keywords": [
+      "Malingering",
+      "Factitious Disorder",
+      "Somatic Symptom Disorder",
+      "Conversion Disorder",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A psychologist evaluates a recently immigrated client who reports hearing the comforting voice of a deceased ancestor during traditional mourning rituals. The experience is accepted within the client's cultural community, causes no distress, and does not impair functioning.\n\nWhat is the MOST appropriate clinical conclusion?",
+    "choices": [
+      "Schizophrenia",
+      "Brief Psychotic Disorder",
+      "No mental disorder; interpret the experience within the client's cultural context",
+      "Delusional Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "DSM-5-TR emphasizes considering cultural context when evaluating unusual experiences. Spiritual or religious experiences that are culturally accepted, cause no distress, preserve functioning, and occur within expected cultural practices should not automatically be considered psychopathology.",
+    "incorrectExplanations": {
+      "0": "Schizophrenia requires persistent psychotic symptoms associated with functional impairment.",
+      "1": "Brief Psychotic Disorder requires clinically significant psychotic symptoms that are not better explained by cultural practices.",
+      "3": "There is no evidence of a fixed false belief characteristic of Delusional Disorder."
+    },
+    "boardTip": "Always evaluate unusual perceptions within the client's cultural context before diagnosing a mental disorder.",
+    "keywords": [
+      "Cultural Formulation",
+      "DSM-5-TR",
+      "Bereavement",
+      "Psychosis",
+      "Cross-Cultural Assessment"
+    ]
+  },
+  {
+    "question": "A psychologist evaluates an examinee using:\n\nClinical interview,\nWAIS-IV,\nMMPI-2,\nBehavioral observation,\nCollateral interview,\nAcademic records. \n\nThe sources disagree substantially.\n\nWhich action BEST reflects evidence-based assessment?",
+    "choices": [
+      "Report only the WAIS-IV because intelligence tests are the most objective.",
+      "Report only the MMPI-2 because standardized personality measures are highly reliable.",
+      "Integrate all available information, investigate reasons for discrepancies, seek additional data if needed, and avoid conclusions unsupported by converging evidence.",
+      "Average all obtained scores into one overall psychological rating."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Evidence-based psychological assessment requires integrating information from multiple sources. When findings conflict, clinicians should evaluate the quality of each source, explore possible explanations for discrepancies (e.g., response bias, situational influences, measurement error), obtain additional information when appropriate, and base conclusions on the overall pattern of converging evidence while acknowledging uncertainty when necessary.",
+    "incorrectExplanations": {
+      "0": "Intelligence testing provides important information but should not override all other clinically relevant evidence.",
+      "1": "Personality inventories should be interpreted alongside interviews, observations, and collateral information.",
+      "3": "Different assessment instruments measure different constructs and cannot be validly averaged into a single overall score."
+    },
+    "boardTip": "The hallmark of competent assessment is integrating multiple sources of evidence—not relying on a single test or forcing agreement when data conflict.",
+    "keywords": [
+      "Evidence-Based Assessment",
+      "Psychological Assessment",
+      "WAIS-IV",
+      "MMPI-2",
+      "Clinical Decision Making"
+    ]
+  },
+   {
+    "question": "A 26-year-old graduate student reports hearing a critical voice every evening. She also has severe depressive symptoms. During further assessment, she reveals that the voices completely disappear whenever her depression remits. She has never experienced hallucinations outside depressive episodes.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Schizophrenia",
+      "Schizoaffective Disorder",
+      "Major Depressive Disorder with Psychotic Features",
+      "Persistent Depressive Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "The hallmark feature is that the hallucinations occur exclusively during depressive episodes and completely resolve when the depression remits. In DSM-5-TR, psychotic symptoms that are confined to mood episodes indicate Major Depressive Disorder with Psychotic Features. Schizoaffective Disorder requires at least two weeks of psychotic symptoms occurring without a major mood episode.",
+    "incorrectExplanations": {
+      "0": "Schizophrenia involves psychotic symptoms that are not restricted to depressive episodes.",
+      "1": "Schizoaffective Disorder requires psychosis independent of mood episodes, which is absent in this case.",
+      "3": "Persistent Depressive Disorder is characterized by chronic depression and does not typically include psychotic features."
+    },
+    "boardTip": "Psychosis only during depression → Major Depressive Disorder with Psychotic Features. Psychosis outside mood episodes → Consider Schizoaffective Disorder.",
+    "keywords": [
+      "Major Depressive Disorder",
+      "Psychotic Features",
+      "Schizoaffective Disorder",
+      "Mood Disorders",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A psychologist is evaluating an older adult who suddenly becomes disoriented, cannot sustain attention, experiences visual hallucinations, and fluctuates between alertness and confusion over several hours.\n\nWhat should be the psychologist's FIRST clinical consideration?",
+    "choices": [
+      "Alzheimer's Disease",
+      "Delirium secondary to a medical condition",
+      "Schizophrenia",
+      "Major Neurocognitive Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "The acute onset, fluctuating level of consciousness, impaired attention, and visual hallucinations are classic features of Delirium. Because delirium is often caused by an underlying medical condition or substance and may be reversible, prompt medical evaluation is the highest priority.",
+    "incorrectExplanations": {
+      "0": "Alzheimer's disease develops gradually over months to years rather than acutely over hours.",
+      "2": "Schizophrenia rarely presents with fluctuating consciousness and impaired attention.",
+      "3": "Major Neurocognitive Disorder generally has a chronic, progressive course rather than an abrupt onset."
+    },
+    "boardTip": "Acute confusion with fluctuating attention is Delirium until proven otherwise. Treat it as a medical emergency.",
+    "keywords": [
+      "Delirium",
+      "Major Neurocognitive Disorder",
+      "DSM-5-TR",
+      "Differential Diagnosis",
+      "Medical Conditions"
+    ]
+  },
+  {
+    "question": "A client reports intrusive thoughts of harming her infant. She is horrified by these thoughts, has never acted on them, avoids being alone with the child, and repeatedly seeks reassurance that she is not dangerous.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Antisocial Personality Disorder",
+      "Psychotic Disorder",
+      "Obsessive-Compulsive Disorder",
+      "Delusional Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "The intrusive thoughts are ego-dystonic, unwanted, and highly distressing, which is characteristic of obsessions in Obsessive-Compulsive Disorder. The client's preserved insight, avoidance behaviors, and reassurance seeking further support OCD rather than psychosis. Individuals with OCD are typically fearful of acting on their thoughts, not motivated by them.",
+    "incorrectExplanations": {
+      "0": "Antisocial Personality Disorder involves disregard for others and lack of remorse, not distress over intrusive thoughts.",
+      "1": "Psychotic Disorders usually involve impaired reality testing and poor insight, which are absent here.",
+      "3": "Delusional Disorder involves fixed false beliefs rather than intrusive unwanted thoughts."
+    },
+    "boardTip": "Intrusive violent thoughts that frighten the person usually indicate OCD—not dangerousness or psychosis.",
+    "keywords": [
+      "Obsessive-Compulsive Disorder",
+      "Obsessions",
+      "Postpartum OCD",
+      "Differential Diagnosis",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A psychologist receives the following information:\n\nMMPI-2 indicates severe depression.\nBehavioral observations reveal cheerful affect.\nCollateral reports describe normal daily functioning.\nValidity scales suggest exaggerated symptom reporting.\n\nWhat is the BEST interpretation?",
+    "choices": [
+      "The MMPI-2 is invalid and should always be discarded.",
+      "The behavioral observations should override all test results.",
+      "The discrepancy should be investigated before drawing conclusions.",
+      "Depression can be ruled out."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Evidence-based assessment requires integrating information from multiple sources. Conflicting findings should prompt further investigation into possible explanations such as response bias, symptom exaggeration, impression management, situational factors, genuine symptom fluctuation, or testing conditions before reaching diagnostic conclusions.",
+    "incorrectExplanations": {
+      "0": "Elevated validity scales require careful interpretation but do not automatically invalidate the entire assessment.",
+      "1": "Behavioral observations provide valuable information but should not outweigh all other evidence.",
+      "3": "Conflicting evidence does not justify ruling out depression without further evaluation."
+    },
+    "boardTip": "When assessment data conflict, investigate the discrepancy rather than relying on one preferred source.",
+    "keywords": [
+      "MMPI-2",
+      "Validity Scales",
+      "Evidence-Based Assessment",
+      "Response Bias",
+      "Psychological Assessment"
+    ]
+  },
+  {
+    "question": "A client presents with panic attacks, generalized anxiety, insomnia, depressive symptoms, alcohol misuse, and obsessive-compulsive symptoms.\n\nWhat is the psychologist's BEST initial approach?",
+    "choices": [
+      "Diagnose the disorder producing the most severe symptom.",
+      "Ignore less severe symptoms.",
+      "Conduct a comprehensive assessment to determine whether multiple diagnoses are warranted.",
+      "Wait until symptoms disappear naturally."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Psychiatric disorders commonly occur together (comorbidity). A comprehensive assessment should evaluate each symptom cluster independently, determine onset and duration, assess functional impairment, consider differential diagnoses, and diagnose all disorders that independently meet DSM-5-TR criteria. Treatment planning depends on accurately identifying all clinically significant conditions.",
+    "incorrectExplanations": {
+      "0": "DSM-5-TR allows multiple diagnoses when separate disorders are present.",
+      "1": "Less severe symptoms may still contribute substantially to impairment and require treatment.",
+      "3": "Delaying evaluation may postpone necessary treatment and increase the risk of worsening symptoms."
+    },
+    "boardTip": "Comorbidity is common. Assess each symptom cluster systematically before deciding on one or more diagnoses.",
+    "keywords": [
+      "Comorbidity",
+      "Differential Diagnosis",
+      "DSM-5-TR",
+      "Psychological Assessment",
+      "Clinical Decision Making"
+    ]
+  },
+   {
+    "question": "A client insists that spirits communicate with him during religious ceremonies. His community shares these beliefs, he functions well socially and occupationally, and he experiences no distress.\n\nWhich conclusion is MOST appropriate?",
+    "choices": [
+      "Schizophrenia",
+      "Delusional Disorder",
+      "No diagnosis because the experience is culturally normative",
+      "Brief Psychotic Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "DSM-5-TR emphasizes cultural formulation in diagnosis. Experiences that are widely accepted within an individual's cultural or religious community, do not cause distress, and do not impair functioning should not automatically be considered psychopathology. The client's experience is culturally normative and does not meet criteria for a mental disorder.",
+    "incorrectExplanations": {
+      "0": "Schizophrenia requires persistent psychotic symptoms and functional impairment, which are absent here.",
+      "1": "Delusional Disorder involves idiosyncratic fixed false beliefs that are not culturally shared.",
+      "3": "Brief Psychotic Disorder requires an acute psychotic episode causing clinically significant disturbance."
+    },
+    "boardTip": "Always ask whether the experience is abnormal within the person's cultural context, not merely unusual to the clinician.",
+    "keywords": [
+      "Cultural Formulation",
+      "DSM-5-TR",
+      "Religious Experience",
+      "Differential Diagnosis",
+      "Psychosis"
+    ]
+  },
+  {
+    "question": "A psychologist evaluates a client whose symptoms satisfy criteria for both Panic Disorder and Agoraphobia.\n\nAccording to DSM-5-TR, what is the BEST diagnostic approach?",
+    "choices": [
+      "Diagnose Panic Disorder only.",
+      "Diagnose Agoraphobia only.",
+      "Diagnose both Panic Disorder and Agoraphobia if criteria for each are met.",
+      "Choose whichever diagnosis appears first."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "DSM-5-TR separates Panic Disorder and Agoraphobia into distinct diagnoses. When a client meets full criteria for both conditions, both diagnoses should be assigned. This differs from DSM-IV, which used the combined diagnosis 'Panic Disorder with Agoraphobia.'",
+    "incorrectExplanations": {
+      "0": "This would ignore clinically significant agoraphobic symptoms.",
+      "1": "This would ignore recurrent unexpected panic attacks.",
+      "3": "Diagnoses are based on whether criteria are met, not on the order in which disorders appear."
+    },
+    "boardTip": "Remember the DSM-IV vs. DSM-5-TR change: Panic Disorder and Agoraphobia are now separate diagnoses.",
+    "keywords": [
+      "Panic Disorder",
+      "Agoraphobia",
+      "DSM-5-TR",
+      "Comorbidity",
+      "Differential Diagnosis"
+    ]
+  },
+  {
+    "question": "A psychologist suspects that a client's unusual beliefs may reflect cultural traditions rather than psychopathology.\n\nWhich DSM-5-TR tool would BEST assist in this evaluation?",
+    "choices": [
+      "Beck Depression Inventory-II",
+      "Cultural Formulation Interview (CFI)",
+      "MMPI-2",
+      "WAIS-IV"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "The Cultural Formulation Interview (CFI) was developed to help clinicians understand the client's cultural identity, cultural explanations of illness, stressors and supports, help-seeking patterns, and the clinician-patient relationship. It is specifically designed to reduce diagnostic errors related to cultural misunderstanding.",
+    "incorrectExplanations": {
+      "0": "The BDI-II measures depressive symptoms, not cultural context.",
+      "2": "The MMPI-2 assesses personality and psychopathology but is not the primary DSM-5-TR tool for cultural formulation.",
+      "3": "The WAIS-IV measures intellectual functioning and does not evaluate cultural explanations of symptoms."
+    },
+    "boardTip": "The CFI is the DSM-5-TR tool specifically designed to integrate culture into assessment and diagnosis.",
+    "keywords": [
+      "Cultural Formulation Interview",
+      "CFI",
+      "DSM-5-TR",
+      "Cross-Cultural Assessment",
+      "Diagnostic Evaluation"
+    ]
+  },
+  {
+    "question": "A client has schizophrenia and develops a major depressive episode. During the depressive episode, psychotic symptoms continue unchanged. After the depression resolves, the hallucinations and delusions remain.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Major Depressive Disorder with Psychotic Features",
+      "Schizoaffective Disorder",
+      "Persistent Depressive Disorder",
+      "Bipolar I Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Schizoaffective Disorder is defined by the presence of psychotic symptoms that occur both during mood episodes and for at least two weeks in the absence of a major mood episode. Because hallucinations and delusions persist even after the depressive episode resolves, the psychosis is not confined to the mood episode.",
+    "incorrectExplanations": {
+      "0": "In Major Depressive Disorder with Psychotic Features, psychotic symptoms occur only during depressive episodes.",
+      "2": "Persistent Depressive Disorder does not explain persistent hallucinations and delusions.",
+      "3": "No manic episode is described, so Bipolar I Disorder is not supported."
+    },
+    "boardTip": "The timing of psychosis relative to mood episodes is one of the highest-yield schizophrenia-spectrum distinctions on board exams.",
+    "keywords": [
+      "Schizoaffective Disorder",
+      "Schizophrenia",
+      "Major Depressive Disorder",
+      "Psychotic Features",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A psychologist evaluates an examinee using structured interviews, behavioral observations, collateral information, psychometric testing, and review of medical records. The findings are consistent across methods.\n\nWhat principle of psychological assessment is BEST demonstrated?",
+    "choices": [
+      "Face validity",
+      "Reliability",
+      "Convergent validity through multimethod assessment",
+      "Response bias"
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "When multiple independent assessment methods converge on the same conclusion, confidence in the interpretation increases. Agreement among interviews, observations, collateral reports, psychometric tests, and records represents convergent validity obtained through multimethod assessment, a central principle of evidence-based psychological practice.",
+    "incorrectExplanations": {
+      "0": "Face validity concerns whether a measure appears to assess what it claims to measure.",
+      "1": "Reliability refers to consistency of measurement, not agreement across different methods.",
+      "3": "Response bias would undermine confidence in the findings rather than strengthen it."
+    },
+    "boardTip": "The strongest psychological conclusions come from multiple independent methods that converge on the same interpretation.",
+    "keywords": [
+      "Convergent Validity",
+      "Multimethod Assessment",
+      "Evidence-Based Assessment",
+      "Psychological Testing",
+      "Clinical Integration"
+    ]
+  },
+    {
+    "question": "A psychologist evaluates a client presenting with panic attacks, obsessive-compulsive symptoms, depressive symptoms, alcohol misuse, and insomnia. The psychologist has only one hour for the intake assessment.\n\nWhat is the BEST clinical priority?",
+    "choices": [
+      "Diagnose the most obvious disorder immediately.",
+      "Focus only on the complaint that brought the client to treatment.",
+      "Conduct a systematic assessment to identify immediate safety concerns, determine which DSM-5-TR criteria are met, assess for comorbidity, and prioritize conditions requiring urgent intervention.",
+      "Delay diagnosis until symptoms naturally separate over time."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "In complex presentations, the clinician's first responsibility is to ensure safety while conducting a comprehensive diagnostic evaluation. This includes assessing suicide and homicide risk, evaluating substance use, determining whether multiple disorders are present, prioritizing urgent conditions, and applying DSM-5-TR criteria systematically before making diagnostic conclusions.",
+    "incorrectExplanations": {
+      "0": "Prematurely diagnosing the most obvious disorder increases the risk of overlooking comorbid conditions or urgent safety issues.",
+      "1": "The presenting complaint may not represent the client's most clinically significant or dangerous condition.",
+      "3": "Delaying assessment may postpone necessary intervention and increase clinical risk."
+    },
+    "boardTip": "In complicated clinical cases, always assess safety first, then evaluate comorbidity before refining diagnoses.",
+    "keywords": [
+      "Clinical Priorities",
+      "Comorbidity",
+      "Risk Assessment",
+      "DSM-5-TR",
+      "Evidence-Based Assessment"
+    ]
+  },
+  {
+    "question": "A client with severe depression expresses suicidal thoughts. He denies having a plan or intent, reports strong family support, and agrees to seek help if his thoughts worsen.\n\nWhat is the psychologist's BEST immediate action?",
+    "choices": [
+      "Ignore the suicidal thoughts because there is no plan.",
+      "Immediately conclude that hospitalization is required.",
+      "Conduct a comprehensive suicide risk assessment, document protective and risk factors, develop a safety plan, and determine the appropriate level of care.",
+      "Continue the interview without addressing suicide further."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Any report of suicidal ideation requires a structured suicide risk assessment. The psychologist should evaluate the severity, frequency, intent, plan, previous attempts, access to means, protective factors, and determine the appropriate level of intervention. A collaborative safety plan and careful documentation are essential components of evidence-based practice.",
+    "incorrectExplanations": {
+      "0": "Suicidal ideation should never be ignored, even when there is no specific plan or intent.",
+      "1": "Hospitalization may be appropriate for high-risk clients, but additional assessment is needed before determining the level of care.",
+      "3": "Failing to assess suicidal thoughts would violate good clinical practice and may place the client at risk."
+    },
+    "boardTip": "Every expression of suicidal ideation deserves a structured suicide risk assessment—even when intent or planning is denied.",
+    "keywords": [
+      "Suicide Risk Assessment",
+      "Safety Planning",
+      "Major Depressive Disorder",
+      "Clinical Decision Making",
+      "Risk Management"
+    ]
+  },
+  {
+    "question": "A client reports hearing the comforting voice of her deceased husband every night for two weeks after his funeral. She understands the experience may be related to grief, has no other psychotic symptoms, and continues functioning well.\n\nWhat is the BEST clinical interpretation?",
+    "choices": [
+      "Schizophrenia",
+      "Major Depressive Disorder with Psychotic Features",
+      "A grief-related experience that should be interpreted within cultural and clinical context",
+      "Brief Psychotic Disorder"
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Transient sensory experiences of a deceased loved one commonly occur during normal bereavement. Preserved insight, intact functioning, absence of additional psychotic symptoms, and the close temporal relationship to the loss support a normative grief reaction rather than a psychiatric disorder. DSM-5-TR recommends considering bereavement and cultural context before diagnosing psychosis.",
+    "incorrectExplanations": {
+      "0": "Schizophrenia requires persistent psychotic symptoms accompanied by functional impairment.",
+      "1": "There is no evidence of a major depressive episode with psychotic features.",
+      "3": "Brief Psychotic Disorder involves clinically significant psychotic symptoms causing marked disturbance."
+    },
+    "boardTip": "Context, insight, duration, and functional impairment are essential before diagnosing psychosis during bereavement.",
+    "keywords": [
+      "Bereavement",
+      "Grief",
+      "Differential Diagnosis",
+      "Psychosis",
+      "DSM-5-TR"
+    ]
+  },
+  {
+    "question": "A psychologist suspects that a client's elevated mood may have been caused by cocaine intoxication rather than Bipolar I Disorder.\n\nWhat is the BEST diagnostic approach?",
+    "choices": [
+      "Diagnose Bipolar I Disorder immediately.",
+      "Diagnose both disorders without further evaluation.",
+      "Determine whether the mood symptoms are better explained by substance use before assigning a primary bipolar diagnosis.",
+      "Ignore the history of substance use."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "DSM-5-TR requires clinicians to determine whether psychiatric symptoms are better explained by the physiological effects of a substance or medication before diagnosing a primary mental disorder. If symptoms occur only during intoxication or withdrawal and resolve afterward, a Substance/Medication-Induced Bipolar and Related Disorder may be more appropriate than Bipolar I Disorder.",
+    "incorrectExplanations": {
+      "0": "A primary bipolar diagnosis should not be made until substance-induced causes have been excluded.",
+      "1": "Multiple diagnoses should only be assigned if each disorder independently meets DSM-5-TR criteria.",
+      "3": "Ignoring substance use history may result in an inaccurate diagnosis."
+    },
+    "boardTip": "Before diagnosing any primary psychiatric disorder, always rule out substance-induced and medical causes.",
+    "keywords": [
+      "Substance-Induced Disorders",
+      "Bipolar Disorder",
+      "Differential Diagnosis",
+      "DSM-5-TR",
+      "Cocaine"
+    ]
+  },
+  {
+    "question": "A psychologist evaluates a client from a cultural background in which communication with ancestors is considered a normal spiritual practice. The client experiences these events only during religious ceremonies, functions well, and experiences no distress.\n\nWhich principle BEST guides diagnosis?",
+    "choices": [
+      "Any hallucination indicates psychosis.",
+      "Cultural context should be integrated into diagnostic decision-making.",
+      "Religious beliefs are excluded from assessment.",
+      "The presence of unusual perceptions always requires psychiatric treatment."
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "DSM-5-TR emphasizes that clinicians should interpret symptoms within the individual's cultural and religious context. Experiences that are culturally accepted, cause no distress, and do not impair functioning should not automatically be considered evidence of psychopathology. Cultural competence is an essential aspect of ethical and accurate diagnosis.",
+    "incorrectExplanations": {
+      "0": "Not all unusual perceptions indicate psychosis; cultural and spiritual experiences must be considered.",
+      "2": "Religious beliefs are an important component of psychological assessment and cultural formulation.",
+      "3": "Treatment decisions depend on distress, impairment, and diagnostic criteria—not simply on unusual experiences."
+    },
+    "boardTip": "Always integrate cultural formulation into diagnosis. Context determines whether an experience is normative or pathological.",
+    "keywords": [
+      "Cultural Competence",
+      "DSM-5-TR",
+      "Cultural Formulation",
+      "Religious Beliefs",
+      "Differential Diagnosis"
+    ]
+  },
+   {
+    "question": "A psychologist receives conflicting information from self-report, collateral interviews, behavioral observations, and psychological tests.\n\nWhich principle should guide the final diagnostic formulation?",
+    "choices": [
+      "Self-report always takes precedence.",
+      "Psychological tests always override interviews.",
+      "The diagnosis should reflect the integrated weight of evidence while acknowledging unresolved uncertainty.",
+      "The clinician should average all findings into one conclusion."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Evidence-based psychological assessment requires integrating information from multiple sources rather than relying on any single measure. When findings conflict, psychologists should evaluate the quality and credibility of each source, investigate reasons for discrepancies, obtain additional information if necessary, and communicate any remaining uncertainty rather than overstating diagnostic confidence.",
+    "incorrectExplanations": {
+      "0": "Self-report may be influenced by poor insight, memory limitations, denial, or response bias.",
+      "1": "Psychological tests are valuable tools but complement rather than replace clinical interviews and other assessment methods.",
+      "3": "Different assessment methods measure different constructs and cannot simply be averaged into one conclusion."
+    },
+    "boardTip": "Diagnosis is based on evidence integration—not choosing one source over another.",
+    "keywords": [
+      "Evidence-Based Assessment",
+      "Diagnostic Formulation",
+      "Clinical Judgment",
+      "Multimethod Assessment",
+      "Psychological Testing"
+    ]
+  },
+  {
+    "question": "A client has schizophrenia and later develops a major depressive episode. Throughout the depressive episode, hallucinations remain unchanged, and psychotic symptoms continue after the depression resolves.\n\nWhich diagnosis is MOST appropriate?",
+    "choices": [
+      "Major Depressive Disorder with Psychotic Features",
+      "Schizoaffective Disorder",
+      "Persistent Depressive Disorder",
+      "Bipolar II Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Schizoaffective Disorder requires the presence of a major mood episode together with schizophrenia-spectrum symptoms, plus at least two weeks of hallucinations or delusions occurring in the absence of a major mood episode. Because psychotic symptoms persist independently of the depressive episode, Schizoaffective Disorder is the most appropriate diagnosis.",
+    "incorrectExplanations": {
+      "0": "In Major Depressive Disorder with Psychotic Features, psychotic symptoms occur only during depressive episodes.",
+      "2": "Persistent Depressive Disorder does not account for persistent psychotic symptoms.",
+      "3": "No hypomanic or manic episodes are described."
+    },
+    "boardTip": "Psychosis outside mood episodes = Schizoaffective Disorder.",
+    "keywords": [
+      "Schizoaffective Disorder",
+      "Schizophrenia",
+      "Major Depressive Disorder",
+      "Psychotic Features",
+      "Differential Diagnosis"
+    ]
+  },
+  {
+    "question": "During an intake interview, a client reports auditory hallucinations. Further questioning reveals they occur only while falling asleep or waking up, with no distress, no impairment, and preserved reality testing.\n\nWhat is the BEST interpretation?",
+    "choices": [
+      "Schizophrenia",
+      "Hypnagogic/Hypnopompic hallucinations",
+      "Delusional Disorder",
+      "Brief Psychotic Disorder"
+    ],
+    "answer": 1,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate",
+    "explanation": "Hypnagogic (while falling asleep) and hypnopompic (upon awakening) hallucinations are relatively common sleep-related experiences and are not considered evidence of psychosis when they occur in isolation. Preserved insight, absence of functional impairment, and timing during sleep-wake transitions support a normal phenomenon rather than a psychiatric disorder.",
+    "incorrectExplanations": {
+      "0": "Schizophrenia requires persistent psychotic symptoms associated with impaired functioning.",
+      "2": "Delusional Disorder is characterized by fixed false beliefs rather than isolated sleep-related hallucinations.",
+      "3": "Brief Psychotic Disorder involves clinically significant psychotic symptoms causing marked disturbance."
+    },
+    "boardTip": "Always determine when hallucinations occur. Sleep-transition experiences are often non-pathological.",
+    "keywords": [
+      "Hypnagogic Hallucinations",
+      "Hypnopompic Hallucinations",
+      "Sleep Disorders",
+      "Psychosis",
+      "Differential Diagnosis"
+    ]
+  },
+  {
+    "question": "A psychologist is uncertain whether a client's unusual beliefs reflect psychopathology or culturally normative religious experiences.\n\nWhich action is MOST consistent with evidence-based and ethical practice?",
+    "choices": [
+      "Diagnose a psychotic disorder because the beliefs are unusual.",
+      "Ignore the beliefs because they are religious.",
+      "Explore the beliefs using a culturally informed assessment (e.g., the Cultural Formulation Interview), evaluate distress and impairment, and integrate this information into the diagnostic formulation.",
+      "Delay all assessment indefinitely."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Synthesize",
+    "explanation": "Ethical and evidence-based practice requires psychologists to assess unusual beliefs within the individual's cultural and religious context. The DSM-5-TR Cultural Formulation Interview (CFI) can help determine whether experiences are culturally normative and whether they are associated with clinically significant distress or impairment before assigning a psychiatric diagnosis.",
+    "incorrectExplanations": {
+      "0": "Unusual beliefs alone are insufficient to diagnose a psychotic disorder.",
+      "1": "Religious beliefs should be explored clinically rather than ignored.",
+      "3": "Assessment should continue using appropriate culturally informed methods."
+    },
+    "boardTip": "Culture, context, distress, and impairment should all be considered before diagnosing psychopathology.",
+    "keywords": [
+      "Cultural Formulation Interview",
+      "DSM-5-TR",
+      "Cultural Competence",
+      "Ethics",
+      "Differential Diagnosis"
+    ]
+  },
+  {
+    "question": "A psychologist completes a comprehensive assessment using a clinical interview, mental status examination, behavioral observation, psychological testing, collateral interviews, medical records, and cultural formulation. Some findings support one diagnosis, while others suggest an alternative diagnosis.\n\nWhich conclusion BEST reflects evidence-based psychological practice?",
+    "choices": [
+      "Select the diagnosis supported by the single 'best' psychological test.",
+      "Choose the diagnosis with the greatest number of supporting symptoms, even if conflicting evidence is ignored.",
+      "Integrate all available evidence, evaluate the quality and relevance of each source, explain any diagnostic uncertainty, and revise the formulation if new information emerges.",
+      "Delay all conclusions until every possible uncertainty has been eliminated."
+    ],
+    "answer": 2,
+    "difficulty": "Master",
+    "cognitiveLevel": "Evaluate & Synthesize",
+    "explanation": "Modern evidence-based assessment requires clinicians to synthesize information from multiple methods, weigh the strengths and limitations of each source, consider contextual and cultural influences, acknowledge uncertainty when appropriate, and revise diagnostic formulations as new evidence becomes available. This approach reflects both scientific reasoning and ethical clinical practice.",
+    "incorrectExplanations": {
+      "0": "No single psychological test is sufficient to establish a diagnosis in isolation.",
+      "1": "Ignoring conflicting evidence increases the likelihood of diagnostic error.",
+      "3": "Clinical decisions often must be made despite some uncertainty; absolute certainty is rarely attainable."
+    },
+    "boardTip": "The strongest psychological diagnoses come from converging evidence across multiple assessment methods—not from any single source.",
+    "keywords": [
+      "Evidence-Based Assessment",
+      "Diagnostic Formulation",
+      "Multimethod Assessment",
+      "Clinical Judgment",
+      "Psychological Assessment"
+    ]
   }
 ]
